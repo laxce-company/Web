@@ -9,7 +9,7 @@ import { usePathname } from "next/navigation"
 import { useTheme } from "@/components/theme-provider"
 import Image from "next/image"
 import { AppDropdown } from "@/components/app-dropdown"
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 
 export function Navigation() {
   const [isOpen, setIsOpen] = useState(false)
@@ -18,6 +18,7 @@ export function Navigation() {
   const { theme, toggleTheme } = useTheme()
   const pathname = usePathname()
   const t = useTranslations()
+  const locale = useLocale()
 
   useEffect(() => {
     setMounted(true)
@@ -28,6 +29,18 @@ export function Navigation() {
     console.log("Theme toggle clicked, current theme:", theme)
     toggleTheme()
     console.log("Theme toggle executed")
+  }
+
+  // Helper function to check if a path is active
+  const isActivePath = (path: string) => {
+    // Remove locale from pathname for comparison
+    const pathWithoutLocale = pathname.replace(`/${locale}`, '') || '/'
+    return pathWithoutLocale === path
+  }
+
+  // Helper function to create localized links
+  const createLocalizedLink = (path: string) => {
+    return `/${locale}${path}`
   }
 
   const ecosystemItems = [
@@ -90,9 +103,9 @@ export function Navigation() {
           <nav className="hidden lg:flex items-center space-x-2 nav-desktop">
             {/* Home */}
             <Link
-              href="/"
+              href={createLocalizedLink("/")}
               className={`flex items-center space-x-2 px-4 py-2 rounded-xl transition-all duration-200 ${
-                pathname === "/"
+                isActivePath("/")
                   ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white shadow-lg shadow-[#0B6BAB]/25"
                   : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
               }`}
@@ -103,9 +116,9 @@ export function Navigation() {
 
             {/* Wallet */}
             <Link
-              href="/wallet"
+              href={createLocalizedLink("/wallet")}
               className={`flex items-center space-x-2 px-4 py-2 rounded-xl transition-all duration-200 ${
-                pathname === "/wallet"
+                isActivePath("/wallet")
                   ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white shadow-lg shadow-[#0B6BAB]/25"
                   : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
               }`}
@@ -116,9 +129,9 @@ export function Navigation() {
 
             {/* DEX */}
             <Link
-              href="/dex"
+              href={createLocalizedLink("/dex")}
               className={`flex items-center space-x-2 px-4 py-2 rounded-xl transition-all duration-200 ${
-                pathname === "/dex"
+                isActivePath("/dex")
                   ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white shadow-lg shadow-[#0B6BAB]/25"
                   : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
               }`}
@@ -132,7 +145,7 @@ export function Navigation() {
               <Button
                 variant="ghost"
                 className={`flex items-center space-x-2 px-4 py-2 rounded-xl transition-all duration-200 ${
-                  ecosystemItems.some(item => pathname === item.href)
+                  ecosystemItems.some(item => isActivePath(item.href))
                     ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white shadow-lg shadow-[#0B6BAB]/25"
                     : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
                 }`}
@@ -153,9 +166,9 @@ export function Navigation() {
                   {ecosystemItems.map((item) => (
                     <Link
                       key={item.href}
-                      href={item.href}
+                      href={createLocalizedLink(item.href)}
                       className={`flex items-center space-x-3 px-4 py-3 transition-all duration-200 ${
-                        pathname === item.href
+                        isActivePath(item.href)
                           ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white"
                           : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
                       }`}
@@ -224,9 +237,9 @@ export function Navigation() {
             <nav className="space-y-2">
               {/* Home */}
               <Link
-                href="/"
+                href={createLocalizedLink("/")}
                 className={`flex items-center justify-between space-x-3 px-4 py-3 rounded-xl transition-all duration-200 ${
-                  pathname === "/"
+                  isActivePath("/")
                     ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white"
                     : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
                 }`}
@@ -238,9 +251,9 @@ export function Navigation() {
 
               {/* Wallet */}
               <Link
-                href="/wallet"
+                href={createLocalizedLink("/wallet")}
                 className={`flex items-center justify-between space-x-3 px-4 py-3 rounded-xl transition-all duration-200 ${
-                  pathname === "/wallet"
+                  isActivePath("/wallet")
                     ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white"
                     : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
                 }`}
@@ -252,9 +265,9 @@ export function Navigation() {
 
               {/* DEX */}
               <Link
-                href="/dex"
+                href={createLocalizedLink("/dex")}
                 className={`flex items-center justify-between space-x-3 px-4 py-3 rounded-xl transition-all duration-200 ${
-                  pathname === "/dex"
+                  isActivePath("/dex")
                     ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white"
                     : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
                 }`}
@@ -286,9 +299,9 @@ export function Navigation() {
                 {ecosystemItems.map((item) => (
                   <Link
                     key={item.href}
-                    href={item.href}
+                    href={createLocalizedLink(item.href)}
                     className={`flex items-center justify-between space-x-3 px-4 py-3 rounded-xl transition-all duration-200 ml-4 ${
-                      pathname === item.href
+                      isActivePath(item.href)
                         ? "bg-gradient-to-r from-[#0B6BAB] to-[#0BAB9B] text-white"
                         : "text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/10"
                     }`}
