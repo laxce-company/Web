@@ -1,0 +1,2195 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "wallet": "Billetera",
+    "dex": "DEX",
+    "roadmap": "Hoja de Ruta",
+    "whitepaper": "Libro Blanco",
+    "tokenomics": "Tokenómica",
+    "ecosystem": "Ecosistema"
+  },
+  "home": {
+    "hero": {
+      "badge": "Todo en Uno DeFi",
+      "title": "El Futuro de DeFi Está Aquí",
+      "subtitle": "Billetera segura multi-cadena con DEX integrado, puente entre cadenas y cero comisiones de trading. Tu puerta de entrada al futuro descentralizado.",
+      "mainTitle": "Billetera y DEX",
+      "description": "Billetera segura multi-cadena con intercambio descentralizado integrado, puente entre cadenas y cero comisiones de trading. Tu puerta de entrada al futuro descentralizado.",
+      "cta": "Comenzar",
+      "learnMore": "Saber Más"
+    },
+    "features": {
+      "title": "¿Por Qué Elegir Laxce?",
+      "subtitle": "Descubre las características que hacen de Laxce la plataforma DeFi definitiva",
+      "badge": "Características",
+      "heading": "Todo lo que Necesitas para el Éxito en DeFi",
+      "description": "Una aplicación para todas tus necesidades de DeFi. Billetera segura, trading instantáneo y puentes entre cadenas.",
+      "secure": {
+        "badge": "100% seguro",
+        "title": "Billetera Segura",
+        "description": "Billetera multi-cadena con características de seguridad avanzadas y auto-custodia"
+      },
+      "fees": {
+        "badge": "0% comisiones",
+        "title": "DEX Integrado",
+        "description": "Comercia directamente desde tu billetera con cero comisiones e intercambios instantáneos"
+      },
+      "chains": {
+        "badge": "10+ cadenas",
+        "title": "Puente Entre Cadenas",
+        "description": "Mueve activos sin problemas a través de múltiples redes blockchain"
+      },
+      "speed": {
+        "badge": "0.1s promedio",
+        "title": "Rápido como el Rayo",
+        "description": "Ejecuta operaciones en milisegundos con nuestro motor optimizado"
+      },
+      "wallet": {
+        "title": "Billetera Segura",
+        "description": "Billetera multi-cadena con características de seguridad avanzadas e interfaz fácil de usar"
+      },
+      "dex": {
+        "title": "Trading DEX",
+        "description": "Intercambio descentralizado con operaciones rápidas como un rayo y tarifas mínimas"
+      },
+      "bridge": {
+        "title": "Puente Entre Cadenas",
+        "description": "Transfiere activos sin problemas entre diferentes redes blockchain"
+      },
+      "staking": {
+        "title": "Recompensas de Staking",
+        "description": "Gana ingresos pasivos apostando tus tokens con APY competitivo"
+      }
+    },
+    "journey": {
+      "title": "Nuestro Viaje al Futuro",
+      "subtitle": "Hitos que definen nuestro camino hacia revolucionar DeFi",
+      "phase1": {
+        "title": "Fase de Fundación",
+        "description": "Desarrollo de la plataforma central y auditorías de seguridad",
+        "status": "Completado"
+      },
+      "phase2": {
+        "title": "Fase de Lanzamiento",
+        "description": "Lanzamiento de billetera y DEX con características básicas",
+        "status": "En Progreso"
+      },
+      "phase3": {
+        "title": "Fase de Expansión",
+        "description": "Características avanzadas e integración entre cadenas",
+        "status": "Próximamente"
+      },
+      "phase4": {
+        "title": "Fase del Ecosistema",
+        "description": "Ecosistema DeFi completo con gobernanza y DAO",
+        "status": "Próximamente"
+      }
+    },
+    "stats": {
+      "count1": "50K+",
+      "label1": "Usuarios Activos",
+      "growth1": "+15%",
+      "count2": "$2.5B",
+      "label2": "Volumen de Trading",
+      "growth2": "+45%",
+      "count3": "99.9%",
+      "label3": "Tiempo de Actividad",
+      "growth3": "99.9%",
+      "count4": "24/7",
+      "label4": "Soporte",
+      "growth4": "Instantáneo",
+      "users": "Usuarios Activos",
+      "volume": "Volumen de Trading",
+      "tokens": "Tokens Soportados",
+      "chains": "Redes Blockchain",
+      "activeusers": "Usuarios Activos",
+      "volumetraded": "Volumen Comerciado",
+      "uptime": "Tiempo de Actividad",
+      "support": "Soporte"
+    },
+    "howItWorks": {
+      "badge": "Primeros Pasos",
+      "title": "Cómo Comenzar en 4 Simples Pasos",
+      "step1": {
+        "number": "01",
+        "title": "Descargar e Instalar",
+        "description": "Obtén Laxce desde tu tienda de aplicaciones o descarga el APK directamente"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Crear Billetera",
+        "description": "Genera tu billetera segura con protección de frase de respaldo"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Comenzar a Comerciar",
+        "description": "Conéctate al DEX y comienza a comerciar con cero comisiones instantáneamente"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Transferir Activos",
+        "description": "Usa el puente entre cadenas para mover activos entre redes"
+      }
+    },
+    "security": {
+      "badge": "Seguridad Primero",
+      "title": "Tu Seguridad es Nuestra Máxima Prioridad",
+      "subtitle": "Hemos implementado medidas de seguridad de nivel empresarial para asegurar que tus activos y datos permanezcan completamente seguros y privados.",
+      "biometric": {
+        "title": "Seguridad Biométrica",
+        "description": "Reconocimiento de huella dactilar y facial para acceso rápido y seguro"
+      },
+      "privacy": {
+        "title": "Privacidad Primero",
+        "description": "Tus datos permanecen en tu dispositivo. Nunca accedemos a tus claves privadas"
+      },
+      "encryption": {
+        "title": "Almacenamiento Cifrado",
+        "description": "Todos los datos sensibles están cifrados con algoritmos de grado militar"
+      },
+      "multiSig": {
+        "title": "Soporte Multi-Firma",
+        "description": "Billeteras multi-firma avanzadas para seguridad mejorada"
+      },
+      "features": {
+        "militaryGrade": "Seguridad de Grado Militar",
+        "encryption": "Cifrado",
+        "selfCustody": "Auto-Custodia",
+        "biometricAccess": "Acceso Biométrico",
+        "multiSigSupport": "Soporte Multi-Firma"
+      }
+    },
+    "supportedChains": {
+      "badge": "Soporte Multi-Cadena",
+      "title": "Soporte para las Principales Blockchains",
+      "subtitle": "Accede a todo el ecosistema DeFi a través de múltiples redes blockchain desde una sola billetera.",
+      "chains": {
+        "bitcoin": "Bitcoin",
+        "ethereum": "Ethereum",
+        "bsc": "Binance Smart Chain",
+        "polygon": "Polygon",
+        "solana": "Solana",
+        "xrp": "XRP"
+      }
+    },
+    "tokenomics": {
+      "badge": "TOKENÓMICA LAXCE V1-2024",
+      "title": "Economía del Token $LAX",
+      "subtitle": "El token $LAX impulsa nuestro ecosistema con derechos de gobernanza, recompensas de staking y beneficios exclusivos de la plataforma. Construido en Ethereum con compatibilidad multi-cadena futura.",
+      "totalSupply": {
+        "value": "500M",
+        "label": "Suministro Total"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "Símbolo del Token"
+      },
+      "viewFull": "Ver Tokenómica Completa",
+      "distribution": {
+        "title": "Distribución de Tokens",
+        "publicSale": {
+          "label": "Venta Pública",
+          "percentage": "40%"
+        },
+        "privateSale": {
+          "label": "Venta Privada",
+          "percentage": "20%"
+        },
+        "reserveFund": {
+          "label": "Fondo de Reserva",
+          "percentage": "15%"
+        },
+        "stakingRewards": {
+          "label": "Recompensas de Staking",
+          "percentage": "15%"
+        },
+        "teamAdvisors": {
+          "label": "Equipo y Asesores",
+          "percentage": "10%"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Reseñas de Usuarios",
+      "title": "Lo Que Dicen Nuestros Usuarios",
+      "reviews": [
+        {
+          "content": "Laxce ha revolucionado mi experiencia de trading. La velocidad y seguridad son incomparables.",
+          "name": "Alex Chen",
+          "role": "Trader DeFi",
+          "avatar": "AC",
+          "rating": 5
+        },
+        {
+          "content": "Finalmente, una billetera que pone la seguridad primero sin comprometer las características.",
+          "name": "Sarah Johnson",
+          "role": "Inversor Crypto",
+          "avatar": "SJ",
+          "rating": 5
+        },
+        {
+          "content": "La característica del puente entre cadenas es un cambio de juego para mis operaciones DeFi.",
+          "name": "Mike Rodriguez",
+          "role": "Desarrollador Blockchain",
+          "avatar": "MR",
+          "rating": 5
+        }
+      ]
+    },
+    "roadmap": {
+      "badge": "Hoja de Ruta de Desarrollo",
+      "title": "Nuestro Viaje al Futuro",
+      "subtitle": "Construyendo el futuro de las finanzas descentralizadas y la tokenización de activos del mundo real. Desde la fundación hasta la expansión global, cada hito nos acerca más a revolucionar las finanzas digitales.",
+      "phases": {
+        "q4_2024": {
+          "quarter": "Q4 2024",
+          "status": "Completado",
+          "title": "Fundación y Lanzamiento de Token",
+          "description": "Infraestructura central y lanzamiento de token nativo",
+          "items": [
+            "Lanzamiento del token nativo LAXCE (LAX)",
+            "Lanzamiento de la red de pruebas pública",
+            "Marco de gobernanza descentralizada",
+            "Lanzamiento de Laxcedex DEX en Ethereum"
+          ]
+        },
+        "q1_2025": {
+          "quarter": "Q1 2025",
+          "status": "Completado",
+          "title": "Mainnet y Herramientas para Desarrolladores",
+          "description": "Lanzamiento de mainnet y ecosistema completo para desarrolladores",
+          "items": [
+            "Lanzamiento de mainnet en Polygon CDK Validium",
+            "Lanzamiento de herramientas y APIs para desarrolladores",
+            "Desarrollo de asociaciones del ecosistema",
+            "Plataforma de tokenización de activos del mundo real"
+          ]
+        },
+        "q2_2025": {
+          "quarter": "Q2 2025",
+          "status": "Completado",
+          "title": "Entre Cadenas y Empresarial",
+          "description": "Interoperabilidad y soluciones empresariales",
+          "items": [
+            "Implementación de interoperabilidad entre cadenas",
+            "Desarrollo de soluciones de grado empresarial",
+            "Crecimiento comunitario y participación",
+            "Asociaciones de gateway para comerciantes"
+          ]
+        },
+        "q3_2025": {
+          "quarter": "Q3 2025",
+          "status": "Actual",
+          "title": "Tokenización de Activos del Mundo Real",
+          "description": "Proyectos piloto para tokenización de activos del mundo real",
+          "items": [
+            "Pilotos de tokenización de bienes raíces",
+            "Proyectos de tokenización de commodities",
+            "Tokenización de arte y coleccionables",
+            "Soluciones de financiación de cadena de suministro"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "Q4 2025",
+          "status": "Próximo",
+          "title": "Ecosistema DeFi Avanzado",
+          "description": "Integración y expansión completa de protocolos DeFi",
+          "items": [
+            "Protocolos de préstamos avanzados",
+            "Optimización de yield farming",
+            "Expansión del marketplace NFT",
+            "Plataforma de trading de derivados"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "Q1 2026",
+          "status": "Próximo",
+          "title": "Expansión Global",
+          "description": "Expansión del mercado internacional y cumplimiento regulatorio",
+          "items": [
+            "Cumplimiento regulatorio global",
+            "Entrada al mercado internacional",
+            "Soporte de plataforma multiidioma",
+            "Expansión de asociaciones regionales"
+          ]
+        },
+        "q2_2026": {
+          "quarter": "Q2 2026",
+          "status": "Próximo",
+          "title": "IA y Análisis Avanzado",
+          "description": "Características impulsadas por IA y plataforma de análisis avanzado",
+          "items": [
+            "Algoritmos de trading impulsados por IA",
+            "Análisis avanzado de cartera",
+            "Perspectivas predictivas del mercado",
+            "Gestión automatizada de riesgos",
+            "Integración de machine learning"
+          ]
+        },
+        "q3_2026": {
+          "quarter": "Q3 2026",
+          "status": "Próximo",
+          "title": "Adopción Institucional",
+          "description": "Soluciones de grado institucional y adopción empresarial",
+          "items": [
+            "Mesas de trading institucionales",
+            "Soluciones de custodia empresarial",
+            "Herramientas de reportes regulatorios",
+            "Asociaciones institucionales",
+            "Automatización de cumplimiento"
+          ]
+        }
+      },
+      "stats": {
+        "phasesCompleted": {
+          "value": "3/8",
+          "label": "Fases Completadas"
+        },
+        "currentPhase": {
+          "value": "1",
+          "label": "Fase Actual"
+        },
+        "timeline": {
+          "value": "24",
+          "label": "Cronología en Meses"
+        },
+        "totalPhases": {
+          "value": "8",
+          "label": "Fases Totales"
+        }
+      },
+      "viewFull": "Ver Hoja de Ruta Completa"
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar tu Viaje DeFi?",
+      "subtitle": "Únete a miles de usuarios que ya están comerciando, haciendo staking y ganando con Laxce.",
+      "getApp": "Obtener App",
+      "readWhitepaper": "Leer Libro Blanco",
+      "availability": "Disponible en iOS, Android y Web • Descarga gratuita • Sin tarifas ocultas"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Acerca de Laxce",
+      "title": "Revolucionando DeFi",
+      "subtitle": "Estamos construyendo el futuro de las finanzas descentralizadas, haciéndolas accesibles, seguras y fáciles de usar para todos. Desde principiantes hasta expertos, Laxce proporciona las herramientas que necesitas para navegar el ecosistema DeFi con confianza."
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Democratizar el acceso a las finanzas descentralizadas creando herramientas intuitivas, seguras y poderosas que empoderen a individuos en todo el mundo para tomar control de su futuro financiero. Creemos que todos merecen acceso a los beneficios de DeFi, independientemente de su experiencia técnica."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Convertirnos en la plataforma DeFi líder que conecte las finanzas tradicionales con la tecnología blockchain, creando un ecosistema sin fisuras donde los usuarios puedan comerciar, ganar y gestionar sus activos digitales con facilidad y seguridad sin precedentes."
+    },
+    "values": {
+      "title": "Nuestros Valores Fundamentales",
+      "subtitle": "Los principios que guían todo lo que hacemos en Laxce",
+      "security": {
+        "title": "Seguridad Primero",
+        "description": "Protocolos de seguridad de nivel empresarial y auditorías regulares para proteger los activos de los usuarios."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Tecnología de vanguardia y mejora continua en soluciones DeFi."
+      },
+      "userCentric": {
+        "title": "Centrado en el Usuario",
+        "description": "Diseño intuitivo y experiencia sin fisuras tanto para principiantes como para expertos."
+      },
+      "globalAccess": {
+        "title": "Acceso Global",
+        "description": "Democratizando el acceso a DeFi para usuarios en todo el mundo con soporte multi-cadena."
+      },
+      "transparency": {
+        "title": "Transparencia",
+        "description": "Código fuente abierto, auditorías públicas y comunicación clara con nuestra comunidad."
+      },
+      "growth": {
+        "title": "Crecimiento",
+        "description": "Crecimiento sostenible a través de asociaciones estratégicas y desarrollo del ecosistema."
+      }
+    },
+    "journey": {
+      "title": "Nuestro Viaje",
+      "subtitle": "Hitos clave en nuestra misión de revolucionar DeFi",
+      "milestones": {
+        "2023": {
+          "year": "2023",
+          "title": "Fundación",
+          "description": "Laxce fundada con la visión de democratizar el acceso a DeFi"
+        },
+        "2024Q1": {
+          "year": "2024 Q1",
+          "title": "Lanzamiento MVP",
+          "description": "Primera versión de Laxce Wallet y DEX lanzada"
+        },
+        "2024Q2": {
+          "year": "2024 Q2",
+          "title": "Auditoría de Seguridad",
+          "description": "Auditorías de seguridad integrales completadas por empresas líderes"
+        },
+        "2024Q3": {
+          "year": "2024 Q3",
+          "title": "Multi-Cadena",
+          "description": "Soporte expandido a redes Ethereum, BSC y Polygon"
+        },
+        "2024Q4": {
+          "year": "2024 Q4",
+          "title": "Aplicación Móvil",
+          "description": "Aplicaciones móviles nativas para iOS y Android"
+        },
+        "2025": {
+          "year": "2025",
+          "title": "Expansión Global",
+          "description": "Objetivo de 1M+ usuarios activos y soporte para 50+ cadenas"
+        }
+      }
+    },
+    "company": {
+      "title": "Acerca de Laxce",
+      "founded": "Fundada en 2023",
+      "team": "Equipo Global (Remoto Primero)",
+      "members": "25+ Miembros del Equipo",
+      "countries": "10+ Países",
+      "contact": {
+        "title": "Información de Contacto",
+        "email": "contact@laxce.com",
+        "website": "laxce.com"
+      }
+    },
+    "whyChoose": {
+      "title": "¿Por Qué Elegir Laxce?",
+      "security": {
+        "title": "Seguridad Avanzada",
+        "description": "Seguridad multicapa con auditorías regulares"
+      },
+      "interface": {
+        "title": "Interfaz Amigable",
+        "description": "Diseño intuitivo para todos los niveles de experiencia"
+      },
+      "multiChain": {
+        "title": "Soporte Multi-Cadena",
+        "description": "Acceso a múltiples redes blockchain"
+      },
+      "support": {
+        "title": "Soporte 24/7",
+        "description": "Asistencia al cliente las 24 horas"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Unirte a la Revolución DeFi?",
+      "description": "Comienza tu viaje DeFi con Laxce hoy. Descarga nuestra app y experimenta el futuro de las finanzas.",
+      "exploreWallet": "Explorar Billetera",
+      "tryDex": "Probar DEX"
+    }
+  },
+  "footer": {
+    "description": "El futuro de las finanzas descentralizadas. Plataforma DeFi segura, rápida y fácil de usar.",
+    "products": "Productos",
+    "resources": "Recursos",
+    "company": "Empresa",
+    "legal": "Legal",
+    "social": "Síguenos",
+    "language": "Idioma",
+    "copyright": "© 2024 Laxce. Todos los derechos reservados.",
+    "secureByDesign": "Seguro por diseño",
+    "madeBy": "Hecho por",
+    "laxceTeam": "Equipo Laxce",
+    "downloads": {
+      "whitepaper": "Descargar Libro Blanco",
+      "tokenomics": "Descargar Tokenómica"
+    },
+    "links": {
+      "wallet": "Billetera",
+      "walletDescription": "Billetera crypto segura",
+      "dex": "DEX",
+      "dexDescription": "Intercambio descentralizado",
+      "bridge": "Puente",
+      "bridgeDescription": "Transfers entre cadenas",
+      "staking": "Staking",
+      "stakingDescription": "Ganar recompensas",
+      "roadmap": "Hoja de Ruta",
+      "whitepaper": "Libro Blanco",
+      "tokenomics": "Tokenómica",
+      "documentation": "Documentación",
+      "aboutUs": "Acerca de",
+      "careers": "Carreras",
+      "pressKit": "Kit de Prensa",
+      "contact": "Contacto",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio",
+      "security": "Seguridad",
+      "audits": "Auditorías",
+      "discord": "Discord",
+      "twitter": "X (Twitter)",
+      "telegram": "Telegram",
+      "medium": "Medium"
+    }
+  },
+  "common": {
+    "learnMore": "Saber Más",
+    "getStarted": "Comenzar",
+    "download": "Descargar",
+    "viewOnline": "Ver en Línea",
+    "comingSoon": "Próximamente",
+    "inProgress": "En Progreso",
+    "completed": "Completado",
+    "upcoming": "Próximo",
+    "viewFull": "Ver Todo",
+    "purpose": "Propósito:",
+    "examples": "Ejemplos:",
+    "storage": "Almacenamiento:"
+  },
+  "security": {
+    "hero": {
+      "badge": "Seguridad Primero",
+      "title": "Características de Seguridad Avanzadas",
+      "subtitle": "Medidas de seguridad integrales diseñadas para proteger tus activos y privacidad"
+    },
+    "stats": {
+      "audits": {
+        "value": "12+",
+        "label": "Auditorías de Seguridad"
+      },
+      "uptime": {
+        "value": "99.9%",
+        "label": "Tiempo de Actividad"
+      },
+      "bounties": {
+        "value": "$100K+",
+        "label": "Recompensas por Errores"
+      },
+      "researchers": {
+        "value": "50+",
+        "label": "Investigadores de Seguridad"
+      }
+    },
+    "features": {
+      "title": "Características de Seguridad Avanzadas",
+      "subtitle": "Medidas de seguridad integrales diseñadas para proteger tus activos y privacidad",
+      "biometric": {
+        "title": "Autenticación Biométrica",
+        "description": "Reconocimiento avanzado de huellas dactilares y faciales para acceso seguro e instantáneo a tu billetera",
+        "features": [
+          "Verificación biométrica multifactor",
+          "Detección de vitalidad para prevenir suplantación",
+          "Almacenamiento biométrico seguro local",
+          "Respaldo a autenticación PIN/contraseña"
+        ]
+      },
+      "privacy": {
+        "title": "Diseño Centrado en la Privacidad",
+        "description": "Tus datos permanecen en tu dispositivo. Nunca tenemos acceso a tus claves privadas o información personal",
+        "features": [
+          "Arquitectura de conocimiento cero",
+          "Cifrado del lado del cliente",
+          "Sin recopilación de datos o seguimiento",
+          "Soporte para transacciones anónimas"
+        ]
+      },
+      "encryption": {
+        "title": "Cifrado de Grado Militar",
+        "description": "Cifrado AES-256 con derivación de claves segura para máxima protección de datos",
+        "features": [
+          "Cifrado AES-256-GCM",
+          "Derivación de claves PBKDF2",
+          "Soporte para módulo de seguridad de hardware (HSM)",
+          "Almacenamiento local cifrado"
+        ]
+      },
+      "multiSig": {
+        "title": "Billeteras Multi-Firma",
+        "description": "Soporte avanzado de multi-firma para seguridad mejorada y control compartido",
+        "features": [
+          "Configuración multi-firma 2 de 3",
+          "Integración con billetera de hardware",
+          "Transacciones con bloqueo temporal",
+          "Mecanismos de recuperación"
+        ]
+      },
+      "infrastructure": {
+        "title": "Infraestructura Segura",
+        "description": "Infraestructura de nivel empresarial con 99.9% de tiempo de actividad y protección DDoS",
+        "features": [
+          "Infraestructura AWS/GCP",
+          "Protección DDoS",
+          "Monitoreo 24/7",
+          "Respaldos automáticos"
+        ]
+      },
+      "audits": {
+        "title": "Auditorías de Contratos Inteligentes",
+        "description": "Auditorías de seguridad regulares por empresas líderes en seguridad blockchain",
+        "features": [
+          "Auditorías de seguridad trimestrales",
+          "Programas de recompensas por errores",
+          "Revisión de código fuente abierto",
+          "Pruebas de penetración de terceros"
+        ]
+      }
+    },
+    "protocols": {
+      "title": "Protocolos de Seguridad",
+      "subtitle": "Protocolos de seguridad líderes en la industria que aseguran el más alto nivel de protección",
+      "keyGeneration": {
+        "title": "Generación Segura de Claves",
+        "description": "Generación de números aleatorios criptográficamente seguros para la creación de claves privadas",
+        "features": [
+          "Frases mnemónicas BIP-39",
+          "Fuentes de entropía de hardware",
+          "Derivación determinística de claves"
+        ]
+      },
+      "transactionSigning": {
+        "title": "Firma de Transacciones",
+        "description": "Firma segura de transacciones con soporte para billetera de hardware",
+        "features": [
+          "Capacidad de firma sin conexión",
+          "Integración con billetera de hardware",
+          "Vista previa de transacciones"
+        ]
+      },
+      "networkSecurity": {
+        "title": "Seguridad de Red",
+        "description": "Comunicación protegida con redes blockchain",
+        "features": [
+          "Cifrado TLS 1.3",
+          "Verificación de nodos",
+          "Protección contra ataques man-in-the-middle"
+        ]
+      },
+      "dataProtection": {
+        "title": "Protección de Datos",
+        "description": "Medidas integrales de protección de datos y privacidad",
+        "features": [
+          "Cifrado de extremo a extremo",
+          "Pruebas de conocimiento cero",
+          "Minimización de datos"
+        ]
+      }
+    },
+    "compliance": {
+      "title": "Cumplimiento y Certificaciones",
+      "subtitle": "Mantenemos los más altos estándares de cumplimiento y certificaciones de seguridad",
+      "soc2": {
+        "title": "SOC 2 Tipo II",
+        "description": "Cumplimiento de Control de Organización de Servicios 2 para seguridad, disponibilidad y confidencialidad",
+        "status": "Certificado"
+      },
+      "iso27001": {
+        "title": "ISO 27001",
+        "description": "Estándar internacional para sistemas de gestión de seguridad de la información",
+        "status": "Certificado"
+      },
+      "gdpr": {
+        "title": "Cumplimiento GDPR",
+        "description": "Cumplimiento del Reglamento General de Protección de Datos para usuarios de la UE",
+        "status": "Conforme"
+      },
+      "ccpa": {
+        "title": "Cumplimiento CCPA",
+        "description": "Cumplimiento de la Ley de Privacidad del Consumidor de California para residentes de California",
+        "status": "Conforme"
+      }
+    },
+    "incidentResponse": {
+      "title": "Respuesta a Incidentes",
+      "subtitle": "Protocolos de respuesta rápida para manejar cualquier incidente de seguridad de manera efectiva",
+      "detection": {
+        "title": "Detección",
+        "description": "Monitoreo 24/7 y sistemas automatizados de detección de amenazas",
+        "time": "Tiempo real"
+      },
+      "response": {
+        "title": "Respuesta",
+        "description": "Activación inmediata del equipo de respuesta y contención de incidentes",
+        "time": "< 15 minutos"
+      },
+      "investigation": {
+        "title": "Investigación",
+        "description": "Análisis forense integral y determinación de la causa raíz",
+        "time": "< 4 horas"
+      },
+      "resolution": {
+        "title": "Resolución",
+        "description": "Resolución del problema e implementación de medidas preventivas",
+        "time": "< 24 horas"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Experimentar DeFi Seguro?",
+      "subtitle": "Descarga Laxce hoy y experimenta la seguridad de nivel empresarial con la simplicidad de DeFi.",
+      "downloadMobile": "Descargar para Móvil",
+      "useWebApp": "Usar Aplicación Web",
+      "learnMore": "Saber Más",
+      "securityRating": "Calificación de Seguridad 4.9/5",
+      "zeroIncidents": "Cero Incidentes de Seguridad",
+      "uptime": "100% Tiempo de Actividad"
+    }
+  },
+  "wallet": {
+    "hero": {
+      "badge": "BILLETERA LAXCE",
+      "title": "Tu Puerta de Entrada al Futuro de las Finanzas",
+      "subtitle": "Experimenta la billetera de criptomonedas más avanzada con soporte para más de 1000 criptomonedas, más de 10 blockchains y soporte multiidioma. Segura, rápida y fácil de usar."
+    },
+    "features": {
+      "title": "Características Poderosas",
+      "subtitle": "Todo lo que necesitas para la gestión fluida de criptomonedas en una aplicación poderosa",
+      "send": {
+        "title": "Enviar",
+        "description": "Envía criptomonedas instantáneamente a cualquier persona, en cualquier lugar del mundo con tarifas mínimas y máxima seguridad."
+      },
+      "receive": {
+        "title": "Recibir",
+        "description": "Recibe pagos desde cualquier lugar con tu dirección única de billetera. Comparte tu código QR para transferencias instantáneas."
+      },
+      "cryptocurrencies": {
+        "title": "+1000 Criptomonedas",
+        "description": "Soporte para más de 1000 criptomonedas incluyendo Bitcoin, Ethereum, LAXCE y todas las principales altcoins."
+      },
+      "languages": {
+        "title": "10+ Idiomas",
+        "description": "Disponible en más de 10 idiomas incluyendo inglés, español, francés, alemán, chino y más."
+      },
+      "currencies": {
+        "title": "10+ Monedas Tradicionales",
+        "description": "Soporte para más de 10 monedas tradicionales incluyendo USD, EUR, GBP, JPY y más para conversión fácil."
+      },
+      "history": {
+        "title": "Historial de Transacciones",
+        "description": "Historial completo de transacciones con registros detallados, marcas de tiempo y seguimiento de estado para todas tus actividades."
+      },
+      "multiWallet": {
+        "title": "Multi-Billetera",
+        "description": "Crea y gestiona múltiples billeteras para diferentes propósitos - carteras personales, comerciales o de inversión."
+      },
+      "blockchains": {
+        "title": "10 Blockchains",
+        "description": "Soporte para más de 10 blockchains principales incluyendo Ethereum, Bitcoin, Binance Smart Chain, Polygon y más."
+      }
+    },
+    "benefits": {
+      "title": "¿Por Qué Elegir la Billetera LAXCE?",
+      "subtitle": "Construida con tecnología de vanguardia y experiencia de usuario en mente",
+      "security": {
+        "title": "Seguridad de Nivel Bancario",
+        "description": "Cifrado de grado militar y protocolos de seguridad multicapa para proteger tus activos."
+      },
+      "speed": {
+        "title": "Rápido como el Rayo",
+        "description": "Transacciones instantáneas con confirmación en tiempo real y tarifas de red mínimas."
+      },
+      "crossPlatform": {
+        "title": "Multiplataforma",
+        "description": "Disponible en iOS, Android y Web con sincronización perfecta en todos los dispositivos."
+      },
+      "global": {
+        "title": "Acceso Global",
+        "description": "Accede a tu billetera desde cualquier lugar del mundo con nuestra red global de servidores."
+      }
+    },
+    "cta": {
+      "downloadNow": "Descargar Ahora",
+      "learnMore": "Saber Más",
+      "ready": "¿Listo para Comenzar?",
+      "downloadToday": "Descarga la Billetera LAXCE hoy y únete a millones de usuarios en todo el mundo en el futuro de las finanzas",
+      "downloadIOS": "Descargar para iOS",
+      "downloadAndroid": "Descargar para Android",
+      "freeDownload": "Descarga Gratuita",
+      "rating": "Calificación 4.8/5",
+      "bankSecurity": "Seguridad de Nivel Bancario"
+    }
+  },
+  "dex": {
+    "hero": {
+      "badge": "LAXCE DEX",
+      "title": "Intercambio Descentralizado",
+      "subtitle": "Comercia criptomonedas de forma segura y eficiente en nuestro intercambio descentralizado. Sin intermediarios, sin KYC, control completo sobre tus activos."
+    },
+    "markets": {
+      "title": "Mercados en Vivo",
+      "subtitle": "Precios de criptomonedas en tiempo real y volúmenes de trading",
+      "volume": "Volumen",
+      "tradeNow": "Comerciar Ahora"
+    },
+    "features": {
+      "title": "¿Por Qué Elegir LAXCE DEX?",
+      "subtitle": "Construido para traders, por traders con tecnología de vanguardia",
+      "lightningFast": {
+        "title": "Rápido como el Rayo",
+        "description": "Ejecuta operaciones en milisegundos con nuestro motor de coincidencias de alto rendimiento."
+      },
+      "secureTrading": {
+        "title": "Trading Seguro",
+        "description": "Seguridad de nivel bancario con protección multicapa y monitoreo en tiempo real."
+      },
+      "tradingPairs": {
+        "title": "1000+ Pares",
+        "description": "Comercia más de 1000 pares de criptomonedas con pools de liquidez profundos."
+      },
+      "globalCommunity": {
+        "title": "Comunidad Global",
+        "description": "Únete a millones de traders en todo el mundo en una comunidad vibrante y activa."
+      },
+      "crossChain": {
+        "title": "Entre Cadenas",
+        "description": "Comercia activos a través de múltiples blockchains sin problemas."
+      },
+      "advancedCharts": {
+        "title": "Gráficos Avanzados",
+        "description": "Herramientas de trading profesionales con datos en tiempo real y análisis."
+      }
+    },
+    "benefits": {
+      "title": "Beneficios del Trading",
+      "subtitle": "Experimenta las ventajas del trading descentralizado",
+      "highLiquidity": {
+        "title": "Alta Liquidez",
+        "description": "Libros de órdenes profundos aseguran deslizamiento mínimo y mejores precios de ejecución."
+      },
+      "lowFees": {
+        "title": "Tarifas Bajas",
+        "description": "Tarifas de trading competitivas comenzando desde 0.1% con descuentos por volumen."
+      },
+      "mobileTrading": {
+        "title": "Trading Móvil",
+        "description": "Comercia en cualquier lugar con nuestra aplicación móvil disponible en iOS y Android."
+      },
+      "nonCustodial": {
+        "title": "Sin Custodia",
+        "description": "Tú controlas tus claves privadas. Nunca mantenemos tus fondos."
+      }
+    },
+    "cta": {
+      "startTrading": "Comenzar a Comerciar",
+      "viewMarkets": "Ver Mercados",
+      "ready": "¿Listo para Comenzar a Comerciar?",
+      "joinTraders": "Únete a miles de traders en LAXCE DEX y experimenta el futuro del trading descentralizado",
+      "launchDex": "Lanzar DEX",
+      "downloadApp": "Descargar App",
+      "noKyc": "Sin KYC Requerido",
+      "rating": "Calificación 4.9/5",
+      "nonCustodial": "Sin Custodia"
+    }
+  },
+  "tokenomics": {
+    "hero": {
+      "badge": "TOKENÓMICA LAXCE V1-2024",
+      "title": "Economía del Token",
+      "subtitle": "Explora la distribución del token LAX, vesting e incentivos económicos."
+    },
+    "overview": {
+      "totalSupply": {
+        "value": "500M",
+        "label": "Suministro Total"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "Símbolo del Token"
+      },
+      "initialNetwork": {
+        "value": "Ethereum",
+        "label": "Red Inicial"
+      },
+      "tokenModel": {
+        "value": "Deflacionario",
+        "label": "Modelo del Token"
+      }
+    },
+    "tokenDetails": {
+      "title": "Detalles del Token",
+      "subtitle": "Información completa sobre el token $LAX y su integración de red",
+      "tokenAndNetwork": {
+        "title": "Token y Red",
+        "description": "El token Laxce ($LAX) se acuñará inicialmente en la red Ethereum. Una vez que se lance la mainnet de Laxce Layer 2, el token se volverá compatible con múltiples cadenas, integrándose con el ecosistema Polygon como parte del Polygon Agglayer."
+      },
+      "tokenSupply": {
+        "title": "Suministro del Token",
+        "description": "El token Laxce ($LAX) tendrá un límite máximo de 500 millones de tokens, asegurando un suministro limitado. Para mantener presión deflacionaria, una parte de la tarifa se utilizará para quemar tokens existentes, reduciendo el suministro circulante total con el tiempo."
+      },
+      "contractAddress": {
+        "title": "Dirección del Contrato",
+        "description": "La Dirección del Contrato del Token $LAX es: 0x13abd6192cB32bdE8a921285105F378695f951d9 y se puede ver aquí:",
+        "address": "0x13abd6192cB32bdE8a921285105F378695f951d9",
+        "copy": "Copiar",
+        "view": "Ver"
+      }
+    },
+    "distribution": {
+      "title": "Distribución del Token",
+      "subtitle": "Asignación justa y transparente diseñada para apoyar el crecimiento del ecosistema a largo plazo",
+      "totalSupply": "Suministro Total",
+      "public": {
+        "title": "Público",
+        "description": "Evento de generación de tokens públicos",
+        "percentage": "40%",
+        "amount": "200M $LAX"
+      },
+      "private": {
+        "title": "Privado",
+        "description": "Venta privada e inversores estratégicos",
+        "percentage": "20%",
+        "amount": "100M $LAX"
+      },
+      "reserve": {
+        "title": "Reserva",
+        "description": "Fondo de reserva para oportunidades futuras",
+        "percentage": "15%",
+        "amount": "75M $LAX"
+      },
+      "rewards": {
+        "title": "Recompensas",
+        "description": "Recompensas de staking e incentivos comunitarios",
+        "percentage": "15%",
+        "amount": "75M $LAX"
+      },
+      "teamAdvisors": {
+        "title": "Equipo y Asesores",
+        "description": "Equipo central y asesores estratégicos",
+        "percentage": "10%",
+        "amount": "50M $LAX"
+      }
+    },
+    "utilities": {
+      "title": "Utilidades del Token",
+      "subtitle": "Los tokens $LAX se utilizarán para varios propósitos dentro del ecosistema Laxce",
+      "governance": {
+        "title": "Gobernanza",
+        "description": "Los poseedores de tokens tendrán derechos de voto en actualizaciones de red y propuestas"
+      },
+      "staking": {
+        "title": "Staking",
+        "description": "Hacer staking de tokens $LAX puede generar recompensas y contribuir a la seguridad de la red"
+      },
+      "transactionFees": {
+        "title": "Tarifas de Transacción",
+        "description": "Las tarifas de transacción en la red Laxce se pagarán en $LAX"
+      },
+      "exclusiveAccess": {
+        "title": "Acceso Exclusivo",
+        "description": "Los poseedores de tokens pueden tener acceso a características o beneficios exclusivos dentro del ecosistema Laxce"
+      }
+    },
+    "vesting": {
+      "title": "Cronograma de Vesting",
+      "subtitle": "Períodos de vesting transparentes para asegurar compromiso a largo plazo y estabilidad del ecosistema",
+      "headers": {
+        "category": "Categoría",
+        "cliffPeriod": "Período de Cliff",
+        "vestingPeriod": "Período de Vesting",
+        "description": "Descripción"
+      },
+      "schedules": {
+        "public": {
+          "category": "Público",
+          "cliff": "0 meses",
+          "vesting": "Sin vesting",
+          "description": "Acceso inmediato para participantes de venta pública"
+        },
+        "private": {
+          "category": "Privado",
+          "cliff": "6 meses",
+          "vesting": "18 meses lineal",
+          "description": "Cronograma de vesting para inversores estratégicos"
+        },
+        "reserve": {
+          "category": "Reserva",
+          "cliff": "12 meses",
+          "vesting": "36 meses lineal",
+          "description": "Liberación del fondo de reserva a largo plazo"
+        },
+        "rewards": {
+          "category": "Recompensas",
+          "cliff": "0 meses",
+          "vesting": "48 meses lineal",
+          "description": "Incentivos comunitarios a largo plazo"
+        },
+        "teamAdvisors": {
+          "category": "Equipo y Asesores",
+          "cliff": "12 meses",
+          "vesting": "36 meses lineal",
+          "description": "Alineación a largo plazo con el éxito del proyecto"
+        }
+      }
+    },
+    "cta": {
+      "title": "Descargar Tokenómica Completa",
+      "description": "Obtén el documento detallado de tokenómica con información completa sobre la distribución del token $LAX, cronogramas de vesting y modelos económicos.",
+      "downloadPDF": "Descargar PDF Tokenómica",
+      "viewOnline": "Ver en Línea"
+    }
+  },
+  "app": {
+    "dropdown": {
+      "getApp": "Obtener App",
+      "chooseDownload": "Elige tu método de descarga",
+      "apkDownload": "Descarga APK",
+      "apkDescription": "Descarga directa del archivo APK",
+      "googlePlay": "Google Play",
+      "googlePlayDescription": "Descargar desde Google Play Store",
+      "appStore": "App Store",
+      "appStoreDescription": "Descargar desde Apple App Store"
+    }
+  },
+  "whitepaper": {
+    "hero": {
+      "badge": "LIBRO BLANCO LAXCE 1.0",
+      "title": "Libro Blanco",
+      "subtitle": "Una plataforma descentralizada Ethereum Layer-2 específicamente diseñada para facilitar la integración perfecta de Activos del Mundo Real (RWAs) en el ecosistema blockchain.",
+      "downloadPDF": "Descargar PDF",
+      "viewOnline": "Ver en Línea"
+    },
+    "introduction": {
+      "title": "Introducción",
+      "content": "Laxce es una plataforma descentralizada Ethereum Layer-2 específicamente diseñada para facilitar la integración perfecta de Activos del Mundo Real (RWAs) en el ecosistema blockchain. Al abordar los desafíos de escalabilidad, latencia y regulatorios inherentes en la tokenización de RWA, Laxce tiene como objetivo desbloquear nuevas oportunidades para la innovación y el crecimiento económico."
+    },
+    "problemStatement": {
+      "title": "Planteamiento del Problema",
+      "subtitle": "Desafíos actuales en el ecosistema de tokenización de RWA",
+      "scalability": {
+        "title": "Escalabilidad",
+        "description": "La capacidad actual del mainnet de Ethereum es insuficiente para manejar el volumen de transacciones requerido para la tokenización de RWA a gran escala."
+      },
+      "latency": {
+        "title": "Latencia",
+        "description": "Los tiempos de confirmación en Ethereum pueden ser demasiado lentos para transacciones de RWA sensibles al tiempo."
+      },
+      "regulatory": {
+        "title": "Cumplimiento Regulatorio",
+        "description": "Asegurar que las tokenizaciones de RWA cumplan con las regulaciones relevantes es crucial pero puede ser complejo dentro de un entorno descentralizado."
+      }
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "content": "Empoderar a individuos y empresas proporcionando una plataforma segura, escalable y rentable para la tokenización de activos del mundo real, facilitando transacciones eficientes, liquidez mejorada y nuevas oportunidades económicas."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "content": "Ser la plataforma global líder para activos del mundo real tokenizados, impulsando la innovación, fomentando el crecimiento económico y democratizando el acceso a oportunidades de inversión."
+    },
+    "rwaTokenization": {
+      "title": "Tokenización de Activos del Mundo Real",
+      "subtitle": "RWA significa Activos del Mundo Real. Estos son activos físicos o intangibles que existen en el mundo real, como bienes raíces, commodities, arte y propiedad intelectual. Al tokenizar RWAs, plataformas blockchain como Laxce pueden habilitar propiedad fraccional, mayor liquidez y transparencia mejorada.",
+      "assets": {
+        "realEstate": {
+          "title": "Bienes Raíces",
+          "description": "Propiedades como casas, apartamentos y edificios comerciales"
+        },
+        "commodities": {
+          "title": "Commodities",
+          "description": "Recursos naturales como oro, petróleo y productos agrícolas"
+        },
+        "art": {
+          "title": "Arte",
+          "description": "Pinturas, esculturas y otras obras de arte valiosas"
+        },
+        "intellectualProperty": {
+          "title": "Propiedad Intelectual",
+          "description": "Patentes, derechos de autor y marcas registradas"
+        }
+      },
+      "importance": {
+        "title": "La Importancia de la Tokenización de RWA",
+        "liquidity": {
+          "title": "Mayor Liquidez",
+          "description": "Dividir activos en tokens más pequeños y comerciables aumenta significativamente la liquidez"
+        },
+        "fractional": {
+          "title": "Propiedad Fraccional",
+          "description": "Hacer que los activos sean accesibles a una gama más amplia de inversores a través de la propiedad fraccional"
+        },
+        "transparency": {
+          "title": "Transparencia Mejorada",
+          "description": "Registro claro de propiedad, transacciones y rendimiento de activos en blockchain"
+        },
+        "management": {
+          "title": "Gestión Eficiente",
+          "description": "Los contratos inteligentes automatizan procesos como el cobro de alquileres y pagos de dividendos"
+        }
+      }
+    },
+    "technicalArchitecture": {
+      "title": "Arquitectura Técnica",
+      "subtitle": "Laxce emplea la arquitectura Validium de Polygon CDK para lograr escalabilidad y seguridad excepcionales. Al aprovechar Validium, Laxce ofrece una plataforma de alto rendimiento y segura para la tokenización de activos del mundo real y varias aplicaciones financieras.",
+      "features": {
+        "polygonCDK": {
+          "title": "Polygon CDK Validium",
+          "description": "Construido en el Kit de Desarrollo de Cadenas de Polygon con Validium para escalabilidad mejorada y tarifas de gas reducidas"
+        },
+        "rwaTokenization": {
+          "title": "Tokenización de Activos del Mundo Real",
+          "description": "Marco integral para tokenizar activos físicos como bienes raíces, commodities y arte"
+        },
+        "offChain": {
+          "title": "Liquidación Off-Chain",
+          "description": "La mayoría de las transacciones de RWA se liquidan off-chain con solo eventos críticos registrados en mainnet"
+        },
+        "compliance": {
+          "title": "Cumplimiento Regulatorio",
+          "description": "Marco robusto para KYC/AML, leyes de valores y requisitos de privacidad de datos"
+        }
+      },
+      "whyPolygon": {
+        "title": "¿Por Qué Polygon CDK?",
+        "security": {
+          "title": "Seguridad",
+          "description": "L2s de alto rendimiento y alta seguridad con la última tecnología de conocimiento cero"
+        },
+        "scalability": {
+          "title": "Escalabilidad",
+          "description": "Tarifas de transacción órdenes de magnitud más bajas que Ethereum con procesamiento más rápido"
+        },
+        "modularity": {
+          "title": "Modularidad",
+          "description": "Entorno L2 personalizable para satisfacer necesidades específicas"
+        },
+        "interoperability": {
+          "title": "Interoperabilidad",
+          "description": "Transacciones entre cadenas a través de la integración con AggLayer"
+        },
+        "sovereignty": {
+          "title": "Soberanía",
+          "description": "Control total sobre ingresos, gobernanza, seguridad y políticas económicas"
+        },
+        "costEffectiveness": {
+          "title": "Rentabilidad",
+          "description": "Tarifas de transacción bajas y características de optimización de gas"
+        }
+      }
+    },
+    "useCases": {
+      "title": "Casos de Uso",
+      "subtitle": "Aplicaciones integrales de la plataforma Laxce en varios sectores financieros",
+      "rwa": {
+        "title": "Activos del Mundo Real (RWA)",
+        "description": "Tokenización de bienes raíces, commodities, arte y propiedad intelectual"
+      },
+      "micropayments": {
+        "title": "Micropagos",
+        "description": "Tarifas de transacción bajas y alto rendimiento para transacciones de valor pequeño"
+      },
+      "trading": {
+        "title": "Trading de Crypto",
+        "description": "Plataforma escalable y segura para comerciar activos digitales con ejecución rápida"
+      },
+      "supplyChain": {
+        "title": "Financiación de Cadena de Suministro",
+        "description": "Agilizar procesos de financiación a través de la tokenización de facturas y documentos comerciales"
+      }
+    },
+    "tokenEconomics": {
+      "title": "Economía del Token",
+      "subtitle": "Se introducirá un token nativo, LAX, para incentivar la participación en la red, facilitar la gobernanza y potencialmente generar ingresos a través de tarifas de transacción.",
+      "distribution": {
+        "title": "Distribución del Token",
+        "public": "Público",
+        "private": "Privado",
+        "reserve": "Reserva",
+        "rewards": "Recompensas",
+        "teamAdvisors": "Equipo y Asesores",
+        "totalSupply": "Suministro Total",
+        "totalSupplyValue": "500,000,000 LAX"
+      },
+      "utility": {
+        "title": "Utilidad del Token",
+        "networkIncentives": "Incentivos de participación en la red",
+        "governance": "Derechos de voto en gobernanza",
+        "transactionFees": "Generación de tarifas de transacción",
+        "staking": "Staking y recompensas"
+      },
+      "vesting": {
+        "title": "Cronograma de Vesting",
+        "description": "La distribución de tokens sigue un cronograma de vesting estructurado para asegurar la alineación a largo plazo con los objetivos del proyecto y prevenir la manipulación del mercado."
+      }
+    },
+    "roadmapSection": {
+      "title": "Hoja de Ruta",
+      "subtitle": "Cronología de desarrollo e hitos clave para el ecosistema Laxce",
+      "phases": {
+        "q3_2025": {
+          "quarter": "Q3 2025",
+          "title": "Lanzamiento de Mainnet",
+          "description": "Lanzar el mainnet de Laxce en Polygon CDK's Validium, proporcionando una plataforma escalable y segura para la tokenización de activos del mundo real.",
+          "items": [
+            "Despliegue de mainnet en Polygon CDK Validium",
+            "Implementación de infraestructura central",
+            "Finalización de auditorías de seguridad y pruebas"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "Q4 2025",
+          "title": "Desarrollo del Ecosistema",
+          "description": "Fomentar un ecosistema vibrante asociándose con varias organizaciones y proyectos dentro de los sectores blockchain y financiero.",
+          "items": [
+            "Asociaciones estratégicas con instituciones financieras",
+            "Lanzamiento de herramientas para desarrolladores y APIs",
+            "Construcción de comunidad y participación"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "Q1 2026",
+          "title": "Soluciones Empresariales",
+          "description": "Desarrollar soluciones de grado empresarial para proyectos de tokenización a gran escala y aplicaciones financieras.",
+          "items": [
+            "Plataforma de tokenización de grado empresarial",
+            "Herramientas avanzadas de cumplimiento",
+            "Incorporación institucional"
+          ]
+        },
+        "q2_2026": {
+          "quarter": "Q2 2026",
+          "title": "Integración Entre Cadenas",
+          "description": "Explorar oportunidades para la interoperabilidad entre cadenas con otras blockchains para expandir el alcance y capacidades de la red.",
+          "items": [
+            "Implementación de puente entre cadenas",
+            "Soporte de activos multi-cadena",
+            "Protocolos de interoperabilidad mejorados"
+          ]
+        }
+      },
+      "note": "Nota: Esta hoja de ruta está sujeta a cambios basados en las condiciones del mercado, avances tecnológicos y retroalimentación de la comunidad."
+    },
+    "cta": {
+      "title": "Obtén el Libro Blanco Completo",
+      "description": "Descarga la documentación técnica completa con especificaciones detalladas, diagramas de arquitectura, modelos económicos y marco de tokenización de activos del mundo real.",
+      "downloadPDF": "Descargar PDF",
+      "viewOnline": "Ver en Línea"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "badge": "Hoja de Ruta de Desarrollo",
+      "title": "Nuestro Viaje",
+      "subtitle": "Construyendo el futuro de las finanzas descentralizadas y la tokenización de activos del mundo real. Desde la fundación hasta la expansión global, cada hito nos acerca más a revolucionar las finanzas digitales."
+    },
+    "filters": {
+      "all": "Todos",
+      "completed": "Completado",
+      "current": "Actual",
+      "upcoming": "Próximo"
+    },
+    "phases": {
+      "q4_2024": {
+        "quarter": "Q4 2024",
+        "status": "completado",
+        "title": "Fundación y Lanzamiento de Token",
+        "description": "Infraestructura central y lanzamiento de token nativo",
+        "achievements": [
+          "Lanzamiento del token nativo LAXCE (LAX)",
+          "Lanzamiento de la red de pruebas pública",
+          "Marco de gobernanza descentralizada",
+          "Lanzamiento de Laxcedex DEX en Ethereum",
+          "Incentivos de participación en la red"
+        ]
+      },
+      "q1_2025": {
+        "quarter": "Q1 2025",
+        "status": "completado",
+        "title": "Mainnet y Herramientas para Desarrolladores",
+        "description": "Lanzamiento de mainnet y ecosistema completo para desarrolladores",
+        "achievements": [
+          "Lanzamiento de mainnet en Polygon CDK Validium",
+          "Lanzamiento de herramientas y APIs para desarrolladores",
+          "Desarrollo de asociaciones del ecosistema",
+          "Plataforma de tokenización de activos del mundo real",
+          "Infraestructura escalable y segura"
+        ]
+      },
+      "q2_2025": {
+        "quarter": "Q2 2025",
+        "status": "completado",
+        "title": "Entre Cadenas y Empresarial",
+        "description": "Interoperabilidad y soluciones empresariales",
+        "achievements": [
+          "Implementación de interoperabilidad entre cadenas",
+          "Desarrollo de soluciones de grado empresarial",
+          "Crecimiento comunitario y participación",
+          "Micropagos e integración de pagos",
+          "Asociaciones de gateway para comerciantes"
+        ]
+      },
+      "q3_2025": {
+        "quarter": "Q3 2025",
+        "status": "actual",
+        "title": "Tokenización de Activos del Mundo Real",
+        "description": "Proyectos piloto para tokenización de activos del mundo real",
+        "achievements": [
+          "Pilotos de tokenización de bienes raíces",
+          "Proyectos de tokenización de commodities",
+          "Tokenización de arte y coleccionables",
+          "Soluciones de financiación de cadena de suministro",
+          "Optimización de procesos de financiación comercial"
+        ]
+      },
+      "q4_2025": {
+        "quarter": "Q4 2025",
+        "status": "próximo",
+        "title": "Ecosistema DeFi Avanzado",
+        "description": "Integración y expansión completa de protocolos DeFi",
+        "achievements": [
+          "Protocolos de préstamos avanzados",
+          "Optimización de yield farming",
+          "Expansión del marketplace NFT",
+          "Integración de productos de seguros",
+          "Plataforma de trading de derivados"
+        ]
+      },
+      "q1_2026": {
+        "quarter": "Q1 2026",
+        "status": "próximo",
+        "title": "Expansión Global",
+        "description": "Expansión del mercado internacional y cumplimiento regulatorio",
+        "achievements": [
+          "Cumplimiento regulatorio global",
+          "Entrada al mercado internacional",
+          "Soporte de plataforma multiidioma",
+          "Expansión de asociaciones regionales",
+          "Auditorías de cumplimiento y seguridad"
+        ]
+      },
+      "q2_2026": {
+        "quarter": "Q2 2026",
+        "status": "próximo",
+        "title": "IA y Análisis Avanzado",
+        "description": "Características impulsadas por IA y plataforma de análisis avanzado",
+        "achievements": [
+          "Algoritmos de trading impulsados por IA",
+          "Análisis avanzado de cartera",
+          "Perspectivas predictivas del mercado",
+          "Gestión automatizada de riesgos",
+          "Integración de machine learning"
+        ]
+      },
+      "q3_2026": {
+        "quarter": "Q3 2026",
+        "status": "próximo",
+        "title": "Adopción Institucional",
+        "description": "Soluciones de grado institucional y adopción empresarial",
+        "achievements": [
+          "Mesas de trading institucionales",
+          "Soluciones de custodia empresarial",
+          "Herramientas de reportes regulatorios",
+          "Asociaciones institucionales",
+          "Automatización de cumplimiento"
+        ]
+      }
+    },
+    "keyAchievements": "Logros Clave",
+    "stats": {
+      "phasesCompleted": {
+        "value": "3/8",
+        "label": "Fases Completadas"
+      },
+      "currentPhase": {
+        "value": "1",
+        "label": "Fase Actual"
+      },
+      "timeline": {
+        "value": "24",
+        "label": "Cronología en Meses"
+      },
+      "totalPhases": {
+        "value": "8",
+        "label": "Fases Totales"
+      }
+    },
+    "cta": {
+      "title": "Mantente Actualizado",
+      "subtitle": "Regístrate para recibir actualizaciones y noticias de Laxce. Recibe notificaciones sobre hitos importantes y sé el primero en acceder a nuevas características.",
+      "joinCommunity": "Únete a Nuestra Comunidad"
+    }
+  },
+  "termsOfService": {
+    "hero": {
+      "title": "Términos de Servicio",
+      "lastUpdated": "Última Actualización",
+      "effectiveDate": "Fecha Efectiva"
+    },
+    "services": {
+      "wallet": {
+        "title": "Billetera Laxce",
+        "description": "Billetera segura de criptomonedas con soporte multi-cadena"
+      },
+      "dex": {
+        "title": "Laxce DEX",
+        "description": "Intercambio descentralizado para trading de tokens"
+      },
+      "bridge": {
+        "title": "Puente Laxce",
+        "description": "Servicio de transferencia de activos entre cadenas"
+      }
+    },
+    "cta": {
+      "questions": "¿Preguntas Sobre los Términos?",
+      "contactLegal": "Contactar Equipo Legal",
+      "viewPrivacyPolicy": "Ver Política de Privacidad",
+      "backToHome": "Volver al Inicio"
+    }
+  },
+  "privacyPolicy": {
+    "hero": {
+      "badge": "Política de Privacidad",
+      "title": "Tu Privacidad Importa",
+      "subtitle": "Estamos comprometidos a proteger tu privacidad y asegurar la seguridad de tu información personal. Esta política explica cómo recopilamos, usamos y protegemos tus datos en cumplimiento con las leyes internacionales de privacidad.",
+      "lastUpdated": "Última Actualización: 15 de Diciembre de 2024",
+      "effective": "Efectivo: 1 de Enero de 2025"
+    },
+    "badges": {
+      "gdpr": "Cumple con GDPR",
+      "ccpa": "Cumple con CCPA",
+      "iso": "ISO 27001"
+    },
+    "quickNavigation": {
+      "title": "Navegación Rápida",
+      "dataCollection": "Recopilación de Datos",
+      "dataUsage": "Uso de Datos",
+      "dataSharing": "Compartir Datos",
+      "yourRights": "Tus Derechos",
+      "cookies": "Cookies",
+      "dataRetention": "Retención de Datos"
+    },
+    "dataCollection": {
+      "title": "Datos que Recopilamos",
+      "subtitle": "Solo recopilamos la información necesaria para proporcionar nuestros servicios y garantizar la seguridad.",
+      "personalInfo": {
+        "title": "Información Personal",
+        "item1": "Dirección de correo electrónico (para creación de cuenta y comunicación)",
+        "item2": "Nombre de usuario o nombre mostrado",
+        "item3": "Información de perfil (opcional)",
+        "item4": "Información de contacto para soporte",
+        "item5": "Información KYC/AML (si es requerido por ley)"
+      },
+      "technicalInfo": {
+        "title": "Información Técnica",
+        "item1": "Información del dispositivo (dirección IP, tipo de navegador, sistema operativo)",
+        "item2": "Datos de uso (páginas visitadas, características usadas, tiempo gastado)",
+        "item3": "Datos de transacciones (información pública de blockchain)",
+        "item4": "Archivos de registro y datos analíticos",
+        "item5": "Identificadores de dispositivo y cookies"
+      },
+      "walletInfo": {
+        "title": "Información de Billetera",
+        "item1": "Direcciones públicas de billetera (almacenadas localmente en tu dispositivo)",
+        "item2": "Historial de transacciones (de blockchain)",
+        "item3": "Balances de tokens y tenencias",
+        "item4": "Preferencias de red y configuraciones",
+        "item5": "Claves privadas (nunca almacenadas en nuestros servidores)"
+      },
+      "financialInfo": {
+        "title": "Información Financiera",
+        "item1": "Montos y tipos de transacciones",
+        "item2": "Historial y patrones de trading",
+        "item3": "Tarifas de gas y costos de red",
+        "item4": "Datos de staking y yield farming",
+        "item5": "Interacciones con protocolos DeFi"
+      },
+      "advertisingData": {
+        "title": "Datos de Publicidad y Marketing",
+        "item1": "Preferencias publicitarias y opciones de participación/exclusión",
+        "item2": "Interacciones con campañas de marketing",
+        "item3": "Tasas de clics de anuncios y participación",
+        "item4": "Identificadores publicitarios entre plataformas",
+        "item5": "Preferencias de comunicación de marketing"
+      },
+      "aiData": {
+        "title": "Datos de IA y Analítica",
+        "item1": "Análisis de patrones de transacciones (con consentimiento)",
+        "item2": "Comportamiento de uso para entrenamiento de IA (anonimizado)",
+        "item3": "Datos de interacción de características para optimización",
+        "item4": "Retroalimentación de rendimiento de modelos de IA",
+        "item5": "Interacciones de recomendaciones personalizadas"
+      }
+    },
+    "dataUsage": {
+      "title": "Cómo Usamos Tus Datos",
+      "subtitle": "Usamos tu información de manera responsable y solo para propósitos comerciales legítimos.",
+      "purposes": {
+        "serviceProvision": {
+          "title": "Provisión de Servicios",
+          "description": "Para proporcionar y mantener nuestros servicios DeFi, procesar transacciones y asegurar la funcionalidad de la plataforma."
+        },
+        "security": {
+          "title": "Seguridad y Prevención de Fraude",
+          "description": "Para proteger contra fraude, acceso no autorizado y asegurar la seguridad de nuestra plataforma y usuarios."
+        },
+        "communication": {
+          "title": "Comunicación",
+          "description": "Para enviar actualizaciones importantes, alertas de seguridad y responder a tus solicitudes de soporte."
+        },
+        "improvement": {
+          "title": "Mejora",
+          "description": "Para analizar patrones de uso y mejorar nuestros servicios, características y experiencia del usuario."
+        },
+        "compliance": {
+          "title": "Cumplimiento",
+          "description": "Para cumplir con obligaciones legales, requisitos regulatorios y hacer cumplir nuestros términos de servicio."
+        },
+        "legalBasis": {
+          "title": "Base Legal",
+          "description": "Ejecución de contrato, intereses legítimos, obligaciones legales y consentimiento donde sea aplicable."
+        }
+      }
+    },
+    "dataSharing": {
+      "title": "Compartir y Divulgación de Datos",
+      "subtitle": "No vendemos tus datos personales. Solo compartimos información en circunstancias limitadas.",
+      "entities": {
+        "serviceProviders": {
+          "title": "Proveedores de Servicios",
+          "description": "Servicios de terceros confiables para alojamiento, analítica y soporte (con estrictos acuerdos de protección de datos)."
+        },
+        "legalRequirements": {
+          "title": "Requisitos Legales",
+          "description": "Cuando sea requerido por ley, orden judicial o solicitud gubernamental (con proceso legal apropiado)."
+        },
+        "security": {
+          "title": "Seguridad y Protección",
+          "description": "Para proteger nuestros derechos, propiedad o seguridad, o la de nuestros usuarios y el público."
+        },
+        "businessTransfers": {
+          "title": "Transferencias Comerciales",
+          "description": "En caso de fusión, adquisición o venta de activos (con notificación y consentimiento del usuario donde sea requerido)."
+        },
+        "regulatory": {
+          "title": "Autoridades Regulatorias",
+          "description": "Reguladores financieros y agencias de aplicación de la ley según sea requerido por las leyes aplicables."
+        },
+        "blockchain": {
+          "title": "Redes Blockchain",
+          "description": "Los datos públicos de blockchain son inherentemente transparentes y accesibles a todos los participantes de la red."
+        }
+      }
+    },
+    "userRights": {
+      "title": "Tus Derechos de Privacidad",
+      "subtitle": "Tienes control sobre tus datos personales. Aquí están tus derechos y cómo ejercerlos.",
+      "rights": {
+        "access": {
+          "title": "Acceso",
+          "description": "Solicitar acceso a tus datos personales e información sobre cómo los procesamos."
+        },
+        "correction": {
+          "title": "Corrección",
+          "description": "Solicitar corrección de datos personales incorrectos o incompletos."
+        },
+        "deletion": {
+          "title": "Eliminación",
+          "description": "Solicitar eliminación de tus datos personales, sujeto a requisitos legales y operativos."
+        },
+        "portability": {
+          "title": "Portabilidad",
+          "description": "Solicitar una copia de tus datos en un formato estructurado y legible por máquina."
+        },
+        "objection": {
+          "title": "Objeción",
+          "description": "Objetar al procesamiento de tus datos para ciertos propósitos."
+        },
+        "withdrawal": {
+          "title": "Retiro",
+          "description": "Retirar el consentimiento para el procesamiento de datos donde el consentimiento es la base legal."
+        },
+        "restriction": {
+          "title": "Restricción",
+          "description": "Solicitar restricción del procesamiento en ciertas circunstancias."
+        },
+        "complaint": {
+          "title": "Queja",
+          "description": "Presentar una queja ante tu autoridad local de protección de datos."
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookies y Tecnologías de Seguimiento",
+      "subtitle": "Usamos cookies y tecnologías similares para mejorar tu experiencia y analizar el uso.",
+      "types": {
+        "essential": {
+          "title": "Cookies Esenciales",
+          "purpose": "Requeridas para funcionalidad básica del sitio web y seguridad",
+          "examples": "Autenticación, gestión de sesiones, características de seguridad",
+          "storage": "Almacenamiento local y almacenamiento de sesión"
+        },
+        "analytics": {
+          "title": "Cookies Analíticas",
+          "purpose": "Nos ayudan a entender cómo los usuarios interactúan con nuestra plataforma",
+          "examples": "Google Analytics, estadísticas de uso, monitoreo de rendimiento",
+          "storage": "Cookies del navegador con expiración configurable"
+        },
+        "functional": {
+          "title": "Cookies Funcionales",
+          "purpose": "Recuerdan tus preferencias y configuraciones",
+          "examples": "Preferencias de idioma, configuraciones de tema, opciones de visualización",
+          "storage": "Almacenamiento local y cookies persistentes"
+        },
+        "marketing": {
+          "title": "Cookies de Marketing",
+          "purpose": "Usadas para propósitos publicitarios y de marketing",
+          "examples": "Retargeting, integración de redes sociales, rendimiento de anuncios",
+          "storage": "Cookies de terceros con consentimiento del usuario"
+        },
+        "advertising": {
+          "title": "Cookies Publicitarias",
+          "purpose": "Entregar anuncios personalizados y medir el rendimiento de los anuncios",
+          "examples": "Google Ads, Facebook Pixel, publicidad programática",
+          "storage": "Cookies de terceros que requieren consentimiento explícito"
+        }
+      },
+      "management": {
+        "title": "Gestión de Cookies",
+        "browserSettings": {
+          "title": "Configuraciones del Navegador",
+          "items": [
+            "Limpiar cookies a través de configuraciones del navegador",
+            "Configurar navegador para bloquear cookies de terceros",
+            "Usar modo de navegación incógnito/privado",
+            "Instalar extensiones de bloqueo de anuncios"
+          ]
+        },
+        "ourControls": {
+          "title": "Nuestros Controles de Cookies",
+          "items": [
+            "Banner de consentimiento de cookies en la primera visita",
+            "Configuraciones granulares de preferencias de cookies",
+            "Fácil exclusión de cookies de marketing",
+            "Notificaciones de actualizaciones de política de cookies"
+          ]
+        }
+      }
+    },
+    "advertising": {
+      "title": "Publicidad y Marketing",
+      "subtitle": "Podemos usar tus datos para propósitos publicitarios, pero solo con tu consentimiento explícito.",
+      "personalized": {
+        "title": "Publicidad Personalizada",
+        "description": "Podemos usar tus patrones de transacciones y preferencias para mostrar anuncios relevantes. Esto incluye:",
+        "items": [
+          "Recomendaciones de productos DeFi basadas en tu historial de trading",
+          "Contenido educativo sobre criptomonedas que posees",
+          "Promociones para nuevas características que coinciden con tus patrones de uso",
+          "Publicidad entre plataformas en redes sociales y motores de búsqueda"
+        ],
+        "consent": "Requiere consentimiento explícito de participación"
+      },
+      "thirdParty": {
+        "title": "Publicidad de Terceros",
+        "description": "Trabajamos con socios publicitarios confiables para entregar contenido relevante:",
+        "items": [
+          "Google Ads y Google Analytics",
+          "Publicidad de Facebook e Instagram",
+          "Campañas publicitarias de Twitter/X",
+          "Redes de publicidad programática"
+        ],
+        "consent": "Requiere consentimiento explícito de participación"
+      },
+      "controls": {
+        "title": "Controles Publicitarios",
+        "description": "Tienes control total sobre las preferencias publicitarias:",
+        "items": [
+          "Excluirse de publicidad personalizada en cualquier momento",
+          "Gestionar preferencias de cookies en configuraciones de tu navegador",
+          "Usar software de bloqueo de anuncios sin afectar funcionalidad central",
+          "Contactarnos para deshabilitar completamente el seguimiento publicitario"
+        ],
+        "consent": "Configuraciones controladas por el usuario"
+      }
+    },
+    "ai": {
+      "title": "Inteligencia Artificial y Acceso a Datos",
+      "subtitle": "Usamos IA para mejorar tu experiencia, pero tú controlas cómo se accede y usa tus datos.",
+      "features": {
+        "title": "Características Impulsadas por IA",
+        "description": "Usamos inteligencia artificial para mejorar tu experiencia:",
+        "items": [
+          "Detección de fraude y evaluación de riesgos",
+          "Análisis de mercado e insights de trading",
+          "Recomendaciones personalizadas de cartera",
+          "Respuestas automatizadas de atención al cliente",
+          "Detección y prevención de amenazas de seguridad"
+        ],
+        "consent": "Requerido para funcionalidad del servicio"
+      },
+      "analysis": {
+        "title": "Análisis de Datos de Transacciones",
+        "description": "La IA puede analizar tus datos de transacciones para:",
+        "items": [
+          "Reconocimiento de patrones para propósitos de seguridad",
+          "Análisis de tendencias del mercado e insights",
+          "Recomendaciones de inversión personalizadas",
+          "Evaluación de riesgos y monitoreo de cumplimiento",
+          "Optimización del servicio y desarrollo de características"
+        ],
+        "consent": "Requiere consentimiento explícito del usuario"
+      },
+      "controls": {
+        "title": "Controles de Datos de IA",
+        "description": "Controlas cómo la IA accede a tus datos:",
+        "items": [
+          "Consentimiento de participación para análisis de datos de transacciones por IA",
+          "Control granular sobre qué tipos de datos puede acceder la IA",
+          "Capacidad de revocar el acceso de IA en cualquier momento",
+          "Reportes transparentes sobre el uso de datos por IA",
+          "Revisión humana de decisiones de IA que afectan tu cuenta"
+        ],
+        "consent": "Controlado por el usuario con configuraciones granulares"
+      },
+      "anonymization": {
+        "title": "Anonimización de Datos",
+        "description": "Cuando la IA procesa tus datos, aseguramos:",
+        "items": [
+          "Los identificadores personales se eliminan o encriptan",
+          "Los datos se agregan cuando es posible",
+          "Los modelos de IA se entrenan en conjuntos de datos anonimizados",
+          "Los datos de usuarios individuales no son identificables en salidas de IA",
+          "Cumplimiento con principios de minimización de datos"
+        ],
+        "consent": "Protección automática de privacidad"
+      },
+      "consentManagement": {
+        "title": "Gestión de Consentimiento de IA",
+        "yourControls": {
+          "title": "Tus Controles de IA",
+          "items": [
+            "Habilitar/deshabilitar análisis de datos de transacciones por IA",
+            "Controlar qué tipos de datos puede acceder la IA",
+            "Excluirse de recomendaciones personalizadas de IA",
+            "Solicitar eliminación de datos procesados por IA"
+          ]
+        },
+        "transparency": {
+          "title": "Características de Transparencia",
+          "items": [
+            "Explicación clara del uso de datos por IA",
+            "Reportes regulares sobre procesamiento de datos por IA",
+            "Revisión humana de decisiones de IA",
+            "Proceso de apelación para resultados generados por IA"
+          ]
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Retención de Datos",
+      "subtitle": "Retenemos tus datos solo durante el tiempo necesario para cumplir los propósitos delineados en esta política.",
+      "periods": {
+        "title": "Períodos de Retención",
+        "account": {
+          "category": "Datos de Cuenta",
+          "period": "Hasta eliminación de cuenta o 3 años de inactividad",
+          "reason": "Provisión de servicios y cumplimiento legal"
+        },
+        "transaction": {
+          "category": "Datos de Transacciones",
+          "period": "7 años (requisito legal)",
+          "reason": "Regulaciones financieras y cumplimiento fiscal"
+        },
+        "kyc": {
+          "category": "Datos KYC/AML",
+          "period": "5 años después del cierre de cuenta",
+          "reason": "Regulaciones contra lavado de dinero"
+        },
+        "logs": {
+          "category": "Archivos de Registro",
+          "period": "12 meses",
+          "reason": "Monitoreo de seguridad y resolución de problemas"
+        },
+        "marketing": {
+          "category": "Datos de Marketing",
+          "period": "Hasta retiro del consentimiento",
+          "reason": "Comunicaciones de marketing con consentimiento"
+        }
+      }
+    },
+    "internationalTransfers": {
+      "title": "Transferencias Internacionales de Datos",
+      "subtitle": "Tus datos pueden ser transferidos internacionalmente. Aseguramos que estén en lugar medidas de protección adecuadas.",
+      "regions": {
+        "eu": {
+          "title": "Unión Europea",
+          "safeguards": "Decisiones de adecuación, Cláusulas Contractuales Estándar (SCC), Reglas Corporativas Vinculantes"
+        },
+        "us": {
+          "title": "Estados Unidos",
+          "safeguards": "Privacy Shield (donde sea aplicable), SCC, Acuerdos de Procesamiento de Datos"
+        },
+        "asiaPacific": {
+          "title": "Asia-Pacífico",
+          "safeguards": "SCC, Cumplimiento de leyes locales de protección de datos, Encriptación en tránsito"
+        },
+        "other": {
+          "title": "Otras Regiones",
+          "safeguards": "SCC, Salvaguardias adecuadas, Evaluación de cumplimiento de leyes locales"
+        }
+      }
+    },
+    "childrenPrivacy": {
+      "title": "Privacidad de Menores",
+      "subtitle": "Estamos comprometidos a proteger la privacidad de niños y usuarios jóvenes.",
+      "ageRequirement": {
+        "title": "Requisito de Edad",
+        "description": "Nuestros servicios están destinados a usuarios de 18 años o más."
+      },
+      "policy": {
+        "title": "Nuestra Política",
+        "description": "No recopilamos conscientemente información personal de niños menores de 18 años. Si nos damos cuenta de que hemos recopilado tal información, tomaremos medidas para eliminarla prontamente."
+      },
+      "parentalRights": {
+        "title": "Derechos de los Padres",
+        "description": "Los padres o tutores que crean que hemos recopilado información de sus hijos deben contactarnos inmediatamente."
+      }
+    },
+    "dataBreach": {
+      "title": "Notificación de Violación de Datos",
+      "subtitle": "En el improbable evento de una violación de datos, tenemos procedimientos en lugar para proteger tu información.",
+      "timeframe": {
+        "title": "Marco de Tiempo de Notificación",
+        "description": "72 horas para residentes de la UE, según requiere GDPR"
+      },
+      "process": {
+        "title": "Proceso de Notificación",
+        "description": "Notificaremos a usuarios afectados y autoridades relevantes dentro del marco de tiempo requerido"
+      },
+      "measures": {
+        "title": "Medidas de Respuesta",
+        "description": "Evaluación inmediata de seguridad, contención y procedimientos de remediación"
+      }
+    },
+    "security": {
+      "title": "Medidas de Seguridad",
+      "subtitle": "Implementamos medidas de seguridad estándar de la industria para proteger tus datos.",
+      "practices": {
+        "title": "Nuestras Prácticas de Seguridad",
+        "items": [
+          "Encriptación de extremo a extremo para transmisión de datos sensibles",
+          "Autenticación multifactor para acceso a cuentas",
+          "Auditorías de seguridad regulares y pruebas de penetración",
+          "Centros de datos seguros con seguridad física y digital",
+          "Entrenamiento de empleados en protección de datos y privacidad",
+          "Procedimientos de respuesta a incidentes y protocolos de notificación de violaciones",
+          "Actualizaciones regulares de software y parches de seguridad",
+          "Controles de acceso y principios de menor privilegio",
+          "Procedimientos de respaldo de datos y recuperación ante desastres",
+          "Evaluaciones y monitoreo de seguridad de proveedores"
+        ]
+      }
+    },
+    "contact": {
+      "title": "¿Preguntas Sobre Privacidad?",
+      "subtitle": "Si tienes alguna pregunta sobre esta Política de Privacidad o nuestras prácticas de datos, por favor no dudes en contactarnos.",
+      "contactPrivacyTeam": "Contactar Equipo de Privacidad",
+      "backToHome": "Volver al Inicio"
+    }
+  },
+  "termsOfService": {
+    "hero": {
+      "badge": "Términos de Servicio",
+      "title": "Términos de Servicio",
+      "subtitle": "Estos términos gobiernan tu uso de los servicios de Laxce. Al usar nuestra plataforma, aceptas estos términos y reconoces que los has leído y entendido.",
+      "lastUpdated": "Última Actualización: 15 de Diciembre de 2024",
+      "effective": "Efectivo: 1 de Enero de 2025"
+    },
+    "legalNotice": {
+      "title": "Aviso Legal Importante",
+      "description": "Estos términos constituyen un acuerdo legalmente vinculante. Por favor léelos cuidadosamente. Si no estás de acuerdo con estos términos, no uses nuestros servicios."
+    },
+    "quickNavigation": {
+      "title": "Navegación Rápida",
+      "services": "Servicios",
+      "userObligations": "Obligaciones del Usuario",
+      "prohibitedActivities": "Actividades Prohibidas",
+      "liability": "Responsabilidad",
+      "intellectualProperty": "Propiedad Intelectual",
+      "disputeResolution": "Resolución de Disputas"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Laxce proporciona un conjunto completo de servicios DeFi diseñados para empoderar a los usuarios en el ecosistema de criptomonedas.",
+      "wallet": {
+        "title": "Billetera Laxce",
+        "description": "Billetera segura de criptomonedas con soporte multi-cadena",
+        "features": [
+          "Gestión de billetera multi-cadena",
+          "Almacenamiento seguro de claves privadas",
+          "Firma y transmisión de transacciones",
+          "Seguimiento de cartera y analítica"
+        ]
+      },
+      "dex": {
+        "title": "Laxce DEX",
+        "description": "Intercambio descentralizado para trading de tokens",
+        "features": [
+          "Creación automática de mercado (AMM)",
+          "Provisión de liquidez y yield farming",
+          "Intercambios de tokens entre cadenas",
+          "Feeds de precios en tiempo real y gráficos"
+        ]
+      },
+      "bridge": {
+        "title": "Puente Laxce",
+        "description": "Servicio de transferencia de activos entre cadenas",
+        "features": [
+          "Puente de activos entre blockchains",
+          "Gestión de pools de liquidez",
+          "Seguridad y validación de puentes",
+          "Monitoreo de transacciones y soporte"
+        ]
+      }
+    },
+    "userObligations": {
+      "title": "Obligaciones del Usuario",
+      "subtitle": "Como usuario de nuestros servicios, tienes ciertas responsabilidades y obligaciones.",
+      "accountSecurity": {
+        "title": "Seguridad de la Cuenta",
+        "items": [
+          "Mantener acceso seguro a tu billetera y claves privadas",
+          "Usar contraseñas fuertes y habilitar autenticación de dos factores",
+          "Nunca compartir claves privadas o frases semilla con nadie",
+          "Reportar actividad sospechosa inmediatamente",
+          "Mantener tu dispositivo y software actualizados"
+        ]
+      },
+      "legalCompliance": {
+        "title": "Cumplimiento Legal",
+        "items": [
+          "Cumplir con todas las leyes y regulaciones aplicables",
+          "Proporcionar información precisa y completa para KYC/AML",
+          "No usar servicios para actividades ilegales o lavado de dinero",
+          "Respetar derechos de propiedad intelectual",
+          "No participar en manipulación de mercado o fraude"
+        ]
+      },
+      "serviceUsage": {
+        "title": "Uso del Servicio",
+        "items": [
+          "Usar servicios solo para propósitos legales",
+          "No intentar hackear o comprometer nuestros sistemas",
+          "No interferir con el acceso de otros usuarios a los servicios",
+          "Reportar errores y vulnerabilidades de seguridad responsablemente",
+          "Seguir nuestras políticas de uso justo y límites de tasa"
+        ]
+      },
+      "financialResponsibility": {
+        "title": "Responsabilidad Financiera",
+        "items": [
+          "Entender los riesgos del trading de criptomonedas",
+          "Realizar tu propia investigación antes de hacer inversiones",
+          "No invertir más de lo que puedes permitirte perder",
+          "Ser consciente de las obligaciones fiscales en tu jurisdicción",
+          "Mantener registros precisos de transacciones"
+        ]
+      }
+    },
+    "prohibitedActivities": {
+      "title": "Actividades Prohibidas",
+      "subtitle": "Las siguientes actividades están estrictamente prohibidas y pueden resultar en terminación de cuenta.",
+      "activities": [
+        "Lavado de dinero o financiamiento del terrorismo",
+        "Manipulación de mercado o esquemas pump-and-dump",
+        "Acceso no autorizado a cuentas o sistemas",
+        "Distribución de malware o intentos de phishing",
+        "Acoso o abuso de otros usuarios",
+        "Violación de derechos de propiedad intelectual",
+        "Intentar ingeniería inversa de nuestros servicios",
+        "Usar servicios para apuestas ilegales o actividades",
+        "Eludir medidas de seguridad o controles de acceso",
+        "Proporcionar información falsa o engañosa"
+      ]
+    },
+    "intellectualProperty": {
+      "title": "Propiedad Intelectual",
+      "subtitle": "Entendiendo nuestros derechos de propiedad intelectual y tus derechos de uso.",
+      "ourRights": {
+        "title": "Nuestros Derechos",
+        "items": [
+          "Todo el software, código y tecnología usados en nuestros servicios",
+          "Marcas registradas, logos y elementos de marca",
+          "Diseños de interfaz de usuario y layouts",
+          "Documentación, guías y contenido educativo",
+          "Analítica, insights y datos agregados"
+        ]
+      },
+      "yourRights": {
+        "title": "Tus Derechos",
+        "items": [
+          "Propiedad de tus activos de criptomonedas",
+          "Derecho a usar nuestros servicios según lo previsto",
+          "Capacidad de exportar tus datos de transacciones",
+          "Libertad para usar APIs públicas e integraciones",
+          "Derecho a proporcionar retroalimentación y sugerencias"
+        ]
+      },
+      "usageLicense": {
+        "title": "Licencia de Uso",
+        "items": [
+          "Licencia no exclusiva y revocable para usar nuestros servicios",
+          "La licencia termina al cierre de cuenta o violación",
+          "No hay derecho a sublicenciar o transferir la licencia",
+          "Debe cumplir con todos los términos y condiciones",
+          "Nos reservamos el derecho de modificar o discontinuar servicios"
+        ]
+      }
+    },
+    "liability": {
+      "title": "Limitaciones de Responsabilidad",
+      "subtitle": "Limitaciones importantes en nuestra responsabilidad y tu entendimiento de riesgos.",
+      "serviceAvailability": {
+        "title": "Disponibilidad del Servicio",
+        "description": "Nos esforzamos por alta disponibilidad pero no podemos garantizar servicio ininterrumpido",
+        "items": [
+          "Mantenimiento programado y actualizaciones",
+          "Dependencias de servicios de terceros",
+          "Congestión de red y problemas de blockchain",
+          "Eventos de fuerza mayor y emergencias"
+        ]
+      },
+      "financialLosses": {
+        "title": "Pérdidas Financieras",
+        "description": "El trading de criptomonedas involucra riesgos significativos",
+        "items": [
+          "Volatilidad del mercado y fluctuaciones de precios",
+          "Vulnerabilidades y errores de contratos inteligentes",
+          "Cambios regulatorios que afectan mercados crypto",
+          "Problemas técnicos que causan fallas de transacciones"
+        ]
+      },
+      "securityIncidents": {
+        "title": "Incidentes de Seguridad",
+        "description": "Aunque implementamos medidas de seguridad robustas",
+        "items": [
+          "Negligencia del usuario en gestión de claves",
+          "Violaciones de seguridad de terceros",
+          "Amenazas persistentes avanzadas",
+          "Vulnerabilidades de día cero"
+        ]
+      }
+    },
+    "regulatoryCompliance": {
+      "title": "Cumplimiento Regulatorio",
+      "subtitle": "Estamos comprometidos al cumplimiento con leyes y regulaciones aplicables.",
+      "kycAml": {
+        "title": "Requisitos KYC/AML",
+        "description": "Cumplimiento de Conoce a tu Cliente y Anti-Lavado de Dinero",
+        "items": [
+          "Verificación de identidad para ciertas transacciones",
+          "Documentación de fuente de fondos",
+          "Reporte de actividad sospechosa",
+          "Monitoreo y filtrado de transacciones"
+        ]
+      },
+      "financialRegulations": {
+        "title": "Regulaciones Financieras",
+        "description": "Cumplimiento con leyes de servicios financieros aplicables",
+        "items": [
+          "Requisitos de licencia y registro",
+          "Requisitos de adecuación de capital y reservas",
+          "Estándares de protección al consumidor",
+          "Reporte regulatorio y auditorías"
+        ]
+      },
+      "dataProtection": {
+        "title": "Protección de Datos",
+        "description": "Cumplimiento con leyes de privacidad y protección de datos",
+        "items": [
+          "Cumplimiento GDPR para usuarios de la UE",
+          "Cumplimiento CCPA para residentes de California",
+          "Minimización de datos y limitación de propósito",
+          "Gestión de derechos de usuario y consentimiento"
+        ]
+      },
+      "taxCompliance": {
+        "title": "Cumplimiento Fiscal",
+        "description": "Requisitos de reporte fiscal y cumplimiento",
+        "items": [
+          "Reporte de transacciones para propósitos fiscales",
+          "Documentación de ganancias y pérdidas de capital",
+          "Cumplimiento fiscal internacional",
+          "Cooperación con autoridades fiscales"
+        ]
+      }
+    },
+    "disputeResolution": {
+      "title": "Resolución de Disputas",
+      "subtitle": "Cómo manejamos disputas y resolvemos conflictos con usuarios.",
+      "steps": {
+        "informal": {
+          "number": "1",
+          "title": "Resolución Informal",
+          "description": "Contacta a nuestro equipo de soporte para resolver problemas informalmente",
+          "timeframe": "Marco de tiempo: 30 días",
+          "contact": "Contacto: support@laxce.com"
+        },
+        "mediation": {
+          "number": "2",
+          "title": "Mediación",
+          "description": "Si la resolución informal falla, podemos ofrecer servicios de mediación",
+          "timeframe": "Marco de tiempo: 60 días",
+          "contact": "Contacto: legal@laxce.com"
+        },
+        "arbitration": {
+          "number": "3",
+          "title": "Arbitraje",
+          "description": "Arbitraje vinculante bajo reglas aplicables",
+          "timeframe": "Marco de tiempo: 90 días",
+          "contact": "Contacto: legal@laxce.com"
+        },
+        "legal": {
+          "number": "4",
+          "title": "Acción Legal",
+          "description": "Como último recurso, puede perseguirse acción legal",
+          "timeframe": "Marco de tiempo: Según requerido por ley",
+          "contact": "Contacto: legal@laxce.com"
+        }
+      }
+    },
+    "accountTermination": {
+      "title": "Terminación de Cuenta",
+      "subtitle": "Condiciones bajo las cuales las cuentas pueden ser terminadas o suspendidas.",
+      "userTermination": {
+        "title": "Terminación por Usuario",
+        "items": [
+          "Solicitud de cierre de cuenta por parte del usuario",
+          "Período de aviso de 30 días para cuentas activas",
+          "Liquidación de transacciones pendientes",
+          "Opciones de exportación y eliminación de datos"
+        ]
+      },
+      "serviceTermination": {
+        "title": "Terminación del Servicio",
+        "items": [
+          "Violación de términos de servicio",
+          "Actividades fraudulentas o ilegales",
+          "Período extendido de inactividad",
+          "Requisitos regulatorios o legales"
+        ]
+      },
+      "immediateSuspension": {
+        "title": "Suspensión Inmediata",
+        "items": [
+          "Transacciones sospechosas o fraudulentas",
+          "Amenazas o violaciones de seguridad",
+          "Investigaciones regulatorias",
+          "Órdenes judiciales o requisitos legales"
+        ]
+      }
+    },
+    "contact": {
+      "title": "¿Preguntas Sobre los Términos?",
+      "subtitle": "Si tienes alguna pregunta sobre estos Términos de Servicio o necesitas aclaración, por favor no dudes en contactar a nuestro equipo legal.",
+      "contactLegal": "Contactar Equipo Legal",
+      "viewPrivacyPolicy": "Ver Política de Privacidad",
+      "backToHome": "Volver al Inicio"
+    }
+  },
+  "app": {
+    "dropdown": {
+      "getApp": "Obtener App",
+      "chooseDownload": "Elige tu método de descarga",
+      "apkDownload": "Descarga APK",
+      "apkDescription": "Descarga directa del archivo APK",
+      "googlePlay": "Google Play",
+      "googlePlayDescription": "Descargar desde Google Play Store",
+      "appStore": "App Store",
+      "appStoreDescription": "Descargar desde Apple App Store"
+    }
+  }
+} 

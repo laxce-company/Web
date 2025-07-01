@@ -1,0 +1,2176 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "wallet": "Cüzdan",
+    "dex": "DEX",
+    "roadmap": "Yol Haritası",
+    "whitepaper": "Beyaz Kağıt",
+    "tokenomics": "Tokenomik",
+    "ecosystem": "Ekosistem"
+  },
+  "home": {
+    "hero": {
+      "badge": "Hepsi Bir Arada DeFi",
+      "title": "DeFi'nin Geleceği Burada",
+      "subtitle": "Yerleşik DEX, zincirler arası köprü ve sıfır ticaret ücreti ile güvenli çok zincirli cüzdan. Merkezi olmayan geleceğe açılan kapınız.",
+      "mainTitle": "Cüzdan ve DEX",
+      "description": "Yerleşik merkezi olmayan borsa, zincirler arası köprü ve sıfır ticaret ücreti ile güvenli çok zincirli cüzdan. Merkezi olmayan geleceğe açılan kapınız.",
+      "cta": "Başla",
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "features": {
+      "title": "Neden Laxce'yi Seçmelisiniz?",
+      "subtitle": "Laxce'yi nihai DeFi platformu yapan özellikleri keşfedin",
+      "badge": "Özellikler",
+      "heading": "DeFi Başarısı İçin İhtiyacınız Olan Her Şey",
+      "description": "Tüm DeFi ihtiyaçlarınız için tek uygulama. Güvenli cüzdan, anında ticaret ve zincirler arası köprüler.",
+      "secure": {
+        "badge": "%100 güvenli",
+        "title": "Güvenli Cüzdan",
+        "description": "Gelişmiş güvenlik özellikleri ve öz-saklama ile çok zincirli cüzdan"
+      },
+      "fees": {
+        "badge": "%0 ücret",
+        "title": "Yerleşik DEX",
+        "description": "Cüzdanınızdan doğrudan sıfır ücret ve anında takaslarla ticaret yapın"
+      },
+      "chains": {
+        "badge": "10+ zincir",
+        "title": "Zincirler Arası Köprü",
+        "description": "Birden fazla blok zinciri ağı arasında varlıkları sorunsuzca taşıyın"
+      },
+      "speed": {
+        "badge": "0.1s ortalama",
+        "title": "Şimşek Hızında",
+        "description": "Optimize edilmiş motorumuzla milisaniyeler içinde işlemleri gerçekleştirin"
+      },
+      "wallet": {
+        "title": "Güvenli Cüzdan",
+        "description": "Gelişmiş güvenlik özellikleri ve kullanım kolay arayüz ile çok zincirli cüzdan"
+      },
+      "dex": {
+        "title": "DEX Ticareti",
+        "description": "Şimşek hızında işlemler ve minimal ücretlerle merkezi olmayan borsa"
+      },
+      "bridge": {
+        "title": "Zincirler Arası Köprü",
+        "description": "Farklı blok zinciri ağları arasında varlıkları sorunsuzca transfer edin"
+      },
+      "staking": {
+        "title": "Staking Ödülleri",
+        "description": "Rekabetçi APY ile tokenlerinizi stake ederek pasif gelir kazanın"
+      }
+    },
+    "howItWorks": {
+      "badge": "Başlarken",
+      "title": "4 Basit Adımda Nasıl Başlanır",
+      "step1": {
+        "number": "01",
+        "title": "İndir ve Yükle",
+        "description": "Uygulama mağazanızdan Laxce'yi alın veya APK'yı doğrudan indirin"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Cüzdan Oluştur",
+        "description": "Yedek cümle koruması ile güvenli cüzdanınızı oluşturun"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Ticarete Başla",
+        "description": "DEX'e bağlanın ve anında sıfır ücretle ticarete başlayın"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Varlıkları Köprüle",
+        "description": "Ağlar arasında varlık taşımak için zincirler arası köprüyü kullanın"
+      }
+    },
+    "journey": {
+      "title": "Geleceğe Yolculuğumuz",
+      "subtitle": "DeFi'de devrim yaratma yolculuğumuzu tanımlayan kilometre taşları",
+      "phase1": {
+        "title": "Temel Aşama",
+        "description": "Temel platform geliştirme ve güvenlik denetimleri",
+        "status": "Tamamlandı"
+      },
+      "phase2": {
+        "title": "Lansman Aşaması",
+        "description": "Temel özelliklerle cüzdan ve DEX lansmanı",
+        "status": "Devam Ediyor"
+      },
+      "phase3": {
+        "title": "Genişleme Aşaması",
+        "description": "Gelişmiş özellikler ve zincirler arası entegrasyon",
+        "status": "Yakında"
+      },
+      "phase4": {
+        "title": "Ekosistem Aşaması",
+        "description": "Yönetişim ve DAO ile tam DeFi ekosistemi",
+        "status": "Yakında"
+      }
+    },
+    "security": {
+      "badge": "Güvenlik Öncelikli",
+      "title": "Güvenliğiniz En Büyük Önceliğimiz",
+      "subtitle": "Varlıklarınızın ve verilerinizin tamamen güvenli ve özel kalmasını sağlamak için kurumsal düzeyde güvenlik önlemleri uyguladık.",
+      "biometric": {
+        "title": "Biyometrik Güvenlik",
+        "description": "Hızlı ve güvenli erişim için parmak izi ve yüz tanıma"
+      },
+      "privacy": {
+        "title": "Gizlilik Öncelikli",
+        "description": "Verileriniz cihazınızda kalır. Özel anahtarlarınıza asla erişmeyiz"
+      },
+      "encryption": {
+        "title": "Şifreli Depolama",
+        "description": "Tüm hassas veriler askeri düzeyde algoritmalarla şifrelenir"
+      },
+      "multiSig": {
+        "title": "Çoklu İmza Desteği",
+        "description": "Gelişmiş güvenlik için gelişmiş çoklu imza cüzdanları"
+      },
+      "features": {
+        "militaryGrade": "Askeri Düzeyde Güvenlik",
+        "encryption": "Şifreleme",
+        "selfCustody": "Öz-Saklama",
+        "biometricAccess": "Biyometrik Erişim",
+        "multiSigSupport": "Çoklu İmza Desteği"
+      }
+    },
+    "supportedChains": {
+      "badge": "Çoklu Zincir Desteği",
+      "title": "Ana Blok Zincirler İçin Destek",
+      "subtitle": "Tek bir cüzdandan birden fazla blok zinciri ağı üzerindeki tüm DeFi ekosistemine erişin.",
+      "chains": {
+        "bitcoin": "Bitcoin",
+        "ethereum": "Ethereum",
+        "bsc": "Binance Smart Chain",
+        "polygon": "Polygon",
+        "solana": "Solana",
+        "xrp": "XRP"
+      }
+    },
+    "tokenomics": {
+      "badge": "LAXCE V1-2024 TOKENOMİK",
+      "title": "$LAX Token Ekonomisi",
+      "subtitle": "$LAX token yönetişim hakları, staking ödülleri ve özel platform avantajları ile ekosistemumuze güç verir. Gelecekteki çoklu zincir uyumluluğu ile Ethereum üzerinde inşa edilmiştir.",
+      "totalSupply": {
+        "value": "500M",
+        "label": "Toplam Arz"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "Token Sembolü"
+      },
+      "viewFull": "Tam Tokenomik Görüntüle",
+      "distribution": {
+        "title": "Token Dağılımı",
+        "publicSale": {
+          "label": "Halka Satış",
+          "percentage": "%40"
+        },
+        "privateSale": {
+          "label": "Özel Satış",
+          "percentage": "%20"
+        },
+        "reserveFund": {
+          "label": "Rezerv Fonu",
+          "percentage": "%15"
+        },
+        "stakingRewards": {
+          "label": "Staking Ödülleri",
+          "percentage": "%15"
+        },
+        "teamAdvisors": {
+          "label": "Ekip ve Danışmanlar",
+          "percentage": "%10"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Kullanıcı Yorumları",
+      "title": "Kullanıcılarımız Ne Diyor",
+      "reviews": [
+        {
+          "content": "Laxce ticaret deneyimimi devrim niteliğinde değiştirdi. Hız ve güvenlik eşsiz.",
+          "name": "Alex Chen",
+          "role": "DeFi Tüccarı",
+          "avatar": "AC",
+          "rating": 5
+        },
+        {
+          "content": "Sonunda özelliklerden ödün vermeden güvenliği önceleyerek bir cüzdan.",
+          "name": "Sarah Johnson",
+          "role": "Kripto Yatırımcısı",
+          "avatar": "SJ",
+          "rating": 5
+        },
+        {
+          "content": "Zincirler arası köprü özelliği DeFi operasyonlarım için oyun değiştirici.",
+          "name": "Mike Rodriguez",
+          "role": "Blok Zinciri Geliştiricisi",
+          "avatar": "MR",
+          "rating": 5
+        }
+      ]
+    },
+    "roadmap": {
+      "hero": {
+        "badge": "Geliştirme Yol Haritası",
+        "title": "Yolculuğumuz",
+        "subtitle": "Merkezi olmayan finans ve gerçek dünya varlık tokenizasyonunun geleceğini inşa etmek. Temelden küresel genişlemeye, her kilometre taşı bizi dijital finansı devrim niteliğinde değiştirmeye yaklaştırıyor."
+      },
+      "filters": {
+        "all": "Tümü",
+        "completed": "Tamamlandı",
+        "current": "Mevcut",
+        "upcoming": "Yakında"
+      },
+      "phases": {
+        "q4_2024": {
+          "quarter": "2024 Q4",
+          "status": "completed",
+          "title": "Temel ve Token Lansmanı",
+          "description": "Temel altyapı ve yerel token lansmanı",
+          "achievements": [
+            "LAXCE yerel token (LAX) lansmanı",
+            "Halka açık testnet lansmanı",
+            "Merkezi olmayan yönetişim çerçevesi",
+            "Ethereum üzerinde Laxcedex DEX lansmanı",
+            "Ağ katılım teşvikleri"
+          ]
+        },
+        "q1_2025": {
+          "quarter": "2025 Q1",
+          "status": "completed",
+          "title": "Mainnet ve Geliştirici Araçları",
+          "description": "Mainnet lansmanı ve kapsamlı geliştirici ekosistemi",
+          "achievements": [
+            "Polygon CDK Validium üzerinde mainnet lansmanı",
+            "Geliştirici araçları ve API'ların yayınlanması",
+            "Ekosistem ortaklığı gelişimi",
+            "Gerçek dünya varlık tokenizasyon platformu",
+            "Ölçeklenebilir ve güvenli altyapı"
+          ]
+        },
+        "q2_2025": {
+          "quarter": "2025 Q2",
+          "status": "completed",
+          "title": "Zincirler Arası ve Kurumsal",
+          "description": "Birlikte çalışabilirlik ve kurumsal çözümler",
+          "achievements": [
+            "Zincirler arası birlikte çalışabilirlik uygulaması",
+            "Kurumsal düzeyde çözüm geliştirme",
+            "Topluluk büyümesi ve katılımı",
+            "Mikro ödemeler ve ödeme entegrasyonu",
+            "Tüccar ağ geçidi ortaklıkları"
+          ]
+        },
+        "q3_2025": {
+          "quarter": "2025 Q3",
+          "status": "current",
+          "title": "Gerçek Dünya Varlık Tokenizasyonu",
+          "description": "Gerçek dünya varlık tokenizasyonu için pilot projeler",
+          "achievements": [
+            "Gayrimenkul tokenizasyon pilotları",
+            "Emtia tokenizasyon projeleri",
+            "Sanat ve koleksiyon tokenizasyonu",
+            "Tedarik zinciri finansman çözümleri",
+            "Ticaret finansmanı süreç optimizasyonu"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "2025 Q4",
+          "status": "upcoming",
+          "title": "Gelişmiş DeFi Ekosistemi",
+          "description": "Kapsamlı DeFi protokol entegrasyonu ve genişlemesi",
+          "achievements": [
+            "Gelişmiş borç verme protokolleri",
+            "Verim çiftçiliği optimizasyonu",
+            "NFT pazarı genişlemesi",
+            "Sigorta ürün entegrasyonu",
+            "Türev ticaret platformu"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "2026 Q1",
+          "status": "upcoming",
+          "title": "Küresel Genişleme",
+          "description": "Uluslararası pazar genişlemesi ve düzenleyici uyumluluk",
+          "achievements": [
+            "Küresel düzenleyici uyumluluk",
+            "Uluslararası pazar girişi",
+            "Çok dilli platform desteği",
+            "Bölgesel ortaklık genişlemesi",
+            "Uyumluluk ve güvenlik denetimleri"
+          ]
+        },
+        "q2_2026": {
+          "quarter": "2026 Q2",
+          "status": "upcoming",
+          "title": "AI ve Gelişmiş Analitik",
+          "description": "AI destekli özellikler ve gelişmiş analitik platform",
+          "achievements": [
+            "AI destekli ticaret algoritmaları",
+            "Gelişmiş portföy analitiği",
+            "Öngörücü piyasa içgörüleri",
+            "Otomatik risk yönetimi",
+            "Makine öğrenmesi entegrasyonu"
+          ]
+        },
+        "q3_2026": {
+          "quarter": "2026 Q3",
+          "status": "upcoming",
+          "title": "Kurumsal Adapte",
+          "description": "Kurumsal düzeyde çözümler ve kurumsal adapte",
+          "achievements": [
+            "Kurumsal ticaret masaları",
+            "Kurumsal saklama çözümleri",
+            "Düzenleyici raporlama araçları",
+            "Kurumsal ortaklıklar",
+            "Uyumluluk otomasyonu"
+          ]
+        }
+      },
+      "keyAchievements": "Önemli Başarılar",
+      "stats": {
+        "phasesCompleted": {
+          "value": "3/8",
+          "label": "Tamamlanan Aşamalar"
+        },
+        "currentPhase": {
+          "value": "1",
+          "label": "Mevcut Aşama"
+        },
+        "timeline": {
+          "value": "24",
+          "label": "Ay Zaman Çizelgesi"
+        },
+        "totalPhases": {
+          "value": "8",
+          "label": "Toplam Aşamalar"
+        }
+      },
+      "viewFull": "Tam Yol Haritasını Görüntüle",
+      "cta": {
+        "title": "Güncel Kalın",
+        "subtitle": "Laxce güncellemeleri ve haberleri için kaydolun. Önemli kilometre taşları hakkında bilgilendirilir ve yeni özelliklere ilk erişen olur.",
+        "joinCommunity": "Topluluğumuza Katılın"
+      }
+    },
+    "cta": {
+      "title": "DeFi Yolculuğunuza Başlamaya Hazır mısınız?",
+      "subtitle": "Laxce ile zaten ticaret yapan, staking yapan ve kazanan binlerce kullanıcıya katılın.",
+      "getApp": "Uygulamayı Al",
+      "readWhitepaper": "Beyaz Kağıdı Oku",
+      "availability": "iOS, Android ve Web'de mevcut • Ücretsiz indirme • Gizli ücret yok"
+    },
+    "stats": {
+      "count1": "50K+",
+      "label1": "Aktif Kullanıcılar",
+      "growth1": "+%15",
+      "count2": "$2.5B",
+      "label2": "İşlem Hacmi",
+      "growth2": "+%45",
+      "count3": "%99.9",
+      "label3": "Çalışma Süresi",
+      "growth3": "%99.9",
+      "count4": "24/7",
+      "label4": "Destek",
+      "growth4": "Anında",
+      "users": "Aktif Kullanıcılar",
+      "volume": "İşlem Hacmi",
+      "tokens": "Desteklenen Tokenler",
+      "chains": "Blok Zinciri Ağları",
+      "activeusers": "Aktif Kullanıcılar",
+      "volumetraded": "İşlem Hacmi",
+      "uptime": "Çalışma Süresi",
+      "support": "Destek"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Laxce Hakkında",
+      "title": "DeFi'de Devrim",
+      "subtitle": "Merkezi olmayan finansın geleceğini inşa ediyor, herkese erişilebilir, güvenli ve kullanıcı dostu hale getiriyoruz. Yeni başlayanlardan uzmanlara, Laxce güvenle DeFi ekosistemine yönlendirmek için ihtiyacınız olan araçları sağlar."
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Dünya çapındaki bireyleri finansal geleceklerini kontrol altına almak için güçlendiren sezgisel, güvenli ve güçlü araçlar yaratarak merkezi olmayan finansa erişimi demokratikleştirmek. Teknik uzmanlıklarına bakılmaksızın herkesin DeFi'nin faydalarına erişmeyi hak ettiğine inanıyoruz."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Geleneksel finansı blok zinciri teknolojisi ile birleştiren önde gelen DeFi platformu olmak, kullanıcıların eşsiz kolaylık ve güvenlikle dijital varlıklarını takas edebileceği, kazanabileceği ve yönetebileceği kusursuz bir ekosistem yaratmak."
+    },
+    "values": {
+      "title": "Temel Değerlerimiz",
+      "subtitle": "Laxce'de yaptığımız her şeyi yönlendiren ilkeler",
+      "security": {
+        "title": "Güvenlik Öncelikli",
+        "description": "Kullanıcı varlıklarını korumak için kurumsal düzeyde güvenlik protokolleri ve düzenli denetimler."
+      },
+      "innovation": {
+        "title": "Yenilik",
+        "description": "DeFi çözümlerinde en son teknoloji ve sürekli iyileştirme."
+      },
+      "userCentric": {
+        "title": "Kullanıcı Merkezli",
+        "description": "Hem yeni başlayanlar hem uzmanlar için sezgisel tasarım ve kusursuz deneyim."
+      },
+      "globalAccess": {
+        "title": "Küresel Erişim",
+        "description": "Çoklu zincir desteği ile dünya çapındaki kullanıcılar için DeFi erişimini demokratikleştirmek."
+      },
+      "transparency": {
+        "title": "Şeffaflık",
+        "description": "Açık kaynak kodu, halka açık denetimler ve topluluğumuzla net iletişim."
+      },
+      "growth": {
+        "title": "Büyüme",
+        "description": "Stratejik ortaklıklar ve ekosistem geliştirme yoluyla sürdürülebilir büyüme."
+      }
+    },
+    "journey": {
+      "title": "Yolculuğumuz",
+      "subtitle": "DeFi'de devrim yaratma misyonumuzun ana kilometre taşları",
+      "milestones": {
+        "2023": {
+          "year": "2023",
+          "title": "Kuruluş",
+          "description": "DeFi erişimini demokratikleştirme vizyonuyla Laxce kuruldu"
+        },
+        "2024Q1": {
+          "year": "2024 Q1",
+          "title": "MVP Lansmanı",
+          "description": "Laxce Wallet ve DEX'in ilk versiyonu lansmanı"
+        },
+        "2024Q2": {
+          "year": "2024 Q2",
+          "title": "Güvenlik Denetimi",
+          "description": "Önde gelen firmalar tarafından kapsamlı güvenlik denetimlerinin tamamlanması"
+        },
+        "2024Q3": {
+          "year": "2024 Q3",
+          "title": "Çoklu Zincir",
+          "description": "Ethereum, BSC ve Polygon ağlarına desteğin genişletilmesi"
+        },
+        "2024Q4": {
+          "year": "2024 Q4",
+          "title": "Mobil Uygulama",
+          "description": "iOS ve Android için yerel mobil uygulamalar"
+        },
+        "2025": {
+          "year": "2025",
+          "title": "Küresel Genişleme",
+          "description": "1M+ aktif kullanıcı ve 50+ desteklenen zinciri hedefleme"
+        }
+      }
+    },
+    "company": {
+      "title": "Laxce Hakkında",
+      "founded": "2023'te kuruldu",
+      "team": "Küresel Ekip (Uzaktan Öncelikli)",
+      "members": "25+ Ekip Üyesi",
+      "countries": "10+ Ülke",
+      "contact": {
+        "title": "İletişim Bilgileri",
+        "email": "contact@laxce.com",
+        "website": "laxce.com"
+      }
+    },
+    "whyChoose": {
+      "title": "Neden Laxce'yi Seçmelisiniz?",
+      "security": {
+        "title": "Gelişmiş Güvenlik",
+        "description": "Düzenli denetimlerle çok katmanlı güvenlik"
+      },
+      "interface": {
+        "title": "Kullanıcı Dostu Arayüz",
+        "description": "Tüm deneyim seviyeleri için sezgisel tasarım"
+      },
+      "multiChain": {
+        "title": "Çoklu Zincir Desteği",
+        "description": "Birden fazla blok zinciri ağına erişim"
+      },
+      "support": {
+        "title": "24/7 Destek",
+        "description": "Kesintisiz müşteri yardımı"
+      }
+    },
+    "cta": {
+      "title": "DeFi Devrimine Katılmaya Hazır mısınız?",
+      "description": "Laxce ile DeFi yolculuğunuza bugün başlayın. Uygulamamızı indirin ve finansın geleceğini deneyimleyin.",
+      "exploreWallet": "Cüzdanı Keşfet",
+      "tryDex": "DEX'i Dene"
+    }
+  },
+  "footer": {
+    "description": "Merkezi olmayan finansın geleceği. Güvenli, hızlı ve kullanıcı dostu DeFi platformu.",
+    "products": "Ürünler",
+    "resources": "Kaynaklar",
+    "company": "Şirket",
+    "legal": "Yasal",
+    "social": "Bizi Takip Edin",
+    "language": "Dil",
+    "copyright": "© 2024 Laxce. Tüm hakları saklıdır.",
+    "secureByDesign": "Tasarımla güvenli",
+    "madeBy": "Yapımcı",
+    "laxceTeam": "Laxce Ekibi",
+    "downloads": {
+      "whitepaper": "Beyaz Kağıt İndir",
+      "tokenomics": "Tokenomik İndir"
+    },
+    "links": {
+      "wallet": "Cüzdan",
+      "walletDescription": "Güvenli kripto cüzdanı",
+      "dex": "DEX",
+      "dexDescription": "Merkezi olmayan borsa",
+      "bridge": "Köprü",
+      "bridgeDescription": "Zincirler arası transferler",
+      "staking": "Staking",
+      "stakingDescription": "Ödül kazanın",
+      "roadmap": "Yol Haritası",
+      "whitepaper": "Beyaz Kağıt",
+      "tokenomics": "Tokenomik",
+      "documentation": "Dokümantasyon",
+      "aboutUs": "Hakkımızda",
+      "careers": "Kariyer",
+      "pressKit": "Basın Kiti",
+      "contact": "İletişim",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfService": "Hizmet Şartları",
+      "security": "Güvenlik",
+      "audits": "Denetimler",
+      "discord": "Discord",
+      "twitter": "X (Twitter)",
+      "telegram": "Telegram",
+      "medium": "Medium"
+    }
+  },
+  "wallet": {
+    "hero": {
+      "badge": "LAXCE CÜZDAN",
+      "title": "Finansın Geleceğine Açılan Kapınız",
+      "subtitle": "1000+ kripto para, 10+ blok zinciri ve çok dilli destek ile en gelişmiş kripto para cüzdanını deneyimleyin. Güvenli, hızlı ve kullanıcı dostu."
+    },
+    "features": {
+      "title": "Güçlü Özellikler",
+      "subtitle": "Güçlü bir uygulamada kesintisiz kripto para yönetimi için ihtiyacınız olan her şey",
+      "send": {
+        "title": "Gönder",
+        "description": "Minimal ücret ve maksimum güvenlikle dünya üzerinde herhangi birine anında kripto para gönderin."
+      },
+      "receive": {
+        "title": "Al",
+        "description": "Benzersiz cüzdan adresinizle her yerden ödeme alın. Anında transferler için QR kodunuzu paylaşın."
+      },
+      "cryptocurrencies": {
+        "title": "+1000 Kripto Para",
+        "description": "Bitcoin, Ethereum, LAXCE ve tüm büyük altcoinler dahil 1000'den fazla kripto para desteği."
+      },
+      "languages": {
+        "title": "10+ Dil",
+        "description": "İngilizce, İspanyolca, Fransızca, Almanca, Çince ve daha fazlası dahil 10'dan fazla dilde mevcuttur."
+      },
+      "currencies": {
+        "title": "10+ Geleneksel Para Birimi",
+        "description": "Kolay dönüşüm için USD, EUR, GBP, JPY ve daha fazlası dahil 10'dan fazla geleneksel para birimi desteği."
+      },
+      "history": {
+        "title": "İşlem Geçmişi",
+        "description": "Tüm etkinlikleriniz için ayrıntılı kayıtlar, zaman damgaları ve durum takibi ile tam işlem geçmişi."
+      },
+      "multiWallet": {
+        "title": "Çoklu Cüzdan",
+        "description": "Farklı amaçlar için birden fazla cüzdan oluşturun ve yönetin - kişisel, iş veya yatırım portföyleri."
+      },
+      "blockchains": {
+        "title": "10 Blok Zinciri",
+        "description": "Ethereum, Bitcoin, Binance Smart Chain, Polygon ve daha fazlası dahil 10+ ana blok zinciri desteği."
+      }
+    },
+    "benefits": {
+      "title": "Neden LAXCE Cüzdan Seçmelisiniz?",
+      "subtitle": "En son teknoloji ve kullanıcı deneyimi göz önünde bulundurularak inşa edilmiştir",
+      "security": {
+        "title": "Banka Düzeyinde Güvenlik",
+        "description": "Varlıklarınızı korumak için askeri düzeyde şifreleme ve çok katmanlı güvenlik protokolleri."
+      },
+      "speed": {
+        "title": "Şimşek Hızında",
+        "description": "Gerçek zamanlı onay ve minimal ağ ücretleri ile anında işlemler."
+      },
+      "crossPlatform": {
+        "title": "Çoklu Platform",
+        "description": "Tüm cihazlarda kusursuz senkronizasyon ile iOS, Android ve Web'de mevcuttur."
+      },
+      "global": {
+        "title": "Küresel Erişim",
+        "description": "Küresel sunucu ağımızla dünyanın her yerinden cüzdanınıza erişin."
+      }
+    },
+    "cta": {
+      "downloadNow": "Şimdi İndir",
+      "learnMore": "Daha Fazla Bilgi",
+      "ready": "Başlamaya Hazır mısınız?",
+      "downloadToday": "LAXCE Cüzdan'ı bugün indirin ve finansın geleceğinde dünya çapında milyonlarca kullanıcıya katılın",
+      "downloadIOS": "iOS İçin İndir",
+      "downloadAndroid": "Android İçin İndir",
+      "freeDownload": "Ücretsiz İndirme",
+      "rating": "4.8/5 Puan",
+      "bankSecurity": "Banka Düzeyinde Güvenlik"
+    }
+  },
+  "dex": {
+    "hero": {
+      "badge": "LAXCE DEX",
+      "title": "Merkezi Olmayan Borsa",
+      "subtitle": "Merkezi olmayan borsada kripto paraları güvenli ve verimli bir şekilde ticaret yapın. Aracı yok, KYC yok, varlıklarınız üzerinde tam kontrol."
+    },
+    "markets": {
+      "title": "Canlı Piyasalar",
+      "subtitle": "Gerçek zamanlı kripto para fiyatları ve ticaret hacimleri",
+      "volume": "Hacim",
+      "tradeNow": "Şimdi Ticaret Yap"
+    },
+    "features": {
+      "title": "Neden LAXCE DEX Seçmelisiniz?",
+      "subtitle": "En son teknoloji ile tüccarlar için tüccarlar tarafından inşa edilmiştir",
+      "lightningFast": {
+        "title": "Şimşek Hızında",
+        "description": "Yüksek performanslı eşleştirme motorumuzla milisaniyeler içinde işlemleri gerçekleştirin."
+      },
+      "secureTrading": {
+        "title": "Güvenli Ticaret",
+        "description": "Çok katmanlı koruma ve gerçek zamanlı izleme ile banka düzeyinde güvenlik."
+      },
+      "tradingPairs": {
+        "title": "1000+ Çift",
+        "description": "Derin likidite havuzları ile 1000'den fazla kripto para çifti ticareti yapın."
+      },
+      "globalCommunity": {
+        "title": "Küresel Topluluk",
+        "description": "Canlı ve aktif bir toplulukta dünya çapında milyonlarca tüccara katılın."
+      },
+      "crossChain": {
+        "title": "Zincirler Arası",
+        "description": "Birden fazla blok zincirinde varlıkları sorunsuzca ticaret yapın."
+      },
+      "advancedCharts": {
+        "title": "Gelişmiş Grafikler",
+        "description": "Gerçek zamanlı veri ve analiz ile profesyonel ticaret araçları."
+      }
+    },
+    "benefits": {
+      "title": "Ticaret Avantajları",
+      "subtitle": "Merkezi olmayan ticaretin avantajlarını deneyimleyin",
+      "highLiquidity": {
+        "title": "Yüksek Likidite",
+        "description": "Derin emir defterleri minimum kayma ve daha iyi gerçekleştirme fiyatları sağlar."
+      },
+      "lowFees": {
+        "title": "Düşük Ücretler",
+        "description": "Hacim indirimleri ile %0.1'den başlayan rekabetçi ticaret ücretleri."
+      },
+      "mobileTrading": {
+        "title": "Mobil Ticaret",
+        "description": "iOS ve Android'de mevcut mobil uygulamamızla her yerden ticaret yapın."
+      },
+      "nonCustodial": {
+        "title": "Saklama Yok",
+        "description": "Özel anahtarlarınızı siz kontrol edersiniz. Fonlarınızı asla tutmayız."
+      }
+    },
+    "cta": {
+      "startTrading": "Ticarete Başla",
+      "viewMarkets": "Piyasaları Görüntüle",
+      "ready": "Ticarete Başlamaya Hazır mısınız?",
+      "joinTraders": "LAXCE DEX'te binlerce tüccara katılın ve merkezi olmayan ticaretin geleceğini deneyimleyin",
+      "launchDex": "DEX'i Başlat",
+      "downloadApp": "Uygulamayı İndir",
+      "noKyc": "KYC Gerekmez",
+      "rating": "4.9/5 Puan",
+      "nonCustodial": "Saklama Yok"
+    }
+  },
+  "tokenomics": {
+    "hero": {
+      "badge": "LAXCE V1-2024 TOKENOMİK",
+      "title": "Token Ekonomisi",
+      "subtitle": "LAX token dağılımını, vesting'i ve ekonomik teşvikleri keşfedin."
+    },
+    "overview": {
+      "totalSupply": {
+        "value": "500M",
+        "label": "Toplam Arz"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "Token Sembolü"
+      },
+      "initialNetwork": {
+        "value": "Ethereum",
+        "label": "İlk Ağ"
+      },
+      "tokenModel": {
+        "value": "Deflasyonist",
+        "label": "Token Modeli"
+      }
+    },
+    "tokenDetails": {
+      "title": "Token Detayları",
+      "subtitle": "$LAX token ve ağ entegrasyonu hakkında kapsamlı bilgi",
+      "tokenAndNetwork": {
+        "title": "Token ve Ağ",
+        "description": "Laxce token ($LAX) başlangıçta Ethereum ağında basılacaktır. Laxce Layer 2 mainnet'i başlatıldıktan sonra, token Polygon Agglayer'ın bir parçası olarak Polygon ekosistemi ile entegre olan çoklu zincir uyumlu hale gelecektir."
+      },
+      "tokenSupply": {
+        "title": "Token Arzı",
+        "description": "Laxce token ($LAX) 500 milyon token'lık sabit bir üst sınıra sahip olacak ve sınırlı arz sağlayacaktır. Deflasyonist baskıyı korumak için ücretin bir kısmı mevcut token'ları yakmak için kullanılacak ve zaman içinde toplam dolaşımdaki arzı azaltacaktır."
+      },
+      "contractAddress": {
+        "title": "Kontrat Adresi",
+        "description": "$LAX Token'ının Kontrat Adresi: 0x13abd6192cB32bdE8a921285105F378695f951d9 ve burada görülebilir:",
+        "address": "0x13abd6192cB32bdE8a921285105F378695f951d9",
+        "copy": "Kopyala",
+        "view": "Görüntüle"
+      }
+    },
+    "distribution": {
+      "title": "Token Dağılımı",
+      "subtitle": "Uzun vadeli ekosistem büyümesini desteklemek için tasarlanmış adil ve şeffaf tahsis",
+      "totalSupply": "Toplam Arz",
+      "public": {
+        "title": "Halka",
+        "description": "Halka token oluşturma etkinliği",
+        "percentage": "%40",
+        "amount": "200M $LAX"
+      },
+      "private": {
+        "title": "Özel",
+        "description": "Özel satış ve stratejik yatırımcılar",
+        "percentage": "%20",
+        "amount": "100M $LAX"
+      },
+      "reserve": {
+        "title": "Rezerv",
+        "description": "Gelecekteki fırsatlar için rezerv fonu",
+        "percentage": "%15",
+        "amount": "75M $LAX"
+      },
+      "rewards": {
+        "title": "Ödüller",
+        "description": "Staking ödülleri ve topluluk teşvikleri",
+        "percentage": "%15",
+        "amount": "75M $LAX"
+      },
+      "teamAdvisors": {
+        "title": "Ekip ve Danışmanlar",
+        "description": "Ana ekip ve stratejik danışmanlar",
+        "percentage": "%10",
+        "amount": "50M $LAX"
+      }
+    },
+    "utilities": {
+      "title": "Token Kullanım Alanları",
+      "subtitle": "$LAX token'ları Laxce ekosistemi içinde çeşitli amaçlar için kullanılacaktır",
+      "governance": {
+        "title": "Yönetişim",
+        "description": "Token sahipleri ağ yükseltmeleri ve öneriler konusunda oy haklarına sahip olacaktır"
+      },
+      "staking": {
+        "title": "Staking",
+        "description": "$LAX token'larını stake etmek ödüller kazanabilir ve ağ güvenliğine katkıda bulunabilir"
+      },
+      "transactionFees": {
+        "title": "İşlem Ücretleri",
+        "description": "Laxce ağındaki işlem ücretleri $LAX ile ödenecektir"
+      },
+      "exclusiveAccess": {
+        "title": "Özel Erişim",
+        "description": "Token sahipleri Laxce ekosistemi içinde özel özelliklere veya avantajlara erişebilir"
+      }
+    },
+    "vesting": {
+      "title": "Vesting Takvimi",
+      "subtitle": "Uzun vadeli bağlılığı ve ekosistem istikrarını sağlamak için şeffaf vesting dönemleri",
+      "headers": {
+        "category": "Kategori",
+        "cliffPeriod": "Cliff Dönemi",
+        "vestingPeriod": "Vesting Dönemi",
+        "description": "Açıklama"
+      },
+      "schedules": {
+        "public": {
+          "category": "Halka",
+          "cliff": "0 ay",
+          "vesting": "Vesting yok",
+          "description": "Halka satış katılımcıları için anında erişim"
+        },
+        "private": {
+          "category": "Özel",
+          "cliff": "6 ay",
+          "vesting": "18 ay doğrusal",
+          "description": "Stratejik yatırımcı vesting takvimi"
+        },
+        "reserve": {
+          "category": "Rezerv",
+          "cliff": "12 ay",
+          "vesting": "36 ay doğrusal",
+          "description": "Uzun vadeli rezerv fonu serbest bırakma"
+        },
+        "rewards": {
+          "category": "Ödüller",
+          "cliff": "0 ay",
+          "vesting": "48 ay doğrusal",
+          "description": "Uzun vadeli topluluk teşvikleri"
+        },
+        "teamAdvisors": {
+          "category": "Ekip ve Danışmanlar",
+          "cliff": "12 ay",
+          "vesting": "36 ay doğrusal",
+          "description": "Proje başarısı ile uzun vadeli uyum"
+        }
+      }
+    },
+    "cta": {
+      "title": "Tam Tokenomik İndir",
+      "description": "$LAX token dağılımı, vesting takvimleri ve ekonomik modeller hakkında kapsamlı bilgi içeren detaylı tokenomik belgesini edinin.",
+      "downloadPDF": "Tokenomik PDF İndir",
+      "viewOnline": "Çevrimiçi Görüntüle"
+    }
+  },
+  "whitepaper": {
+    "hero": {
+      "badge": "LAXCE BEYAZ KAĞIT 1.0",
+      "title": "Beyaz Kağıt",
+      "subtitle": "Gerçek Dünya Varlıklarının (RWA) blok zinciri ekosistemine sorunsuz entegrasyonunu kolaylaştırmak için özel olarak tasarlanmış merkezi olmayan bir Ethereum Katman-2 platformu.",
+      "downloadPDF": "PDF İndir",
+      "viewOnline": "Çevrimiçi Görüntüle"
+    },
+    "introduction": {
+      "title": "Giriş",
+      "content": "Laxce, Gerçek Dünya Varlıklarının (RWA) blok zinciri ekosistemine sorunsuz entegrasyonunu kolaylaştırmak için özel olarak tasarlanmış merkezi olmayan bir Ethereum Katman-2 platformudur. RWA tokenizasyonunda bulunan ölçeklenebilirlik, gecikme ve düzenleyici zorlukları ele alarak, Laxce yenilik ve ekonomik büyüme için yeni fırsatlar açmayı hedeflemektedir."
+    },
+    "problemStatement": {
+      "title": "Problem Tanımı",
+      "subtitle": "RWA tokenizasyon ekosistemindeki mevcut zorluklar",
+      "scalability": {
+        "title": "Ölçeklenebilirlik",
+        "description": "Ethereum ana ağının mevcut kapasitesi, büyük ölçekli RWA tokenizasyonu için gerekli işlem hacmini karşılamak için yetersizdir."
+      },
+      "latency": {
+        "title": "Gecikme",
+        "description": "Ethereum'daki onay süreleri, zamana duyarlı RWA işlemleri için çok yavaş olabilir."
+      },
+      "regulatory": {
+        "title": "Düzenleyici Uyumluluk",
+        "description": "RWA tokenizasyonlarının ilgili düzenlemelerle uyumlu olmasını sağlamak çok önemlidir ancak merkezi olmayan bir ortamda karmaşık olabilir."
+      }
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "content": "Gerçek dünya varlıklarının tokenizasyonu için güvenli, ölçeklenebilir ve maliyet etkin bir platform sağlayarak, verimli işlemler, gelişmiş likidite ve yeni ekonomik fırsatlar kolaylaştırarak bireyleri ve işletmeleri güçlendirmek."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "content": "Tokenize edilmiş gerçek dünya varlıkları için önde gelen küresel platform olmak, yeniliği yönlendirmek, ekonomik büyümeyi teşvik etmek ve yatırım fırsatlarına erişimi demokratikleştirmek."
+    },
+    "rwaTokenization": {
+      "title": "Gerçek Dünya Varlık Tokenizasyonu",
+      "subtitle": "RWA, Gerçek Dünya Varlıkları anlamına gelir. Bunlar gayrimenkul, emtialar, sanat ve fikri mülkiyet gibi gerçek dünyada var olan fiziksel veya maddi olmayan varlıklardır. RWA'ları tokenize ederek, Laxce gibi blok zinciri platformları kesirli mülkiyet, artan likidite ve gelişmiş şeffaflığı mümkün kılabilir.",
+      "assets": {
+        "realEstate": {
+          "title": "Gayrimenkul",
+          "description": "Evler, apartmanlar ve ticari binalar gibi mülkler"
+        },
+        "commodities": {
+          "title": "Emtialar",
+          "description": "Altın, petrol ve tarım ürünleri gibi doğal kaynaklar"
+        },
+        "art": {
+          "title": "Sanat",
+          "description": "Resimler, heykeller ve diğer değerli sanat eserleri"
+        },
+        "intellectualProperty": {
+          "title": "Fikri Mülkiyet",
+          "description": "Patentler, telif hakları ve ticari markalar"
+        }
+      },
+      "importance": {
+        "title": "RWA Tokenizasyonunun Önemi",
+        "liquidity": {
+          "title": "Artan Likidite",
+          "description": "Varlıkları daha küçük, ticareti yapılabilir token'lara ayırmak likiditeyi önemli ölçüde artırır"
+        },
+        "fractional": {
+          "title": "Kesirli Mülkiyet",
+          "description": "Kesirli mülkiyet yoluyla varlıkları daha geniş bir yatırımcı yelpazesi için erişilebilir hale getirmek"
+        },
+        "transparency": {
+          "title": "Gelişmiş Şeffaflık",
+          "description": "Blok zincirinde mülkiyet, işlemler ve varlık performansının net kaydı"
+        },
+        "management": {
+          "title": "Verimli Yönetim",
+          "description": "Akıllı sözleşmeler kira toplama ve temettü ödemeleri gibi süreçleri otomatikleştirir"
+        }
+      }
+    },
+    "technicalArchitecture": {
+      "title": "Teknik Mimari",
+      "subtitle": "Laxce, olağanüstü ölçeklenebilirlik ve güvenlik elde etmek için Polygon CDK'nın Validium mimarisini kullanır. Validium'dan yararlanarak, Laxce gerçek dünya varlık tokenizasyonu ve çeşitli finansal uygulamalar için yüksek performanslı ve güvenli bir platform sunar.",
+      "features": {
+        "polygonCDK": {
+          "title": "Polygon CDK Validium",
+          "description": "Gelişmiş ölçeklenebilirlik ve azaltılmış gaz ücretleri için Validium ile Polygon'un Zincir Geliştirme Kiti üzerine inşa edilmiştir"
+        },
+        "rwaTokenization": {
+          "title": "Gerçek Dünya Varlık Tokenizasyonu",
+          "description": "Gayrimenkul, emtialar ve sanat gibi fiziksel varlıkları tokenize etmek için kapsamlı çerçeve"
+        },
+        "offChain": {
+          "title": "Zincir Dışı Uzlaşma",
+          "description": "Çoğu RWA işlemi zincir dışında uzlaştırılır, yalnızca kritik olaylar ana ağda kaydedilir"
+        },
+        "compliance": {
+          "title": "Düzenleyici Uyumluluk",
+          "description": "KYC/AML, menkul kıymetler kanunları ve veri gizliliği gereksinimleri için sağlam çerçeve"
+        }
+      },
+      "whyPolygon": {
+        "title": "Neden Polygon CDK?",
+        "security": {
+          "title": "Güvenlik",
+          "description": "En son sıfır bilgi teknolojisi ile yüksek performanslı, yüksek güvenlikli L2'ler"
+        },
+        "scalability": {
+          "title": "Ölçeklenebilirlik",
+          "description": "Ethereum'dan büyüklük mertebeleri daha düşük işlem ücretleri ve daha hızlı işleme"
+        },
+        "modularity": {
+          "title": "Modülerlik",
+          "description": "Belirli ihtiyaçları karşılamak için özelleştirilebilir L2 ortamı"
+        },
+        "interoperability": {
+          "title": "Birlikte Çalışabilirlik",
+          "description": "AggLayer entegrasyonu yoluyla zincirler arası işlemler"
+        },
+        "sovereignty": {
+          "title": "Egemenlik",
+          "description": "Gelir, yönetişim, güvenlik ve ekonomik politikalar üzerinde tam kontrol"
+        },
+        "costEffectiveness": {
+          "title": "Maliyet Etkinliği",
+          "description": "Düşük işlem ücretleri ve gaz optimizasyon özellikleri"
+        }
+      }
+    },
+    "useCases": {
+      "title": "Kullanım Alanları",
+      "subtitle": "Laxce platformunun çeşitli finansal sektörlerdeki kapsamlı uygulamaları",
+      "rwa": {
+        "title": "Gerçek Dünya Varlıkları (RWA)",
+        "description": "Gayrimenkul, emtialar, sanat ve fikri mülkiyetin tokenizasyonu"
+      },
+      "micropayments": {
+        "title": "Mikro Ödemeler",
+        "description": "Küçük değerli işlemler için düşük işlem ücretleri ve yüksek verim"
+      },
+      "trading": {
+        "title": "Kripto Ticareti",
+        "description": "Hızlı yürütme ile dijital varlık ticareti için ölçeklenebilir ve güvenli platform"
+      },
+      "supplyChain": {
+        "title": "Tedarik Zinciri Finansmanı",
+        "description": "Fatura ve ticaret belgesi tokenizasyonu yoluyla finansman süreçlerini kolaylaştırma"
+      }
+    },
+    "tokenEconomics": {
+      "title": "Token Ekonomisi",
+      "subtitle": "Ağ katılımını teşvik etmek, yönetişimi kolaylaştırmak ve işlem ücretleri yoluyla potansiyel gelir elde etmek için yerel bir token olan LAX tanıtılacaktır.",
+      "distribution": {
+        "title": "Token Dağılımı",
+        "public": "Halka",
+        "private": "Özel",
+        "reserve": "Rezerv",
+        "rewards": "Ödüller",
+        "teamAdvisors": "Ekip ve Danışmanlar",
+        "totalSupply": "Toplam Arz",
+        "totalSupplyValue": "500.000.000 LAX"
+      },
+      "utility": {
+        "title": "Token Kullanımı",
+        "networkIncentives": "Ağ katılım teşvikleri",
+        "governance": "Yönetişim oylama hakları",
+        "transactionFees": "İşlem ücreti oluşturma",
+        "staking": "Staking ve ödüller"
+      },
+      "vesting": {
+        "title": "Vesting Takvimi",
+        "description": "Token dağılımı, proje hedefleri ile uzun vadeli uyumu sağlamak ve piyasa manipülasyonunu önlemek için yapılandırılmış bir vesting takvimini takip eder."
+      }
+    },
+    "roadmapSection": {
+      "title": "Yol Haritası",
+      "subtitle": "Laxce ekosistemi için geliştirme zaman çizelgesi ve önemli kilometre taşları",
+      "phases": {
+        "q3_2025": {
+          "quarter": "2025 Q3",
+          "title": "Mainnet Lansmanı",
+          "description": "Polygon CDK'nın Validium'unda Laxce mainnet'ini başlatarak gerçek dünya varlık tokenizasyonu için ölçeklenebilir ve güvenli bir platform sağlama.",
+          "items": [
+            "Polygon CDK Validium üzerinde mainnet dağıtımı",
+            "Temel altyapı uygulaması",
+            "Güvenlik denetimleri ve test tamamlama"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "2025 Q4",
+          "title": "Ekosistem Geliştirme",
+          "description": "Blok zinciri ve finans sektörleri içindeki çeşitli kuruluşlar ve projelerle ortaklık kurarak canlı bir ekosistemi teşvik etme.",
+          "items": [
+            "Finansal kurumlarla stratejik ortaklıklar",
+            "Geliştirici araçları ve API'ların yayınlanması",
+            "Topluluk oluşturma ve katılım"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "2026 Q1",
+          "title": "Kurumsal Çözümler",
+          "description": "Büyük ölçekli tokenizasyon projeleri ve finansal uygulamalar için kurumsal düzeyde çözümler geliştirme.",
+          "items": [
+            "Kurumsal düzeyde tokenizasyon platformu",
+            "Gelişmiş uyumluluk araçları",
+            "Kurumsal katılım"
+          ]
+        },
+        "q2_2026": {
+          "quarter": "2026 Q2",
+          "title": "Zincirler Arası Entegrasyon",
+          "description": "Ağın erişimini ve yeteneklerini genişletmek için diğer blok zincirleri ile zincirler arası birlikte çalışabilirlik fırsatlarını keşfetme.",
+          "items": [
+            "Zincirler arası köprü uygulaması",
+            "Çoklu zincir varlık desteği",
+            "Gelişmiş birlikte çalışabilirlik protokolleri"
+          ]
+        }
+      },
+      "note": "Not: Bu yol haritası piyasa koşulları, teknolojik gelişmeler ve topluluk geri bildirimlerine bağlı olarak değişebilir."
+    },
+    "cta": {
+      "title": "Tam Beyaz Kağıdı Edinin",
+      "description": "Ayrıntılı spesifikasyonlar, mimari diyagramları, ekonomik modeller ve gerçek dünya varlık tokenizasyon çerçevesi ile tam teknik dokümantasyonu indirin.",
+      "downloadPDF": "PDF İndir",
+      "viewOnline": "Çevrimiçi Görüntüle"
+    }
+  },
+  "common": {
+    "learnMore": "Daha Fazla Bilgi",
+    "getStarted": "Başla",
+    "download": "İndir",
+    "viewOnline": "Çevrimiçi Görüntüle",
+    "comingSoon": "Yakında",
+    "inProgress": "Devam Ediyor",
+    "completed": "Tamamlandı",
+    "upcoming": "Yaklaşan",
+    "viewFull": "Tümünü Gör",
+    "purpose": "Amaç:",
+    "examples": "Örnekler:",
+    "storage": "Depolama:"
+  },
+  "security": {
+    "hero": {
+      "badge": "Güvenlik Öncelikli",
+      "title": "Gelişmiş Güvenlik Özellikleri",
+      "subtitle": "Varlıklarınızı ve gizliliğinizi korumak için tasarlanmış kapsamlı güvenlik önlemleri"
+    },
+    "stats": {
+      "audits": {
+        "value": "12+",
+        "label": "Güvenlik Denetimi"
+      },
+      "uptime": {
+        "value": "%99.9",
+        "label": "Çalışma Süresi"
+      },
+      "bounties": {
+        "value": "$100K+",
+        "label": "Hata Ödülleri"
+      },
+      "researchers": {
+        "value": "50+",
+        "label": "Güvenlik Araştırmacısı"
+      }
+    },
+    "features": {
+      "title": "Gelişmiş Güvenlik Özellikleri",
+      "subtitle": "Varlıklarınızı ve gizliliğinizi korumak için tasarlanmış kapsamlı güvenlik önlemleri",
+      "biometric": {
+        "title": "Biyometrik Kimlik Doğrulama",
+        "description": "Cüzdanınıza güvenli, anında erişim için gelişmiş parmak izi ve yüz tanıma",
+        "features": [
+          "Çok faktörlü biyometrik doğrulama",
+          "Sahtekarlığı önlemek için canlılık tespiti",
+          "Güvenli yerel biyometrik depolama",
+          "PIN/şifre kimlik doğrulamasına geri dönüş"
+        ]
+      },
+      "privacy": {
+        "title": "Gizlilik Öncelikli Tasarım",
+        "description": "Verileriniz cihazınızda kalır. Özel anahtarlarınıza veya kişisel bilgilerinize asla erişmeyiz",
+        "features": [
+          "Sıfır bilgi mimarisi",
+          "İstemci tarafı şifreleme",
+          "Veri toplama veya takip yok",
+          "Anonim işlem desteği"
+        ]
+      },
+      "encryption": {
+        "title": "Askeri Düzeyde Şifreleme",
+        "description": "Maksimum veri koruması için güvenli anahtar türetme ile AES-256 şifrelemesi",
+        "features": [
+          "AES-256-GCM şifrelemesi",
+          "PBKDF2 anahtar türetme",
+          "Donanım güvenlik modülü (HSM) desteği",
+          "Şifrelenmiş yerel depolama"
+        ]
+      },
+      "multiSig": {
+        "title": "Çoklu İmza Cüzdanları",
+        "description": "Gelişmiş güvenlik ve paylaşımlı kontrol için ileri çoklu imza desteği",
+        "features": [
+          "2-of-3 çoklu imza kurulumu",
+          "Donanım cüzdanı entegrasyonu",
+          "Zaman kilitli işlemler",
+          "Kurtarma mekanizmaları"
+        ]
+      },
+      "infrastructure": {
+        "title": "Güvenli Altyapı",
+        "description": "%99.9 çalışma süresi ve DDoS koruması ile kurumsal düzeyde altyapı",
+        "features": [
+          "AWS/GCP altyapısı",
+          "DDoS koruması",
+          "7/24 izleme",
+          "Otomatik yedeklemeler"
+        ]
+      },
+      "audits": {
+        "title": "Akıllı Sözleşme Denetimleri",
+        "description": "Önde gelen blok zinciri güvenlik firmaları tarafından düzenli güvenlik denetimleri",
+        "features": [
+          "Üç aylık güvenlik denetimleri",
+          "Hata ödül programları",
+          "Açık kaynak kod incelemesi",
+          "Üçüncü taraf penetrasyon testleri"
+        ]
+      }
+    },
+    "protocols": {
+      "title": "Güvenlik Protokolleri",
+      "subtitle": "En yüksek düzeyde koruma sağlayan sektör lideri güvenlik protokolleri",
+      "keyGeneration": {
+        "title": "Güvenli Anahtar Üretimi",
+        "description": "Özel anahtar oluşturma için kriptografik olarak güvenli rastgele sayı üretimi",
+        "features": [
+          "BIP-39 anımsatıcı cümleler",
+          "Donanım entropi kaynakları",
+          "Deterministik anahtar türetme"
+        ]
+      },
+      "transactionSigning": {
+        "title": "İşlem İmzalama",
+        "description": "Donanım cüzdanı desteği ile güvenli işlem imzalama",
+        "features": [
+          "Çevrimdışı imzalama yeteneği",
+          "Donanım cüzdanı entegrasyonu",
+          "İşlem önizleme"
+        ]
+      },
+      "networkSecurity": {
+        "title": "Ağ Güvenliği",
+        "description": "Blok zinciri ağları ile korumalı iletişim",
+        "features": [
+          "TLS 1.3 şifrelemesi",
+          "Düğüm doğrulama",
+          "Adam-in-the-middle koruması"
+        ]
+      },
+      "dataProtection": {
+        "title": "Veri Koruması",
+        "description": "Kapsamlı veri koruma ve gizlilik önlemleri",
+        "features": [
+          "Uçtan uca şifreleme",
+          "Sıfır bilgi kanıtları",
+          "Veri minimizasyonu"
+        ]
+      }
+    },
+    "compliance": {
+      "title": "Uyumluluk ve Sertifikalar",
+      "subtitle": "En yüksek uyumluluk ve güvenlik sertifikası standartlarını koruyoruz",
+      "soc2": {
+        "title": "SOC 2 Type II",
+        "description": "Güvenlik, kullanılabilirlik ve gizlilik için Hizmet Organizasyonu Kontrolü 2 uyumluluğu",
+        "status": "Sertifikalı"
+      },
+      "iso27001": {
+        "title": "ISO 27001",
+        "description": "Bilgi güvenliği yönetim sistemleri için uluslararası standart",
+        "status": "Sertifikalı"
+      },
+      "gdpr": {
+        "title": "GDPR Uyumluluğu",
+        "description": "AB kullanıcıları için Genel Veri Koruma Yönetmeliği uyumluluğu",
+        "status": "Uyumlu"
+      },
+      "ccpa": {
+        "title": "CCPA Uyumluluğu",
+        "description": "Kaliforniya sakinleri için Kaliforniya Tüketici Gizlilik Yasası uyumluluğu",
+        "status": "Uyumlu"
+      }
+    },
+    "incidentResponse": {
+      "title": "Olay Müdahalesi",
+      "subtitle": "Herhangi bir güvenlik olayını etkili bir şekilde ele almak için hızlı müdahale protokolleri",
+      "detection": {
+        "title": "Tespit",
+        "description": "7/24 izleme ve otomatik tehdit tespit sistemleri",
+        "time": "Gerçek zamanlı"
+      },
+      "response": {
+        "title": "Müdahale",
+        "description": "Anında müdahale ekibi aktivasyonu ve olay kontrol altına alınması",
+        "time": "< 15 dakika"
+      },
+      "investigation": {
+        "title": "Soruşturma",
+        "description": "Kapsamlı adli analiz ve kök neden belirleme",
+        "time": "< 4 saat"
+      },
+      "resolution": {
+        "title": "Çözüm",
+        "description": "Sorun çözümü ve önleyici tedbirlerin uygulanması",
+        "time": "< 24 saat"
+      }
+    },
+    "cta": {
+      "title": "Güvenli DeFi Deneyimini Yaşamaya Hazır mısınız?",
+      "subtitle": "Laxce'yi bugün indirin ve DeFi'nin basitliği ile kurumsal düzeyde güvenliği deneyimleyin.",
+      "downloadMobile": "Mobil İçin İndir",
+      "useWebApp": "Web Uygulamasını Kullan",
+      "learnMore": "Daha Fazla Bilgi",
+      "securityRating": "4.9/5 Güvenlik Puanı",
+      "zeroIncidents": "Sıfır Güvenlik Olayı",
+      "uptime": "%100 Çalışma Süresi"
+    }
+  },
+  "privacyPolicy": {
+    "hero": {
+      "badge": "Gizlilik Politikası",
+      "title": "Gizliliğiniz Önemlidir",
+      "subtitle": "Gizliliğinizi korumaya ve kişisel bilgilerinizin güvenliğini sağlamaya kendimizi adadık. Bu politika, uluslararası gizlilik yasalarına uygun olarak verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.",
+      "lastUpdated": "Son Güncelleme: 15 Aralık 2024",
+      "effective": "Yürürlük: 1 Ocak 2025"
+    },
+    "badges": {
+      "gdpr": "GDPR Uyumlu",
+      "ccpa": "CCPA Uyumlu",
+      "iso": "ISO 27001"
+    },
+    "quickNavigation": {
+      "title": "Hızlı Navigasyon",
+      "dataCollection": "Veri Toplama",
+      "dataUsage": "Veri Kullanımı",
+      "dataSharing": "Veri Paylaşımı",
+      "yourRights": "Haklarınız",
+      "cookies": "Çerezler",
+      "dataRetention": "Veri Saklama"
+    },
+    "dataCollection": {
+      "title": "Topladığımız Veriler",
+      "subtitle": "Yalnızca hizmetlerimizi sağlamak ve güvenliği sağlamak için gerekli bilgileri topluyoruz.",
+      "personalInfo": {
+        "title": "Kişisel Bilgiler",
+        "item1": "E-posta adresi (hesap oluşturma ve iletişim için)",
+        "item2": "Kullanıcı adı veya görünen ad",
+        "item3": "Profil bilgileri (isteğe bağlı)",
+        "item4": "Destek için iletişim bilgileri",
+        "item5": "KYC/AML bilgileri (kanun gereği gerekirse)"
+      },
+      "technicalInfo": {
+        "title": "Teknik Bilgiler",
+        "item1": "Cihaz bilgileri (IP adresi, tarayıcı türü, işletim sistemi)",
+        "item2": "Kullanım verileri (ziyaret edilen sayfalar, kullanılan özellikler, harcanan zaman)",
+        "item3": "İşlem verileri (halka açık blok zinciri bilgileri)",
+        "item4": "Günlük dosyaları ve analitik verileri",
+        "item5": "Cihaz tanımlayıcıları ve çerezler"
+      },
+      "walletInfo": {
+        "title": "Cüzdan Bilgileri",
+        "item1": "Halka açık cüzdan adresleri (cihazınızda yerel olarak saklanır)",
+        "item2": "İşlem geçmişi (blok zincirinden)",
+        "item3": "Token bakiyeleri ve varlıkları",
+        "item4": "Ağ tercihleri ve ayarları",
+        "item5": "Özel anahtarlar (sunucularımızda asla saklanmaz)"
+      },
+      "financialInfo": {
+        "title": "Finansal Bilgiler",
+        "item1": "İşlem miktarları ve türleri",
+        "item2": "Ticaret geçmişi ve kalıpları",
+        "item3": "Gaz ücretleri ve ağ maliyetleri",
+        "item4": "Staking ve yield farming verileri",
+        "item5": "DeFi protokol etkileşimleri"
+      },
+      "advertisingData": {
+        "title": "Reklam ve Pazarlama Verileri",
+        "item1": "Reklam tercihleri ve katılım/çıkış seçimleri",
+        "item2": "Pazarlama kampanyası etkileşimleri",
+        "item3": "Reklam tıklama oranları ve katılım",
+        "item4": "Platformlar arası reklam tanımlayıcıları",
+        "item5": "Pazarlama iletişimi tercihleri"
+      },
+      "aiData": {
+        "title": "AI ve Analitik Verileri",
+        "item1": "İşlem kalıbı analizi (onay ile)",
+        "item2": "AI eğitimi için kullanım davranışı (anonimleştirilmiş)",
+        "item3": "Optimizasyon için özellik etkileşim verileri",
+        "item4": "AI model performans geri bildirimi",
+        "item5": "Kişiselleştirilmiş öneri etkileşimleri"
+      }
+    },
+    "dataUsage": {
+      "title": "Verilerinizi Nasıl Kullanıyoruz",
+      "subtitle": "Bilgilerinizi sorumlu bir şekilde ve yalnızca meşru ticari amaçlar için kullanıyoruz.",
+      "purposes": {
+        "serviceProvision": {
+          "title": "Hizmet Sağlama",
+          "description": "DeFi hizmetlerimizi sağlamak ve sürdürmek, işlemleri gerçekleştirmek ve platform işlevselliğini sağlamak için."
+        },
+        "security": {
+          "title": "Güvenlik ve Dolandırıcılık Önleme",
+          "description": "Dolandırıcılığa, yetkisiz erişime karşı koruma ve platformumuzun ve kullanıcılarımızın güvenliğini sağlamak için."
+        },
+        "communication": {
+          "title": "İletişim",
+          "description": "Önemli güncellemeler, güvenlik uyarıları göndermek ve destek taleplerinize yanıt vermek için."
+        },
+        "improvement": {
+          "title": "İyileştirme",
+          "description": "Kullanım kalıplarını analiz etmek ve hizmetlerimizi, özelliklerimizi ve kullanıcı deneyimini geliştirmek için."
+        },
+        "compliance": {
+          "title": "Uyumluluk",
+          "description": "Yasal yükümlülüklere, düzenleyici gerekliliklere uymak ve hizmet şartlarımızı uygulamak için."
+        },
+        "legalBasis": {
+          "title": "Yasal Dayanak",
+          "description": "Sözleşme performansı, meşru çıkarlar, yasal yükümlülükler ve uygulanabilir durumlarda rıza."
+        }
+      }
+    },
+    "dataSharing": {
+      "title": "Veri Paylaşımı ve Açıklama",
+      "subtitle": "Kişisel verilerinizi satmıyoruz. Bilgileri yalnızca sınırlı durumlarda paylaşıyoruz.",
+      "entities": {
+        "serviceProviders": {
+          "title": "Hizmet Sağlayıcıları",
+          "description": "Barındırma, analitik ve destek için güvenilir üçüncü taraf hizmetleri (sıkı veri koruma anlaşmaları ile)."
+        },
+        "legalRequirements": {
+          "title": "Yasal Gereklilikler",
+          "description": "Kanun, mahkeme kararı veya hükümet talebi gereği (uygun yasal süreç ile)."
+        },
+        "security": {
+          "title": "Güvenlik ve Koruma",
+          "description": "Haklarımızı, mülkümüzü veya güvenliğimizi ya da kullanıcılarımızın ve kamunun güvenliğini korumak için."
+        },
+        "businessTransfers": {
+          "title": "İş Transferleri",
+          "description": "Birleşme, satın alma veya varlık satışı durumunda (gerektiğinde kullanıcı bildirimi ve rızası ile)."
+        },
+        "regulatory": {
+          "title": "Düzenleyici Otoriteler",
+          "description": "Uygulanabilir yasalar gereği finansal düzenleyiciler ve kolluk kuvvetleri."
+        },
+        "blockchain": {
+          "title": "Blok Zinciri Ağları",
+          "description": "Halka açık blok zinciri verileri doğası gereği şeffaftır ve tüm ağ katılımcıları tarafından erişilebilir."
+        }
+      }
+    },
+    "userRights": {
+      "title": "Gizlilik Haklarınız",
+      "subtitle": "Kişisel verileriniz üzerinde kontrolünüz var. İşte haklarınız ve bunları nasıl kullanacağınız.",
+      "rights": {
+        "access": {
+          "title": "Erişim",
+          "description": "Kişisel verilerinize ve bunları nasıl işlediğimize dair bilgilere erişim talep edin."
+        },
+        "correction": {
+          "title": "Düzeltme",
+          "description": "Yanlış veya eksik kişisel verilerin düzeltilmesini talep edin."
+        },
+        "deletion": {
+          "title": "Silme",
+          "description": "Yasal ve operasyonel gerekliliklere tabi olarak kişisel verilerinizin silinmesini talep edin."
+        },
+        "portability": {
+          "title": "Taşınabilirlik",
+          "description": "Verilerinizin yapılandırılmış, makine tarafından okunabilir formatta bir kopyasını talep edin."
+        },
+        "objection": {
+          "title": "İtiraz",
+          "description": "Belirli amaçlar için verilerinizin işlenmesine itiraz edin."
+        },
+        "withdrawal": {
+          "title": "Geri Çekme",
+          "description": "Rızanın yasal dayanak olduğu veri işleme için rızayı geri çekin."
+        },
+        "restriction": {
+          "title": "Kısıtlama",
+          "description": "Belirli durumlarda işlemenin kısıtlanmasını talep edin."
+        },
+        "complaint": {
+          "title": "Şikayet",
+          "description": "Yerel veri koruma otoritenize şikayet edin."
+        }
+      }
+    },
+    "cookies": {
+      "title": "Çerezler ve İzleme Teknolojileri",
+      "subtitle": "Deneyiminizi geliştirmek ve kullanımı analiz etmek için çerezler ve benzer teknolojiler kullanıyoruz.",
+      "types": {
+        "essential": {
+          "title": "Gerekli Çerezler",
+          "purpose": "Temel web sitesi işlevselliği ve güvenlik için gerekli",
+          "examples": "Kimlik doğrulama, oturum yönetimi, güvenlik özellikleri",
+          "storage": "Yerel depolama ve oturum depolaması"
+        },
+        "analytics": {
+          "title": "Analitik Çerezleri",
+          "purpose": "Kullanıcıların platformumuzla nasıl etkileşime girdiğini anlamamıza yardımcı olur",
+          "examples": "Google Analytics, kullanım istatistikleri, performans izleme",
+          "storage": "Yapılandırılabilir sona erme ile tarayıcı çerezleri"
+        },
+        "functional": {
+          "title": "İşlevsel Çerezler",
+          "purpose": "Tercihlerinizi ve ayarlarınızı hatırlar",
+          "examples": "Dil tercihleri, tema ayarları, görüntüleme seçenekleri",
+          "storage": "Yerel depolama ve kalıcı çerezler"
+        },
+        "marketing": {
+          "title": "Pazarlama Çerezleri",
+          "purpose": "Reklam ve pazarlama amaçları için kullanılır",
+          "examples": "Yeniden hedefleme, sosyal medya entegrasyonu, reklam performansı",
+          "storage": "Kullanıcı rızası ile üçüncü taraf çerezleri"
+        },
+        "advertising": {
+          "title": "Reklam Çerezleri",
+          "purpose": "Kişiselleştirilmiş reklamlar sunmak ve reklam performansını ölçmek",
+          "examples": "Google Ads, Facebook Pixel, programatik reklamcılık",
+          "storage": "Açık rıza gerektiren üçüncü taraf çerezleri"
+        }
+      },
+      "management": {
+        "title": "Çerez Yönetimi",
+        "browserSettings": {
+          "title": "Tarayıcı Ayarları",
+          "items": [
+            "Tarayıcı ayarları aracılığıyla çerezleri temizleyin",
+            "Tarayıcıyı üçüncü taraf çerezleri engellemeye ayarlayın",
+            "Gizli/özel tarama modunu kullanın",
+            "Reklam engelleme uzantıları yükleyin"
+          ]
+        },
+        "ourControls": {
+          "title": "Çerez Kontrollerimiz",
+          "items": [
+            "İlk ziyarette çerez rıza banner'ı",
+            "Ayrıntılı çerez tercih ayarları",
+            "Pazarlama çerezlerinden kolay çıkış",
+            "Çerez politikası güncelleme bildirimleri"
+          ]
+        }
+      }
+    },
+    "advertising": {
+      "title": "Reklam ve Pazarlama",
+      "subtitle": "Verilerinizi reklam amaçları için kullanabiliriz, ancak yalnızca açık rızanızla.",
+      "personalized": {
+        "title": "Kişiselleştirilmiş Reklamcılık",
+        "description": "İlgili reklamları göstermek için işlem kalıplarınızı ve tercihlerinizi kullanabiliriz. Bu şunları içerir:",
+        "items": [
+          "Ticaret geçmişinize dayalı DeFi ürün önerileri",
+          "Sahip olduğunuz kripto paralar hakkında eğitici içerik",
+          "Kullanım kalıplarınıza uygun yeni özellik promosyonları",
+          "Sosyal medya ve arama motorlarında platformlar arası reklamcılık"
+        ],
+        "consent": "Açık katılım rızası gerektirir"
+      },
+      "thirdParty": {
+        "title": "Üçüncü Taraf Reklamcılığı",
+        "description": "İlgili içerik sunmak için güvenilir reklam ortaklarıyla çalışıyoruz:",
+        "items": [
+          "Google Ads ve Google Analytics",
+          "Facebook ve Instagram reklamcılığı",
+          "Twitter/X reklam kampanyaları",
+          "Programatik reklam ağları"
+        ],
+        "consent": "Açık katılım rızası gerektirir"
+      },
+      "controls": {
+        "title": "Reklam Kontrolleri",
+        "description": "Reklam tercihleri üzerinde tam kontrolünüz var:",
+        "items": [
+          "İstediğiniz zaman kişiselleştirilmiş reklamlardan çıkın",
+          "Tarayıcı ayarlarınızda çerez tercihlerini yönetin",
+          "Temel işlevselliği etkilemeden reklam engelleme yazılımı kullanın",
+          "Reklam takibini tamamen devre dışı bırakmak için bizimle iletişime geçin"
+        ],
+        "consent": "Kullanıcı kontrollü ayarlar"
+      }
+    },
+    "ai": {
+      "title": "Yapay Zeka ve Veri Erişimi",
+      "subtitle": "Deneyiminizi geliştirmek için AI kullanıyoruz, ancak verilerinize nasıl erişildiğini ve kullanıldığını siz kontrol ediyorsunuz.",
+      "features": {
+        "title": "AI Destekli Özellikler",
+        "description": "Deneyiminizi geliştirmek için yapay zeka kullanıyoruz:",
+        "items": [
+          "Dolandırıcılık tespiti ve risk değerlendirmesi",
+          "Piyasa analizi ve ticaret içgörüleri",
+          "Kişiselleştirilmiş portföy önerileri",
+          "Otomatik müşteri destek yanıtları",
+          "Güvenlik tehdidi tespiti ve önleme"
+        ],
+        "consent": "Hizmet işlevselliği için gerekli"
+      },
+      "analysis": {
+        "title": "İşlem Verisi Analizi",
+        "description": "AI, işlem verilerinizi şunlar için analiz edebilir:",
+        "items": [
+          "Güvenlik amaçları için kalıp tanıma",
+          "Piyasa trendi analizi ve içgörüler",
+          "Kişiselleştirilmiş yatırım önerileri",
+          "Risk değerlendirmesi ve uyumluluk izleme",
+          "Hizmet optimizasyonu ve özellik geliştirme"
+        ],
+        "consent": "Açık kullanıcı rızası gerektirir"
+      },
+      "controls": {
+        "title": "AI Veri Kontrolleri",
+        "description": "AI'nın verilerinize nasıl eriştiğini kontrol ediyorsunuz:",
+        "items": [
+          "İşlem verisi AI analizi için katılım rızası",
+          "AI'nın hangi veri türlerine erişebileceği üzerinde ayrıntılı kontrol",
+          "İstediğiniz zaman AI erişimini iptal etme yeteneği",
+          "AI veri kullanımı hakkında şeffaf raporlama",
+          "Hesabınızı etkileyen AI kararlarının insan incelemesi"
+        ],
+        "consent": "Ayrıntılı ayarlarla kullanıcı kontrollü"
+      },
+      "anonymization": {
+        "title": "Veri Anonimleştirme",
+        "description": "AI verilerinizi işlediğinde, şunları sağlıyoruz:",
+        "items": [
+          "Kişisel tanımlayıcılar kaldırılır veya şifrelenir",
+          "Mümkün olduğunda veriler toplulaştırılır",
+          "AI modelleri anonimleştirilmiş veri setleri üzerinde eğitilir",
+          "Bireysel kullanıcı verileri AI çıktılarında tanımlanamaz",
+          "Veri minimizasyon ilkelerine uyumluluk"
+        ],
+        "consent": "Otomatik gizlilik koruması"
+      },
+      "consentManagement": {
+        "title": "AI Rıza Yönetimi",
+        "yourControls": {
+          "title": "AI Kontrolleriniz",
+          "items": [
+            "İşlem verisi AI analizini etkinleştir/devre dışı bırak",
+            "AI'nın hangi veri türlerine erişebileceğini kontrol et",
+            "Kişiselleştirilmiş AI önerilerinden çık",
+            "AI işlenmiş verilerin silinmesini talep et"
+          ]
+        },
+        "transparency": {
+          "title": "Şeffaflık Özellikleri",
+          "items": [
+            "AI veri kullanımının net açıklaması",
+            "AI veri işleme hakkında düzenli raporlar",
+            "AI kararlarının insan incelemesi",
+            "AI üretimli sonuçlar için itiraz süreci"
+          ]
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Veri Saklama",
+      "subtitle": "Verilerinizi yalnızca bu politikada belirtilen amaçları yerine getirmek için gerekli olduğu kadar saklıyoruz.",
+      "periods": {
+        "title": "Saklama Süreleri",
+        "account": {
+          "category": "Hesap Verileri",
+          "period": "Hesap silinene kadar veya 3 yıl hareketsizlik",
+          "reason": "Hizmet sağlama ve yasal uyumluluk"
+        },
+        "transaction": {
+          "category": "İşlem Verileri",
+          "period": "7 yıl (yasal gereklilik)",
+          "reason": "Finansal düzenlemeler ve vergi uyumluluğu"
+        },
+        "kyc": {
+          "category": "KYC/AML Verileri",
+          "period": "Hesap kapanışından 5 yıl sonra",
+          "reason": "Kara para aklamayı önleme düzenlemeleri"
+        },
+        "logs": {
+          "category": "Günlük Dosyaları",
+          "period": "12 ay",
+          "reason": "Güvenlik izleme ve sorun giderme"
+        },
+        "marketing": {
+          "category": "Pazarlama Verileri",
+          "period": "Rıza geri çekilene kadar",
+          "reason": "Rıza ile pazarlama iletişimleri"
+        }
+      }
+    },
+    "internationalTransfers": {
+      "title": "Uluslararası Veri Transferleri",
+      "subtitle": "Verileriniz uluslararası olarak transfer edilebilir. Yeterli koruma önlemlerinin yerinde olduğundan emin oluyoruz.",
+      "regions": {
+        "eu": {
+          "title": "Avrupa Birliği",
+          "safeguards": "Yeterlilik kararları, Standart Sözleşme Maddeleri (SCC'ler), Bağlayıcı Kurumsal Kurallar"
+        },
+        "us": {
+          "title": "Amerika Birleşik Devletleri",
+          "safeguards": "Privacy Shield (uygulanabilir olduğunda), SCC'ler, Veri İşleme Anlaşmaları"
+        },
+        "asiaPacific": {
+          "title": "Asya-Pasifik",
+          "safeguards": "SCC'ler, Yerel veri koruma yasaları uyumluluğu, Transit halinde şifreleme"
+        },
+        "other": {
+          "title": "Diğer Bölgeler",
+          "safeguards": "SCC'ler, Yeterli güvenceler, Yerel yasa uyumluluk değerlendirmesi"
+        }
+      }
+    },
+    "childrenPrivacy": {
+      "title": "Çocukların Gizliliği",
+      "subtitle": "Çocukların ve genç kullanıcıların gizliliğini korumaya kendimizi adadık.",
+      "ageRequirement": {
+        "title": "Yaş Gereksinimi",
+        "description": "Hizmetlerimiz 18 yaş ve üzeri kullanıcılar için tasarlanmıştır."
+      },
+      "policy": {
+        "title": "Politikamız",
+        "description": "18 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamıyoruz. Böyle bilgileri topladığımızın farkına varırsak, derhal silmek için adımlar atacağız."
+      },
+      "parentalRights": {
+        "title": "Ebeveyn Hakları",
+        "description": "Çocuklarının bilgilerini topladığımıza inanan ebeveynler veya vasiler derhal bizimle iletişime geçmelidir."
+      }
+    },
+    "dataBreach": {
+      "title": "Veri İhlali Bildirimi",
+      "subtitle": "Olası olmayan bir veri ihlali durumunda, bilgilerinizi korumak için yerinde prosedürlerimiz vardır.",
+      "timeframe": {
+        "title": "Bildirim Zaman Çerçevesi",
+        "description": "AB sakinleri için GDPR'nin gerektirdiği şekilde 72 saat"
+      },
+      "process": {
+        "title": "Bildirim Süreci",
+        "description": "Etkilenen kullanıcıları ve ilgili makamları gerekli zaman çerçevesi içinde bilgilendireceğiz"
+      },
+      "measures": {
+        "title": "Yanıt Önlemleri",
+        "description": "Anında güvenlik değerlendirmesi, içerme ve düzeltme prosedürleri"
+      }
+    },
+    "security": {
+      "title": "Güvenlik Önlemleri",
+      "subtitle": "Verilerinizi korumak için endüstri standardı güvenlik önlemleri uyguluyoruz.",
+      "practices": {
+        "title": "Güvenlik Uygulamalarımız",
+        "items": [
+          "Hassas veri iletimi için uçtan uca şifreleme",
+          "Hesap erişimi için çok faktörlü kimlik doğrulama",
+          "Düzenli güvenlik denetimleri ve penetrasyon testleri",
+          "Fiziksel ve dijital güvenlik ile güvenli veri merkezleri",
+          "Veri koruma ve gizlilik konusunda çalışan eğitimi",
+          "Olay müdahale prosedürleri ve ihlal bildirim protokolleri",
+          "Düzenli yazılım güncellemeleri ve güvenlik yamaları",
+          "Erişim kontrolleri ve en az ayrıcalık ilkeleri",
+          "Veri yedekleme ve felaket kurtarma prosedürleri",
+          "Tedarikçi güvenlik değerlendirmeleri ve izleme"
+        ]
+      }
+    },
+    "contact": {
+      "title": "Gizlilik Hakkında Sorularınız mı Var?",
+      "subtitle": "Bu Gizlilik Politikası veya veri uygulamalarımız hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçmekten çekinmeyin.",
+      "contactPrivacyTeam": "Gizlilik Ekibiyle İletişime Geçin",
+      "backToHome": "Ana Sayfaya Dön"
+    }
+  },
+  "termsOfService": {
+    "hero": {
+      "badge": "Hizmet Şartları",
+      "title": "Hizmet Şartları",
+      "subtitle": "Bu şartlar Laxce hizmetlerini kullanımınızı yönetir. Platformumuzu kullanarak, bu şartları kabul ettiğinizi ve okuduğunuzu ve anladığınızı kabul edersiniz.",
+      "lastUpdated": "Son Güncelleme: 15 Aralık 2024",
+      "effective": "Yürürlük: 1 Ocak 2025"
+    },
+    "legalNotice": {
+      "title": "Önemli Yasal Uyarı",
+      "description": "Bu şartlar yasal olarak bağlayıcı bir anlaşma oluşturur. Lütfen dikkatli okuyun. Bu şartları kabul etmiyorsanız, hizmetlerimizi kullanmayın."
+    },
+    "quickNavigation": {
+      "title": "Hızlı Navigasyon",
+      "services": "Hizmetler",
+      "userObligations": "Kullanıcı Yükümlülükleri",
+      "prohibitedActivities": "Yasaklı Faaliyetler",
+      "liability": "Sorumluluk",
+      "intellectualProperty": "Fikri Mülkiyet",
+      "disputeResolution": "Uyuşmazlık Çözümü"
+    },
+    "services": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Laxce, kripto para ekosisteminde kullanıcıları güçlendirmek için tasarlanmış kapsamlı bir DeFi hizmet paketi sunar.",
+      "wallet": {
+        "title": "Laxce Cüzdan",
+        "description": "Çoklu zincir desteği ile güvenli kripto para cüzdanı",
+        "features": [
+          "Çoklu zincir cüzdan yönetimi",
+          "Güvenli özel anahtar depolama",
+          "İşlem imzalama ve yayınlama",
+          "Portföy takibi ve analitik"
+        ]
+      },
+      "dex": {
+        "title": "Laxce DEX",
+        "description": "Token ticareti için merkezi olmayan borsa",
+        "features": [
+          "Otomatik piyasa yapıcılığı (AMM)",
+          "Likidite sağlama ve yield farming",
+          "Zincirler arası token takasları",
+          "Gerçek zamanlı fiyat beslemeleri ve grafikler"
+        ]
+      },
+      "bridge": {
+        "title": "Laxce Köprüsü",
+        "description": "Zincirler arası varlık transfer hizmeti",
+        "features": [
+          "Blok zincirleri arasında varlık köprüleme",
+          "Likidite havuzu yönetimi",
+          "Köprü güvenliği ve doğrulaması",
+          "İşlem izleme ve destek"
+        ]
+      }
+    },
+    "userObligations": {
+      "title": "Kullanıcı Yükümlülükleri",
+      "subtitle": "Hizmetlerimizin kullanıcısı olarak, belirli sorumluluklarınız ve yükümlülükleriniz vardır.",
+      "accountSecurity": {
+        "title": "Hesap Güvenliği",
+        "items": [
+          "Cüzdanınıza ve özel anahtarlarınıza güvenli erişimi koruyun",
+          "Güçlü şifreler kullanın ve iki faktörlü kimlik doğrulamayı etkinleştirin",
+          "Özel anahtarları veya seed cümlelerini asla kimseyle paylaşmayın",
+          "Şüpheli aktiviteleri derhal bildirin",
+          "Cihazınızı ve yazılımınızı güncel tutun"
+        ]
+      },
+      "legalCompliance": {
+        "title": "Yasal Uyumluluk",
+        "items": [
+          "Uygulanabilir tüm yasa ve düzenlemelere uyun",
+          "KYC/AML için doğru ve eksiksiz bilgi sağlayın",
+          "Hizmetleri yasadışı faaliyetler veya kara para aklama için kullanmayın",
+          "Fikri mülkiyet haklarına saygı gösterin",
+          "Piyasa manipülasyonu veya dolandırıcılığa katılmayın"
+        ]
+      },
+      "serviceUsage": {
+        "title": "Hizmet Kullanımı",
+        "items": [
+          "Hizmetleri yalnızca yasal amaçlar için kullanın",
+          "Sistemlerimizi hacklemeye veya tehlikeye atmaya çalışmayın",
+          "Diğer kullanıcıların hizmetlere erişimini engellemeyin",
+          "Hataları ve güvenlik açıklarını sorumlu bir şekilde bildirin",
+          "Adil kullanım politikalarımızı ve hız limitlerini takip edin"
+        ]
+      },
+      "financialResponsibility": {
+        "title": "Finansal Sorumluluk",
+        "items": [
+          "Kripto para ticaretinin risklerini anlayın",
+          "Yatırım yapmadan önce kendi araştırmanızı yapın",
+          "Kaybetmeyi göze alabileceğinizden fazla yatırım yapmayın",
+          "Yargı alanınızdaki vergi yükümlülüklerinin farkında olun",
+          "İşlemlerin doğru kayıtlarını tutun"
+        ]
+      }
+    },
+    "prohibitedActivities": {
+      "title": "Yasaklı Faaliyetler",
+      "subtitle": "Aşağıdaki faaliyetler kesinlikle yasaktır ve hesap sonlandırılmasına neden olabilir.",
+      "activities": [
+        "Kara para aklama veya terör finansmanı",
+        "Piyasa manipülasyonu veya pump-and-dump şemaları",
+        "Hesaplara veya sistemlere yetkisiz erişim",
+        "Kötü amaçlı yazılım veya phishing girişimleri dağıtma",
+        "Diğer kullanıcıları taciz etme veya kötüye kullanma",
+        "Fikri mülkiyet haklarını ihlal etme",
+        "Hizmetlerimizi tersine mühendislik yapmaya çalışma",
+        "Yasadışı kumar veya faaliyetler için hizmetleri kullanma",
+        "Güvenlik önlemlerini veya erişim kontrollerini aşma",
+        "Yanlış veya yanıltıcı bilgi sağlama"
+      ]
+    },
+    "intellectualProperty": {
+      "title": "Fikri Mülkiyet",
+      "subtitle": "Fikri mülkiyet haklarımızı ve kullanım haklarınızı anlama.",
+      "ourRights": {
+        "title": "Haklarımız",
+        "items": [
+          "Hizmetlerimizde kullanılan tüm yazılım, kod ve teknoloji",
+          "Ticari markalar, logolar ve marka öğeleri",
+          "Kullanıcı arayüzü tasarımları ve düzenleri",
+          "Dokümantasyon, kılavuzlar ve eğitim içeriği",
+          "Analitik, içgörüler ve toplu veriler"
+        ]
+      },
+      "yourRights": {
+        "title": "Haklarınız",
+        "items": [
+          "Kripto para varlıklarınızın mülkiyeti",
+          "Hizmetlerimizi amaçlandığı şekilde kullanma hakkı",
+          "İşlem verilerinizi dışa aktarma yeteneği",
+          "Halka açık API'leri ve entegrasyonları kullanma özgürlüğü",
+          "Geri bildirim ve önerilerde bulunma hakkı"
+        ]
+      },
+      "usageLicense": {
+        "title": "Kullanım Lisansı",
+        "items": [
+          "Hizmetlerimizi kullanmak için münhasır olmayan, iptal edilebilir lisans",
+          "Hesap kapatılması veya ihlal durumunda lisans sona erer",
+          "Lisansı alt lisans verme veya devretme hakkı yoktur",
+          "Tüm şart ve koşullara uymalısınız",
+          "Hizmetleri değiştirme veya durdurma hakkını saklı tutarız"
+        ]
+      }
+    },
+    "liability": {
+      "title": "Sorumluluk Sınırlamaları",
+      "subtitle": "Sorumluluğumuz üzerindeki önemli sınırlamalar ve risk anlayışınız.",
+      "serviceAvailability": {
+        "title": "Hizmet Mevcudiyeti",
+        "description": "Yüksek kullanılabilirlik için çaba gösteriyoruz ancak kesintisiz hizmet garanti edemeyiz",
+        "items": [
+          "Planlı bakım ve güncellemeler",
+          "Üçüncü taraf hizmet bağımlılıkları",
+          "Ağ tıkanıklığı ve blok zinciri sorunları",
+          "Mücbir sebep olayları ve acil durumlar"
+        ]
+      },
+      "financialLosses": {
+        "title": "Finansal Kayıplar",
+        "description": "Kripto para ticareti önemli riskler içerir",
+        "items": [
+          "Piyasa oynaklığı ve fiyat dalgalanmaları",
+          "Akıllı sözleşme açıkları ve hatalar",
+          "Kripto piyasalarını etkileyen düzenleyici değişiklikler",
+          "İşlem başarısızlıklarına neden olan teknik sorunlar"
+        ]
+      },
+      "securityIncidents": {
+        "title": "Güvenlik Olayları",
+        "description": "Sağlam güvenlik önlemleri uygulamamıza rağmen",
+        "items": [
+          "Anahtar yönetiminde kullanıcı ihmali",
+          "Üçüncü taraf güvenlik ihlalleri",
+          "Gelişmiş kalıcı tehditler",
+          "Sıfır gün açıkları"
+        ]
+      }
+    },
+    "regulatoryCompliance": {
+      "title": "Düzenleyici Uyumluluk",
+      "subtitle": "Uygulanabilir yasa ve düzenlemelere uyuma kendimizi adadık.",
+      "kycAml": {
+        "title": "KYC/AML Gereksinimleri",
+        "description": "Müşteriyi Tanı ve Kara Para Aklamayı Önleme uyumluluğu",
+        "items": [
+          "Belirli işlemler için kimlik doğrulama",
+          "Fon kaynağı dokümantasyonu",
+          "Şüpheli aktivite raporlama",
+          "İşlem izleme ve tarama"
+        ]
+      },
+      "financialRegulations": {
+        "title": "Finansal Düzenlemeler",
+        "description": "Uygulanabilir finansal hizmetler yasalarına uyumluluk",
+        "items": [
+          "Lisanslama ve kayıt gereksinimleri",
+          "Sermaye yeterliliği ve rezerv gereksinimleri",
+          "Tüketici koruma standartları",
+          "Düzenleyici raporlama ve denetimler"
+        ]
+      },
+      "dataProtection": {
+        "title": "Veri Koruması",
+        "description": "Gizlilik ve veri koruma yasalarına uyumluluk",
+        "items": [
+          "AB kullanıcıları için GDPR uyumluluğu",
+          "Kaliforniya sakinleri için CCPA uyumluluğu",
+          "Veri minimizasyonu ve amaç sınırlaması",
+          "Kullanıcı hakları ve rıza yönetimi"
+        ]
+      },
+      "taxCompliance": {
+        "title": "Vergi Uyumluluğu",
+        "description": "Vergi raporlama ve uyumluluk gereksinimleri",
+        "items": [
+          "Vergi amaçları için işlem raporlama",
+          "Sermaye kazanç ve kayıp dokümantasyonu",
+          "Uluslararası vergi uyumluluğu",
+          "Vergi makamlarıyla işbirliği"
+        ]
+      }
+    },
+    "disputeResolution": {
+      "title": "Uyuşmazlık Çözümü",
+      "subtitle": "Uyuşmazlıkları nasıl ele aldığımız ve kullanıcılarla çatışmaları nasıl çözdüğümüz.",
+      "steps": {
+        "informal": {
+          "number": "1",
+          "title": "Gayri Resmi Çözüm",
+          "description": "Sorunları gayri resmi olarak çözmek için destek ekibimizle iletişime geçin",
+          "timeframe": "Zaman Çerçevesi: 30 gün",
+          "contact": "İletişim: support@laxce.com"
+        },
+        "mediation": {
+          "number": "2",
+          "title": "Arabuluculuk",
+          "description": "Gayri resmi çözüm başarısız olursa, arabuluculuk hizmetleri sunabiliriz",
+          "timeframe": "Zaman Çerçevesi: 60 gün",
+          "contact": "İletişim: legal@laxce.com"
+        },
+        "arbitration": {
+          "number": "3",
+          "title": "Tahkim",
+          "description": "Uygulanabilir kurallar altında bağlayıcı tahkim",
+          "timeframe": "Zaman Çerçevesi: 90 gün",
+          "contact": "İletişim: legal@laxce.com"
+        },
+        "legal": {
+          "number": "4",
+          "title": "Hukuki İşlem",
+          "description": "Son çare olarak, hukuki işlem başlatılabilir",
+          "timeframe": "Zaman Çerçevesi: Kanunun gerektirdiği şekilde",
+          "contact": "İletişim: legal@laxce.com"
+        }
+      }
+    },
+    "accountTermination": {
+      "title": "Hesap Sonlandırma",
+      "subtitle": "Hesapların sonlandırılabileceği veya askıya alınabileceği koşullar.",
+      "userTermination": {
+        "title": "Kullanıcı Sonlandırması",
+        "items": [
+          "Kullanıcı tarafından hesap kapatma talebi",
+          "Aktif hesaplar için 30 günlük ihbar süresi",
+          "Bekleyen işlemlerin çözümü",
+          "Veri dışa aktarma ve silme seçenekleri"
+        ]
+      },
+      "serviceTermination": {
+        "title": "Hizmet Sonlandırması",
+        "items": [
+          "Hizmet şartlarının ihlali",
+          "Dolandırıcılık veya yasadışı faaliyetler",
+          "Uzun süreli hareketsizlik",
+          "Düzenleyici veya yasal gereksinimler"
+        ]
+      },
+      "immediateSuspension": {
+        "title": "Anında Askıya Alma",
+        "items": [
+          "Şüpheli veya dolandırıcılık işlemler",
+          "Güvenlik tehditleri veya ihlaller",
+          "Düzenleyici soruşturmalar",
+          "Mahkeme kararları veya yasal gereksinimler"
+        ]
+      }
+    },
+    "contact": {
+      "title": "Şartlar Hakkında Sorularınız mı Var?",
+      "subtitle": "Bu Hizmet Şartları hakkında herhangi bir sorunuz varsa veya açıklama gerekiyorsa, lütfen hukuk ekibimizle iletişime geçmekten çekinmeyin.",
+      "contactLegal": "Hukuk Ekibiyle İletişime Geçin",
+      "viewPrivacyPolicy": "Gizlilik Politikasını Görüntüle",
+      "backToHome": "Ana Sayfaya Dön"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "badge": "Geliştirme Yol Haritası",
+      "title": "Yolculuğumuz",
+      "subtitle": "Merkezi olmayan finans ve gerçek dünya varlık tokenizasyonunun geleceğini inşa etmek. Temelden küresel genişlemeye, her kilometre taşı bizi dijital finansı devrim niteliğinde değiştirmeye yaklaştırıyor."
+    },
+    "filters": {
+      "all": "Tümü",
+      "completed": "Tamamlandı",
+      "current": "Mevcut",
+      "upcoming": "Yakında"
+    },
+    "phases": {
+      "q4_2024": {
+        "quarter": "2024 Q4",
+        "status": "completed",
+        "title": "Temel ve Token Lansmanı",
+        "description": "Temel altyapı ve yerel token lansmanı",
+        "achievements": [
+          "LAXCE yerel token (LAX) lansmanı",
+          "Halka açık testnet lansmanı",
+          "Merkezi olmayan yönetişim çerçevesi",
+          "Ethereum üzerinde Laxcedex DEX lansmanı",
+          "Ağ katılım teşvikleri"
+        ]
+      },
+      "q1_2025": {
+        "quarter": "2025 Q1",
+        "status": "completed",
+        "title": "Mainnet ve Geliştirici Araçları",
+        "description": "Mainnet lansmanı ve kapsamlı geliştirici ekosistemi",
+        "achievements": [
+          "Polygon CDK Validium üzerinde mainnet lansmanı",
+          "Geliştirici araçları ve API'ların yayınlanması",
+          "Ekosistem ortaklığı gelişimi",
+          "Gerçek dünya varlık tokenizasyon platformu",
+          "Ölçeklenebilir ve güvenli altyapı"
+        ]
+      },
+      "q2_2025": {
+        "quarter": "2025 Q2",
+        "status": "completed",
+        "title": "Zincirler Arası ve Kurumsal",
+        "description": "Birlikte çalışabilirlik ve kurumsal çözümler",
+        "achievements": [
+          "Zincirler arası birlikte çalışabilirlik uygulaması",
+          "Kurumsal düzeyde çözüm geliştirme",
+          "Topluluk büyümesi ve katılımı",
+          "Mikro ödemeler ve ödeme entegrasyonu",
+          "Tüccar ağ geçidi ortaklıkları"
+        ]
+      },
+      "q3_2025": {
+        "quarter": "2025 Q3",
+        "status": "current",
+        "title": "Gerçek Dünya Varlık Tokenizasyonu",
+        "description": "Gerçek dünya varlık tokenizasyonu için pilot projeler",
+        "achievements": [
+          "Gayrimenkul tokenizasyon pilotları",
+          "Emtia tokenizasyon projeleri",
+          "Sanat ve koleksiyon tokenizasyonu",
+          "Tedarik zinciri finansman çözümleri",
+          "Ticaret finansmanı süreç optimizasyonu"
+        ]
+      },
+      "q4_2025": {
+        "quarter": "2025 Q4",
+        "status": "upcoming",
+        "title": "Gelişmiş DeFi Ekosistemi",
+        "description": "Kapsamlı DeFi protokol entegrasyonu ve genişlemesi",
+        "achievements": [
+          "Gelişmiş borç verme protokolleri",
+          "Verim çiftçiliği optimizasyonu",
+          "NFT pazarı genişlemesi",
+          "Sigorta ürün entegrasyonu",
+          "Türev ticaret platformu"
+        ]
+      },
+      "q1_2026": {
+        "quarter": "2026 Q1",
+        "status": "upcoming",
+        "title": "Küresel Genişleme",
+        "description": "Uluslararası pazar genişlemesi ve düzenleyici uyumluluk",
+        "achievements": [
+          "Küresel düzenleyici uyumluluk",
+          "Uluslararası pazar girişi",
+          "Çok dilli platform desteği",
+          "Bölgesel ortaklık genişlemesi",
+          "Uyumluluk ve güvenlik denetimleri"
+        ]
+      },
+      "q2_2026": {
+        "quarter": "2026 Q2",
+        "status": "upcoming",
+        "title": "AI ve Gelişmiş Analitik",
+        "description": "AI destekli özellikler ve gelişmiş analitik platform",
+        "achievements": [
+          "AI destekli ticaret algoritmaları",
+          "Gelişmiş portföy analitiği",
+          "Öngörücü piyasa içgörüleri",
+          "Otomatik risk yönetimi",
+          "Makine öğrenmesi entegrasyonu"
+        ]
+      },
+      "q3_2026": {
+        "quarter": "2026 Q3",
+        "status": "upcoming",
+        "title": "Kurumsal Adapte",
+        "description": "Kurumsal düzeyde çözümler ve kurumsal adapte",
+        "achievements": [
+          "Kurumsal ticaret masaları",
+          "Kurumsal saklama çözümleri",
+          "Düzenleyici raporlama araçları",
+          "Kurumsal ortaklıklar",
+          "Uyumluluk otomasyonu"
+        ]
+      }
+    },
+    "keyAchievements": "Önemli Başarılar",
+    "stats": {
+      "phasesCompleted": {
+        "value": "3/8",
+        "label": "Tamamlanan Aşamalar"
+      },
+      "currentPhase": {
+        "value": "1",
+        "label": "Mevcut Aşama"
+      },
+      "timeline": {
+        "value": "24",
+        "label": "Ay Zaman Çizelgesi"
+      },
+      "totalPhases": {
+        "value": "8",
+        "label": "Toplam Aşamalar"
+      }
+    },
+    "cta": {
+      "title": "Güncel Kalın",
+      "subtitle": "Laxce güncellemeleri ve haberleri için kaydolun. Önemli kilometre taşları hakkında bilgilendirilir ve yeni özelliklere ilk erişen olur.",
+      "joinCommunity": "Topluluğumuza Katılın"
+    }
+  },
+  "app": {
+    "dropdown": {
+      "getApp": "Uygulamayı Al",
+      "chooseDownload": "İndirme yönteminizi seçin",
+      "apkDownload": "APK İndirme",
+      "apkDescription": "Doğrudan APK dosya indirmesi",
+      "googlePlay": "Google Play",
+      "googlePlayDescription": "Google Play Store'dan indir",
+      "appStore": "App Store",
+      "appStoreDescription": "Apple App Store'dan indir"
+    }
+  }
+} 

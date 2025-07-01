@@ -1,0 +1,2165 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "wallet": "Wallet",
+    "dex": "DEX",
+    "roadmap": "Roadmap",
+    "whitepaper": "Whitepaper",
+    "tokenomics": "Tokenomics",
+    "ecosystem": "Ecosystem"
+  },
+  "home": {
+    "hero": {
+      "badge": "All-in-One DeFi",
+      "title": "The Future of DeFi is Here",
+      "subtitle": "Secure multi-chain wallet with built-in DEX, cross-chain bridge, and zero trading fees. Your gateway to the decentralized future.",
+      "mainTitle": "Wallet & DEX",
+      "description": "Secure multi-chain wallet with built-in decentralized exchange, cross-chain bridge, and zero trading fees. Your gateway to the decentralized future.",
+      "cta": "Get Started",
+      "learnMore": "Learn More"
+    },
+    "features": {
+      "title": "Why Choose Laxce?",
+      "subtitle": "Discover the features that make Laxce the ultimate DeFi platform",
+      "badge": "Features",
+      "heading": "Everything You Need for DeFi Success",
+      "description": "One app for all your DeFi needs. Secure wallet, instant trading, and cross-chain bridges.",
+      "secure": {
+        "badge": "100% secure",
+        "title": "Secure Wallet",
+        "description": "Multi-chain wallet with advanced security features and self-custody"
+      },
+      "fees": {
+        "badge": "0% fees",
+        "title": "Built-in DEX",
+        "description": "Trade directly from your wallet with zero fees and instant swaps"
+      },
+      "chains": {
+        "badge": "10+ chains",
+        "title": "Cross-Chain Bridge",
+        "description": "Seamlessly move assets across multiple blockchain networks"
+      },
+      "speed": {
+        "badge": "0.1s avg",
+        "title": "Lightning Fast",
+        "description": "Execute trades in milliseconds with our optimized engine"
+      },
+      "wallet": {
+        "title": "Secure Wallet",
+        "description": "Multi-chain wallet with advanced security features and easy-to-use interface"
+      },
+      "dex": {
+        "title": "DEX Trading",
+        "description": "Decentralized exchange with lightning-fast trades and minimal fees"
+      },
+      "bridge": {
+        "title": "Cross-Chain Bridge",
+        "description": "Seamlessly transfer assets between different blockchain networks"
+      },
+      "staking": {
+        "title": "Staking Rewards",
+        "description": "Earn passive income by staking your tokens with competitive APY"
+      }
+    },
+    "howItWorks": {
+      "badge": "Getting Started",
+      "title": "How to Get Started in 4 Simple Steps",
+      "step1": {
+        "number": "01",
+        "title": "Download & Install",
+        "description": "Get Laxce from your app store or download the APK directly"
+      },
+      "step2": {
+        "number": "02", 
+        "title": "Create Wallet",
+        "description": "Generate your secure wallet with backup phrase protection"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Start Trading", 
+        "description": "Connect to DEX and start trading with zero fees instantly"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Bridge Assets",
+        "description": "Use cross-chain bridge to move assets between networks"
+      }
+    },
+    "journey": {
+      "title": "Our Journey to the Future",
+      "subtitle": "Milestones that define our path to revolutionizing DeFi",
+      "phase1": {
+        "title": "Foundation Phase",
+        "description": "Core platform development and security audits",
+        "status": "Completed"
+      },
+      "phase2": {
+        "title": "Launch Phase",
+        "description": "Wallet and DEX launch with basic features",
+        "status": "In Progress"
+      },
+      "phase3": {
+        "title": "Expansion Phase",
+        "description": "Advanced features and cross-chain integration",
+        "status": "Upcoming"
+      },
+      "phase4": {
+        "title": "Ecosystem Phase",
+        "description": "Full DeFi ecosystem with governance and DAO",
+        "status": "Upcoming"
+      }
+    },
+    "security": {
+      "badge": "Security First",
+      "title": "Your Security is Our Top Priority",
+      "subtitle": "We've implemented enterprise-grade security measures to ensure your assets and data remain completely safe and private.",
+      "biometric": {
+        "title": "Biometric Security",
+        "description": "Fingerprint and face recognition for quick, secure access"
+      },
+      "privacy": {
+        "title": "Privacy First",
+        "description": "Your data stays on your device. We never access your private keys"
+      },
+      "encryption": {
+        "title": "Encrypted Storage",
+        "description": "All sensitive data is encrypted with military-grade algorithms"
+      },
+      "multiSig": {
+        "title": "Multi-Sig Support",
+        "description": "Advanced multi-signature wallets for enhanced security"
+      },
+      "features": {
+        "militaryGrade": "Military-Grade Security",
+        "encryption": "Encryption",
+        "selfCustody": "Self-Custody",
+        "biometricAccess": "Biometric Access",
+        "multiSigSupport": "Multi-Sig Support"
+      }
+    },
+    "supportedChains": {
+      "badge": "Multi-Chain Support",
+      "title": "Support for Major Blockchains",
+      "subtitle": "Access the entire DeFi ecosystem across multiple blockchain networks from a single wallet.",
+      "chains": {
+        "bitcoin": "Bitcoin",
+        "ethereum": "Ethereum",
+        "bsc": "Binance Smart Chain",
+        "polygon": "Polygon",
+        "solana": "Solana",
+        "xrp": "XRP"
+      }
+    },
+    "tokenomics": {
+      "badge": "LAXCE V1-2024 TOKENOMICS",
+      "title": "$LAX Token Economics",
+      "subtitle": "The $LAX token powers our ecosystem with governance rights, staking rewards, and exclusive platform benefits. Built on Ethereum with future multi-chain compatibility.",
+      "totalSupply": {
+        "value": "500M",
+        "label": "Total Supply"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "Token Symbol"
+      },
+      "viewFull": "View Full Tokenomics",
+      "distribution": {
+        "title": "Token Distribution",
+        "publicSale": {
+          "label": "Public Sale",
+          "percentage": "40%"
+        },
+        "privateSale": {
+          "label": "Private Sale",
+          "percentage": "20%"
+        },
+        "reserveFund": {
+          "label": "Reserve Fund",
+          "percentage": "15%"
+        },
+        "stakingRewards": {
+          "label": "Staking Rewards",
+          "percentage": "15%"
+        },
+        "teamAdvisors": {
+          "label": "Team & Advisors",
+          "percentage": "10%"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "User Reviews",
+      "title": "What Our Users Say",
+      "reviews": [
+        {
+          "content": "Laxce has revolutionized my trading experience. The speed and security are unmatched.",
+          "name": "Alex Chen",
+          "role": "DeFi Trader",
+          "avatar": "AC",
+          "rating": 5
+        },
+        {
+          "content": "Finally, a wallet that puts security first without compromising on features.",
+          "name": "Sarah Johnson", 
+          "role": "Crypto Investor",
+          "avatar": "SJ",
+          "rating": 5
+        },
+        {
+          "content": "The cross-chain bridge feature is a game-changer for my DeFi operations.",
+          "name": "Mike Rodriguez",
+          "role": "Blockchain Developer", 
+          "avatar": "MR",
+          "rating": 5
+        }
+      ]
+    },
+    "roadmap": {
+      "badge": "Development Roadmap",
+      "title": "Our Journey to the Future",
+      "subtitle": "Building the future of decentralized finance and real-world asset tokenization. From foundation to global expansion, every milestone brings us closer to revolutionizing digital finance.",
+      "phases": {
+        "q4_2024": {
+          "quarter": "Q4 2024",
+          "status": "Completed",
+          "title": "Foundation & Token Launch",
+          "description": "Core infrastructure and native token launch",
+          "items": [
+            "LAXCE native token (LAX) launch",
+            "Public testnet launch",
+            "Decentralized governance framework",
+            "Laxcedex DEX launch on Ethereum"
+          ]
+        },
+        "q1_2025": {
+          "quarter": "Q1 2025",
+          "status": "Completed",
+          "title": "Mainnet & Developer Tools",
+          "description": "Mainnet launch and comprehensive developer ecosystem",
+          "items": [
+            "Mainnet launch on Polygon CDK Validium",
+            "Developer tools and APIs release",
+            "Ecosystem partnership development",
+            "Real-world asset tokenization platform"
+          ]
+        },
+        "q2_2025": {
+          "quarter": "Q2 2025",
+          "status": "Completed",
+          "title": "Cross-Chain & Enterprise",
+          "description": "Interoperability and enterprise solutions",
+          "items": [
+            "Cross-chain interoperability implementation",
+            "Enterprise-grade solutions development",
+            "Community growth and engagement",
+            "Merchant gateway partnerships"
+          ]
+        },
+        "q3_2025": {
+          "quarter": "Q3 2025",
+          "status": "Current",
+          "title": "Real-World Asset Tokenization",
+          "description": "Pilot projects for real-world asset tokenization",
+          "items": [
+            "Real estate tokenization pilots",
+            "Commodities tokenization projects",
+            "Art and collectibles tokenization",
+            "Supply chain financing solutions"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "Q4 2025",
+          "status": "Upcoming",
+          "title": "Advanced DeFi Ecosystem",
+          "description": "Comprehensive DeFi protocol integration and expansion",
+          "items": [
+            "Advanced lending protocols",
+            "Yield farming optimization",
+            "NFT marketplace expansion",
+            "Derivatives trading platform"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "Q1 2026",
+          "status": "Upcoming",
+          "title": "Global Expansion",
+          "description": "International market expansion and regulatory compliance",
+          "items": [
+            "Global regulatory compliance",
+            "International market entry",
+            "Multi-language platform support",
+            "Regional partnership expansion"
+          ]
+        }
+      },
+      "stats": {
+        "phasesCompleted": {
+          "value": "3/8",
+          "label": "Phases Completed"
+        },
+        "currentPhase": {
+          "value": "1",
+          "label": "Current Phase"
+        },
+        "timeline": {
+          "value": "24",
+          "label": "Months Timeline"
+        },
+        "totalPhases": {
+          "value": "8",
+          "label": "Total Phases"
+        }
+      },
+      "viewFull": "View Full Roadmap"
+    },
+    "cta": {
+      "title": "Ready to Start Your DeFi Journey?",
+      "subtitle": "Join thousands of users who are already trading, staking, and earning with Laxce.",
+      "getApp": "Get App",
+      "readWhitepaper": "Read Whitepaper",
+      "availability": "Available on iOS, Android, and Web • Free to download • No hidden fees"
+    },
+    "stats": {
+      "count1": "50K+",
+      "label1": "Active Users",
+      "growth1": "+15%",
+      "count2": "$2.5B",
+      "label2": "Trading Volume", 
+      "growth2": "+45%",
+      "count3": "99.9%",
+      "label3": "Uptime",
+      "growth3": "99.9%",
+      "count4": "24/7",
+      "label4": "Support",
+      "growth4": "Instant",
+      "users": "Active Users",
+      "volume": "Trading Volume",
+      "tokens": "Supported Tokens",
+      "chains": "Blockchain Networks",
+      "activeusers": "Active Users",
+      "volumetraded": "Volume Traded",
+      "uptime": "Uptime",
+      "support": "Support"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "About Laxce",
+      "title": "Revolutionizing DeFi",
+      "subtitle": "We're building the future of decentralized finance, making it accessible, secure, and user-friendly for everyone. From beginners to experts, Laxce provides the tools you need to navigate the DeFi ecosystem with confidence."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To democratize access to decentralized finance by creating intuitive, secure, and powerful tools that empower individuals worldwide to take control of their financial future. We believe everyone deserves access to the benefits of DeFi, regardless of their technical expertise."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become the leading DeFi platform that bridges traditional finance with blockchain technology, creating a seamless ecosystem where users can trade, earn, and manage their digital assets with unprecedented ease and security."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide everything we do at Laxce",
+      "security": {
+        "title": "Security First",
+        "description": "Enterprise-grade security protocols and regular audits to protect user assets."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Cutting-edge technology and continuous improvement in DeFi solutions."
+      },
+      "userCentric": {
+        "title": "User-Centric",
+        "description": "Intuitive design and seamless experience for both beginners and experts."
+      },
+      "globalAccess": {
+        "title": "Global Access",
+        "description": "Democratizing DeFi access for users worldwide with multi-chain support."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Open-source code, public audits, and clear communication with our community."
+      },
+      "growth": {
+        "title": "Growth",
+        "description": "Sustainable growth through strategic partnerships and ecosystem development."
+      }
+    },
+    "journey": {
+      "title": "Our Journey",
+      "subtitle": "Key milestones in our mission to revolutionize DeFi",
+      "milestones": {
+        "2023": {
+          "year": "2023",
+          "title": "Foundation",
+          "description": "Laxce founded with vision to democratize DeFi access"
+        },
+        "2024Q1": {
+          "year": "2024 Q1",
+          "title": "MVP Launch",
+          "description": "First version of Laxce Wallet and DEX launched"
+        },
+        "2024Q2": {
+          "year": "2024 Q2",
+          "title": "Security Audit",
+          "description": "Completed comprehensive security audits by leading firms"
+        },
+        "2024Q3": {
+          "year": "2024 Q3",
+          "title": "Multi-Chain",
+          "description": "Expanded support to Ethereum, BSC, and Polygon networks"
+        },
+        "2024Q4": {
+          "year": "2024 Q4",
+          "title": "Mobile App",
+          "description": "Native mobile applications for iOS and Android"
+        },
+        "2025": {
+          "year": "2025",
+          "title": "Global Expansion",
+          "description": "Targeting 1M+ active users and 50+ supported chains"
+        }
+      }
+    },
+    "company": {
+      "title": "About Laxce",
+      "founded": "Founded in 2023",
+      "team": "Global Team (Remote First)",
+      "members": "25+ Team Members",
+      "countries": "10+ Countries",
+      "contact": {
+        "title": "Contact Information",
+        "email": "contact@laxce.com",
+        "website": "laxce.com"
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose Laxce?",
+      "security": {
+        "title": "Advanced Security",
+        "description": "Multi-layer security with regular audits"
+      },
+      "interface": {
+        "title": "User-Friendly Interface",
+        "description": "Intuitive design for all experience levels"
+      },
+      "multiChain": {
+        "title": "Multi-Chain Support",
+        "description": "Access to multiple blockchain networks"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Round-the-clock customer assistance"
+      }
+    },
+    "cta": {
+      "title": "Ready to Join the DeFi Revolution?",
+      "description": "Start your DeFi journey with Laxce today. Download our app and experience the future of finance.",
+      "exploreWallet": "Explore Wallet",
+      "tryDex": "Try DEX"
+    }
+  },
+  "footer": {
+    "description": "The future of decentralized finance. Secure, fast, and user-friendly DeFi platform.",
+    "products": "Products",
+    "resources": "Resources",
+    "company": "Company",
+    "legal": "Legal",
+    "social": "Follow Us",
+    "language": "Language",
+    "copyright": "© 2024 Laxce. All rights reserved.",
+    "secureByDesign": "Secure by design",
+    "madeBy": "Made By",
+    "laxceTeam": "Laxce Team",
+    "downloads": {
+      "whitepaper": "Download Whitepaper",
+      "tokenomics": "Download Tokenomics"
+    },
+    "links": {
+      "wallet": "Wallet",
+      "walletDescription": "Secure crypto wallet",
+      "dex": "DEX",
+      "dexDescription": "Decentralized exchange",
+      "bridge": "Bridge",
+      "bridgeDescription": "Cross-chain transfers",
+      "staking": "Staking",
+      "stakingDescription": "Earn rewards",
+      "roadmap": "Roadmap",
+      "whitepaper": "Whitepaper",
+      "tokenomics": "Tokenomics",
+      "documentation": "Documentation",
+      "aboutUs": "About Us",
+      "careers": "Careers",
+      "pressKit": "Press Kit",
+      "contact": "Contact",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "security": "Security",
+      "audits": "Audits",
+      "discord": "Discord",
+      "twitter": "X (Twitter)",
+      "telegram": "Telegram",
+      "medium": "Medium"
+    }
+  },
+  "app": {
+    "dropdown": {
+      "getApp": "Get App",
+      "chooseDownload": "Choose your download",
+      "apkDownload": "APK Download",
+      "apkDescription": "Direct APK file download",
+      "googlePlay": "Google Play",
+      "googlePlayDescription": "Download from Google Play Store",
+      "appStore": "App Store",
+      "appStoreDescription": "Download from Apple App Store"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "download": "Download",
+    "viewOnline": "View Online",
+    "comingSoon": "Coming Soon",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "upcoming": "Upcoming"
+  },
+  "wallet": {
+    "hero": {
+      "badge": "LAXCE WALLET",
+      "title": "Your Gateway to the Future of Finance",
+      "subtitle": "Experience the most advanced cryptocurrency wallet with support for 1000+ cryptocurrencies, 10+ blockchains, and multi-language support. Secure, fast, and user-friendly."
+    },
+    "features": {
+      "title": "Powerful Features",
+      "subtitle": "Everything you need for seamless cryptocurrency management in one powerful app",
+      "send": {
+        "title": "Send",
+        "description": "Send cryptocurrencies instantly to anyone, anywhere in the world with minimal fees and maximum security."
+      },
+      "receive": {
+        "title": "Receive", 
+        "description": "Receive payments from anywhere with your unique wallet address. Share your QR code for instant transfers."
+      },
+      "cryptocurrencies": {
+        "title": "+1000 Cryptocurrencies",
+        "description": "Support for over 1000 cryptocurrencies including Bitcoin, Ethereum, LAXCE, and all major altcoins."
+      },
+      "languages": {
+        "title": "10+ Languages",
+        "description": "Available in more than 10 languages including English, Spanish, French, German, Chinese, and more."
+      },
+      "currencies": {
+        "title": "10+ Traditional Currencies",
+        "description": "Support for over 10 traditional currencies including USD, EUR, GBP, JPY, and more for easy conversion."
+      },
+      "history": {
+        "title": "Transaction History",
+        "description": "Complete transaction history with detailed records, timestamps, and status tracking for all your activities."
+      },
+      "multiWallet": {
+        "title": "Multi-Wallet",
+        "description": "Create and manage multiple wallets for different purposes - personal, business, or investment portfolios."
+      },
+      "blockchains": {
+        "title": "10 Blockchains",
+        "description": "Support for 10+ major blockchains including Ethereum, Bitcoin, Binance Smart Chain, Polygon, and more."
+      }
+    },
+    "benefits": {
+      "title": "Why Choose LAXCE Wallet?",
+      "subtitle": "Built with cutting-edge technology and user experience in mind",
+      "security": {
+        "title": "Bank-Grade Security",
+        "description": "Military-grade encryption and multi-layer security protocols to protect your assets."
+      },
+      "speed": {
+        "title": "Lightning Fast",
+        "description": "Instant transactions with real-time confirmation and minimal network fees."
+      },
+      "crossPlatform": {
+        "title": "Cross-Platform",
+        "description": "Available on iOS, Android, and Web with seamless synchronization across all devices."
+      },
+      "global": {
+        "title": "Global Access",
+        "description": "Access your wallet from anywhere in the world with our global server network."
+      }
+    },
+    "cta": {
+      "downloadNow": "Download Now",
+      "learnMore": "Learn More",
+      "ready": "Ready to Get Started?",
+      "downloadToday": "Download LAXCE Wallet today and join millions of users worldwide in the future of finance",
+      "downloadIOS": "Download for iOS",
+      "downloadAndroid": "Download for Android",
+      "freeDownload": "Free Download",
+      "rating": "4.8/5 Rating",
+      "bankSecurity": "Bank-Level Security"
+    }
+  },
+  "dex": {
+    "hero": {
+      "badge": "LAXCE DEX",
+      "title": "Decentralized Exchange",
+      "subtitle": "Trade cryptocurrencies securely and efficiently on our decentralized exchange. No intermediaries, no KYC, complete control over your assets."
+    },
+    "markets": {
+      "title": "Live Markets",
+      "subtitle": "Real-time cryptocurrency prices and trading volumes",
+      "volume": "Volume",
+      "tradeNow": "Trade Now"
+    },
+    "features": {
+      "title": "Why Choose LAXCE DEX?",
+      "subtitle": "Built for traders, by traders with cutting-edge technology",
+      "lightningFast": {
+        "title": "Lightning Fast",
+        "description": "Execute trades in milliseconds with our high-performance matching engine."
+      },
+      "secureTrading": {
+        "title": "Secure Trading",
+        "description": "Bank-grade security with multi-layer protection and real-time monitoring."
+      },
+      "tradingPairs": {
+        "title": "1000+ Pairs",
+        "description": "Trade over 1000 cryptocurrency pairs with deep liquidity pools."
+      },
+      "globalCommunity": {
+        "title": "Global Community",
+        "description": "Join millions of traders worldwide in a vibrant, active community."
+      },
+      "crossChain": {
+        "title": "Cross-Chain",
+        "description": "Trade assets across multiple blockchains seamlessly."
+      },
+      "advancedCharts": {
+        "title": "Advanced Charts",
+        "description": "Professional trading tools with real-time data and analysis."
+      }
+    },
+    "benefits": {
+      "title": "Trading Benefits",
+      "subtitle": "Experience the advantages of decentralized trading",
+      "highLiquidity": {
+        "title": "High Liquidity",
+        "description": "Deep order books ensure minimal slippage and better execution prices."
+      },
+      "lowFees": {
+        "title": "Low Fees",
+        "description": "Competitive trading fees starting from 0.1% with volume discounts."
+      },
+      "mobileTrading": {
+        "title": "Mobile Trading",
+        "description": "Trade anywhere with our mobile app available on iOS and Android."
+      },
+      "nonCustodial": {
+        "title": "Non-Custodial",
+        "description": "You control your private keys. We never hold your funds."
+      }
+    },
+    "cta": {
+      "startTrading": "Start Trading",
+      "viewMarkets": "View Markets",
+      "ready": "Ready to Start Trading?",
+      "joinTraders": "Join thousands of traders on LAXCE DEX and experience the future of decentralized trading",
+      "launchDex": "Launch DEX",
+      "downloadApp": "Download App",
+      "noKyc": "No KYC Required",
+      "rating": "4.9/5 Rating",
+      "nonCustodial": "Non-Custodial"
+    }
+  },
+  "tokenomics": {
+    "hero": {
+      "badge": "LAXCE V1-2024 TOKENOMICS",
+      "title": "Token Economics",
+      "subtitle": "Explore the LAX token distribution, vesting, and economic incentives."
+    },
+    "overview": {
+      "totalSupply": {
+        "value": "500M",
+        "label": "Total Supply"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "Token Symbol"
+      },
+      "initialNetwork": {
+        "value": "Ethereum",
+        "label": "Initial Network"
+      },
+      "tokenModel": {
+        "value": "Deflationary",
+        "label": "Token Model"
+      }
+    },
+    "tokenDetails": {
+      "title": "Token Details",
+      "subtitle": "Comprehensive information about the $LAX token and its network integration",
+      "tokenAndNetwork": {
+        "title": "Token and Network",
+        "description": "The Laxce token ($LAX) will initially be minted on the Ethereum network. Once the Laxce Layer 2 mainnet is launched, the token will become multi-chain compatible, integrating with the Polygon ecosystem as part of the Polygon Agglayer."
+      },
+      "tokenSupply": {
+        "title": "Token Supply",
+        "description": "The Laxce token ($LAX) will have a hard cap of 500 million tokens, ensuring a limited supply. To maintain deflationary pressure, a portion of the fee will be used to burn existing tokens, reducing the overall circulating supply over time."
+      },
+      "contractAddress": {
+        "title": "Contract Address",
+        "description": "The Contract Address of the Token $LAX is: 0x13abd6192cB32bdE8a921285105F378695f951d9 and can be viewed here:",
+        "address": "0x13abd6192cB32bdE8a921285105F378695f951d9",
+        "copy": "Copy",
+        "view": "View"
+      }
+    },
+    "distribution": {
+      "title": "Token Distribution",
+      "subtitle": "Fair and transparent allocation designed to support long-term ecosystem growth",
+      "totalSupply": "Total Supply",
+      "public": {
+        "title": "Public",
+        "description": "Public token generation event",
+        "percentage": "40%",
+        "amount": "200M $LAX"
+      },
+      "private": {
+        "title": "Private",
+        "description": "Private sale and strategic investors",
+        "percentage": "20%",
+        "amount": "100M $LAX"
+      },
+      "reserve": {
+        "title": "Reserve",
+        "description": "Reserve fund for future opportunities",
+        "percentage": "15%",
+        "amount": "75M $LAX"
+      },
+      "rewards": {
+        "title": "Rewards",
+        "description": "Staking rewards and community incentives",
+        "percentage": "15%",
+        "amount": "75M $LAX"
+      },
+      "teamAdvisors": {
+        "title": "Team and Advisors",
+        "description": "Core team and strategic advisors",
+        "percentage": "10%",
+        "amount": "50M $LAX"
+      }
+    },
+    "utilities": {
+      "title": "Token Utilities",
+      "subtitle": "$LAX tokens will be used for various purposes within the Laxce ecosystem",
+      "governance": {
+        "title": "Governance",
+        "description": "Token holders will have voting rights on network upgrades and proposals"
+      },
+      "staking": {
+        "title": "Staking",
+        "description": "Staking $LAX tokens can earn rewards and contribute to network security"
+      },
+      "transactionFees": {
+        "title": "Transaction Fees",
+        "description": "Transaction fees on the Laxce network will be paid in $LAX"
+      },
+      "exclusiveAccess": {
+        "title": "Exclusive Access",
+        "description": "Token holders may have access to exclusive features or benefits within the Laxce ecosystem"
+      }
+    },
+    "vesting": {
+      "title": "Vesting Schedule",
+      "subtitle": "Transparent vesting periods to ensure long-term commitment and ecosystem stability",
+      "headers": {
+        "category": "Category",
+        "cliffPeriod": "Cliff Period",
+        "vestingPeriod": "Vesting Period",
+        "description": "Description"
+      },
+      "schedules": {
+        "public": {
+          "category": "Public",
+          "cliff": "0 months",
+          "vesting": "No vesting",
+          "description": "Immediate access for public sale participants"
+        },
+        "private": {
+          "category": "Private",
+          "cliff": "6 months",
+          "vesting": "18 months linear",
+          "description": "Strategic investor vesting schedule"
+        },
+        "reserve": {
+          "category": "Reserve",
+          "cliff": "12 months",
+          "vesting": "36 months linear",
+          "description": "Long-term reserve fund release"
+        },
+        "rewards": {
+          "category": "Rewards",
+          "cliff": "0 months",
+          "vesting": "48 months linear",
+          "description": "Long-term community incentives"
+        },
+        "teamAdvisors": {
+          "category": "Team and Advisors",
+          "cliff": "12 months",
+          "vesting": "36 months linear",
+          "description": "Long-term alignment with project success"
+        }
+      }
+    },
+    "cta": {
+      "title": "Download Complete Tokenomics",
+      "description": "Get the detailed tokenomics document with comprehensive information about $LAX token distribution, vesting schedules, and economic models.",
+      "downloadPDF": "Download Tokenomics PDF",
+      "viewOnline": "View Online"
+    }
+  },
+  "whitepaper": {
+    "hero": {
+      "badge": "LAXCE WHITEPAPER 1.0",
+      "title": "Whitepaper",
+      "subtitle": "A decentralized Ethereum Layer-2 platform specifically designed to facilitate the seamless integration of Real-World Assets (RWAs) into the blockchain ecosystem.",
+      "downloadPDF": "Download PDF",
+      "viewOnline": "View Online"
+    },
+    "introduction": {
+      "title": "Introduction",
+      "content": "Laxce is a decentralized Ethereum Layer-2 platform specifically designed to facilitate the seamless integration of Real-World Assets (RWAs) into the blockchain ecosystem. By addressing the scalability, latency, and regulatory challenges inherent in RWA tokenization, Laxce aims to unlock new opportunities for innovation and economic growth."
+    },
+    "problemStatement": {
+      "title": "Problem Statement",
+      "subtitle": "Current challenges in the RWA tokenization ecosystem",
+      "scalability": {
+        "title": "Scalability",
+        "description": "The Ethereum mainnet's current capacity is insufficient to handle the volume of transactions required for large-scale RWA tokenization."
+      },
+      "latency": {
+        "title": "Latency",
+        "description": "The confirmation times on Ethereum can be too slow for time-sensitive RWA transactions."
+      },
+      "regulatory": {
+        "title": "Regulatory Compliance",
+        "description": "Ensuring that RWA tokenizations comply with relevant regulations is crucial but can be complex within a decentralized environment."
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To empower individuals and businesses by providing a secure, scalable, and cost-effective platform for the tokenization of real-world assets, facilitating efficient transactions, enhanced liquidity, and new economic opportunities."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be the leading global platform for tokenized real-world assets, driving innovation, fostering economic growth, and democratizing access to investment opportunities."
+    },
+    "rwaTokenization": {
+      "title": "Real-World Asset Tokenization",
+      "subtitle": "RWA stands for Real-World Assets. These are physical or intangible assets that exist in the real world, such as real estate, commodities, art, and intellectual property. By tokenizing RWAs, blockchain platforms like Laxce can enable fractional ownership, increased liquidity, and enhanced transparency.",
+      "assets": {
+        "realEstate": {
+          "title": "Real Estate",
+          "description": "Properties like houses, apartments, and commercial buildings"
+        },
+        "commodities": {
+          "title": "Commodities",
+          "description": "Natural resources like gold, oil, and agricultural products"
+        },
+        "art": {
+          "title": "Art",
+          "description": "Paintings, sculptures, and other valuable artworks"
+        },
+        "intellectualProperty": {
+          "title": "Intellectual Property",
+          "description": "Patents, copyrights, and trademarks"
+        }
+      },
+      "importance": {
+        "title": "The Importance of RWA Tokenization",
+        "liquidity": {
+          "title": "Increased Liquidity",
+          "description": "Breaking down assets into smaller, tradable tokens significantly increases liquidity"
+        },
+        "fractional": {
+          "title": "Fractional Ownership",
+          "description": "Making assets accessible to a wider range of investors through fractional ownership"
+        },
+        "transparency": {
+          "title": "Enhanced Transparency",
+          "description": "Clear record of ownership, transactions, and asset performance on blockchain"
+        },
+        "management": {
+          "title": "Efficient Management",
+          "description": "Smart contracts automate processes like rent collection and dividend payments"
+        }
+      }
+    },
+    "technicalArchitecture": {
+      "title": "Technical Architecture",
+      "subtitle": "Laxce employs Polygon CDK's Validium architecture to achieve exceptional scalability and security. By leveraging Validium, Laxce offers a high-performance and secure platform for real-world asset tokenization and various financial applications.",
+      "features": {
+        "polygonCDK": {
+          "title": "Polygon CDK Validium",
+          "description": "Built on Polygon's Chain Development Kit with Validium for enhanced scalability and reduced gas fees"
+        },
+        "rwaTokenization": {
+          "title": "Real-World Asset Tokenization",
+          "description": "Comprehensive framework for tokenizing physical assets like real estate, commodities, and art"
+        },
+        "offChain": {
+          "title": "Off-Chain Settlement",
+          "description": "Most RWA transactions settled off-chain with only critical events recorded on mainnet"
+        },
+        "compliance": {
+          "title": "Regulatory Compliance",
+          "description": "Robust framework for KYC/AML, securities laws, and data privacy requirements"
+        }
+      },
+      "whyPolygon": {
+        "title": "Why Polygon CDK?",
+        "security": {
+          "title": "Security",
+          "description": "High-performance, high-security L2s with latest zero-knowledge technology"
+        },
+        "scalability": {
+          "title": "Scalability",
+          "description": "Transaction fees orders of magnitude lower than Ethereum with faster processing"
+        },
+        "modularity": {
+          "title": "Modularity",
+          "description": "Customizable L2 environment to meet specific needs"
+        },
+        "interoperability": {
+          "title": "Interoperability",
+          "description": "Cross-chain transactions through AggLayer integration"
+        },
+        "sovereignty": {
+          "title": "Sovereignty",
+          "description": "Full control over revenue, governance, security, and economic policies"
+        },
+        "costEffectiveness": {
+          "title": "Cost-Effectiveness",
+          "description": "Low transaction fees and gas optimization features"
+        }
+      }
+    },
+    "useCases": {
+      "title": "Use Cases",
+      "subtitle": "Comprehensive applications of the Laxce platform across various financial sectors",
+      "rwa": {
+        "title": "Real-World Assets (RWA)",
+        "description": "Tokenization of real estate, commodities, art, and intellectual property"
+      },
+      "micropayments": {
+        "title": "Micropayments",
+        "description": "Low transaction fees and high throughput for small-value transactions"
+      },
+      "trading": {
+        "title": "Crypto Trading",
+        "description": "Scalable and secure platform for trading digital assets with fast execution"
+      },
+      "supplyChain": {
+        "title": "Supply Chain Financing",
+        "description": "Streamlining financing processes through invoice and trade document tokenization"
+      }
+    },
+    "tokenEconomics": {
+      "title": "Token Economics",
+      "subtitle": "A native token, LAX, will be introduced to incentivize network participation, facilitate governance, and potentially generate revenue through transaction fees.",
+      "distribution": {
+        "title": "Token Distribution",
+        "public": "Public",
+        "private": "Private",
+        "reserve": "Reserve",
+        "rewards": "Rewards",
+        "teamAdvisors": "Team & Advisors",
+        "totalSupply": "Total Supply",
+        "totalSupplyValue": "500,000,000 LAX"
+      },
+      "utility": {
+        "title": "Token Utility",
+        "networkIncentives": "Network participation incentives",
+        "governance": "Governance voting rights",
+        "transactionFees": "Transaction fee generation",
+        "staking": "Staking and rewards"
+      },
+      "vesting": {
+        "title": "Vesting Schedule",
+        "description": "Token distribution follows a structured vesting schedule to ensure long-term alignment with project goals and prevent market manipulation."
+      }
+    },
+    "roadmapSection": {
+      "title": "Roadmap",
+      "subtitle": "Development timeline and key milestones for the Laxce ecosystem",
+      "phases": {
+        "q3_2025": {
+          "quarter": "Q3 2025",
+          "title": "Mainnet Launch",
+          "description": "Launch the Laxce mainnet on Polygon CDK's Validium, providing a scalable and secure platform for real-world asset tokenization.",
+          "items": [
+            "Mainnet deployment on Polygon CDK Validium",
+            "Core infrastructure implementation",
+            "Security audits and testing completion"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "Q4 2025",
+          "title": "Ecosystem Development",
+          "description": "Foster a vibrant ecosystem by partnering with various organizations and projects within the blockchain and financial sectors.",
+          "items": [
+            "Strategic partnerships with financial institutions",
+            "Developer tools and APIs release",
+            "Community building and engagement"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "Q1 2026",
+          "title": "Enterprise Solutions",
+          "description": "Develop enterprise-grade solutions for large-scale tokenization projects and financial applications.",
+          "items": [
+            "Enterprise-grade tokenization platform",
+            "Advanced compliance tools",
+            "Institutional onboarding"
+          ]
+        },
+        "q2_2026": {
+          "quarter": "Q2 2026",
+          "title": "Cross-Chain Integration",
+          "description": "Explore opportunities for cross-chain interoperability with other blockchains to expand the network's reach and capabilities.",
+          "items": [
+            "Cross-chain bridge implementation",
+            "Multi-chain asset support",
+            "Enhanced interoperability protocols"
+          ]
+        }
+      },
+      "note": "Note: This roadmap is subject to change based on market conditions, technological advancements, and community feedback."
+    },
+    "cta": {
+      "title": "Get the Complete Whitepaper",
+      "description": "Download the full technical documentation with detailed specifications, architecture diagrams, economic models, and real-world asset tokenization framework.",
+      "downloadPDF": "Download PDF",
+      "viewOnline": "View Online"
+    }
+  },
+  "security": {
+    "hero": {
+      "badge": "Security First",
+      "title": "Advanced Security Features",
+      "subtitle": "Comprehensive security measures designed to protect your assets and privacy"
+    },
+    "stats": {
+      "audits": {
+        "value": "12+",
+        "label": "Security Audits"
+      },
+      "uptime": {
+        "value": "99.9%",
+        "label": "Uptime"
+      },
+      "bounties": {
+        "value": "$100K+",
+        "label": "Bug Bounties"
+      },
+      "researchers": {
+        "value": "50+",
+        "label": "Security Researchers"
+      }
+    },
+    "features": {
+      "title": "Advanced Security Features",
+      "subtitle": "Comprehensive security measures designed to protect your assets and privacy",
+      "biometric": {
+        "title": "Biometric Authentication",
+        "description": "Advanced fingerprint and face recognition for secure, instant access to your wallet",
+        "features": [
+          "Multi-factor biometric verification",
+          "Liveness detection to prevent spoofing",
+          "Secure local biometric storage",
+          "Fallback to PIN/password authentication"
+        ]
+      },
+      "privacy": {
+        "title": "Privacy-First Design",
+        "description": "Your data stays on your device. We never have access to your private keys or personal information",
+        "features": [
+          "Zero-knowledge architecture",
+          "Client-side encryption",
+          "No data collection or tracking",
+          "Anonymous transaction support"
+        ]
+      },
+      "encryption": {
+        "title": "Military-Grade Encryption",
+        "description": "AES-256 encryption with secure key derivation for maximum data protection",
+        "features": [
+          "AES-256-GCM encryption",
+          "PBKDF2 key derivation",
+          "Hardware security module (HSM) support",
+          "Encrypted local storage"
+        ]
+      },
+      "multiSig": {
+        "title": "Multi-Signature Wallets",
+        "description": "Advanced multi-signature support for enhanced security and shared control",
+        "features": [
+          "2-of-3 multi-signature setup",
+          "Hardware wallet integration",
+          "Time-locked transactions",
+          "Recovery mechanisms"
+        ]
+      },
+      "infrastructure": {
+        "title": "Secure Infrastructure",
+        "description": "Enterprise-grade infrastructure with 99.9% uptime and DDoS protection",
+        "features": [
+          "AWS/GCP infrastructure",
+          "DDoS protection",
+          "24/7 monitoring",
+          "Automated backups"
+        ]
+      },
+      "audits": {
+        "title": "Smart Contract Audits",
+        "description": "Regular security audits by leading blockchain security firms",
+        "features": [
+          "Quarterly security audits",
+          "Bug bounty programs",
+          "Open source code review",
+          "Third-party penetration testing"
+        ]
+      }
+    },
+    "protocols": {
+      "title": "Security Protocols",
+      "subtitle": "Industry-leading security protocols that ensure the highest level of protection",
+      "keyGeneration": {
+        "title": "Secure Key Generation",
+        "description": "Cryptographically secure random number generation for private key creation",
+        "features": [
+          "BIP-39 mnemonic phrases",
+          "Hardware entropy sources",
+          "Deterministic key derivation"
+        ]
+      },
+      "transactionSigning": {
+        "title": "Transaction Signing",
+        "description": "Secure transaction signing with hardware wallet support",
+        "features": [
+          "Offline signing capability",
+          "Hardware wallet integration",
+          "Transaction preview"
+        ]
+      },
+      "networkSecurity": {
+        "title": "Network Security",
+        "description": "Protected communication with blockchain networks",
+        "features": [
+          "TLS 1.3 encryption",
+          "Node verification",
+          "Man-in-the-middle protection"
+        ]
+      },
+      "dataProtection": {
+        "title": "Data Protection",
+        "description": "Comprehensive data protection and privacy measures",
+        "features": [
+          "End-to-end encryption",
+          "Zero-knowledge proofs",
+          "Data minimization"
+        ]
+      }
+    },
+    "compliance": {
+      "title": "Compliance & Certifications",
+      "subtitle": "We maintain the highest standards of compliance and security certifications",
+      "soc2": {
+        "title": "SOC 2 Type II",
+        "description": "Service Organization Control 2 compliance for security, availability, and confidentiality",
+        "status": "Certified"
+      },
+      "iso27001": {
+        "title": "ISO 27001",
+        "description": "International standard for information security management systems",
+        "status": "Certified"
+      },
+      "gdpr": {
+        "title": "GDPR Compliance",
+        "description": "General Data Protection Regulation compliance for EU users",
+        "status": "Compliant"
+      },
+      "ccpa": {
+        "title": "CCPA Compliance",
+        "description": "California Consumer Privacy Act compliance for California residents",
+        "status": "Compliant"
+      }
+    },
+    "incidentResponse": {
+      "title": "Incident Response",
+      "subtitle": "Rapid response protocols to handle any security incidents effectively",
+      "detection": {
+        "title": "Detection",
+        "description": "24/7 monitoring and automated threat detection systems",
+        "time": "Real-time"
+      },
+      "response": {
+        "title": "Response",
+        "description": "Immediate response team activation and incident containment",
+        "time": "< 15 minutes"
+      },
+      "investigation": {
+        "title": "Investigation",
+        "description": "Comprehensive forensic analysis and root cause determination",
+        "time": "< 4 hours"
+      },
+      "resolution": {
+        "title": "Resolution",
+        "description": "Issue resolution and preventive measures implementation",
+        "time": "< 24 hours"
+      }
+    },
+    "cta": {
+      "title": "Ready to Experience Secure DeFi?",
+      "subtitle": "Download Laxce today and experience enterprise-grade security with the simplicity of DeFi.",
+      "downloadMobile": "Download for Mobile",
+      "useWebApp": "Use Web App",
+      "learnMore": "Learn More",
+      "securityRating": "4.9/5 Security Rating",
+      "zeroIncidents": "Zero Security Incidents",
+      "uptime": "100% Uptime"
+    }
+  },
+  "privacyPolicy": {
+    "hero": {
+      "badge": "Privacy Policy",
+      "title": "Your Privacy Matters",
+      "subtitle": "We are committed to protecting your privacy and ensuring the security of your personal information. This policy explains how we collect, use, and safeguard your data in compliance with international privacy laws.",
+      "lastUpdated": "Last Updated: December 15, 2024",
+      "effective": "Effective: January 1, 2025"
+    },
+    "badges": {
+      "gdpr": "GDPR Compliant",
+      "ccpa": "CCPA Compliant",
+      "iso": "ISO 27001"
+    },
+    "quickNavigation": {
+      "title": "Quick Navigation",
+      "dataCollection": "Data Collection",
+      "dataUsage": "Data Usage",
+      "dataSharing": "Data Sharing",
+      "yourRights": "Your Rights",
+      "cookies": "Cookies",
+      "dataRetention": "Data Retention"
+    },
+    "dataCollection": {
+      "title": "Data We Collect",
+      "subtitle": "We collect only the information necessary to provide our services and ensure security.",
+      "personalInfo": {
+        "title": "Personal Information",
+        "item1": "Email address (for account creation and communication)",
+        "item2": "Username or display name",
+        "item3": "Profile information (optional)",
+        "item4": "Contact information for support",
+        "item5": "KYC/AML information (if required by law)"
+      },
+      "technicalInfo": {
+        "title": "Technical Information",
+        "item1": "Device information (IP address, browser type, operating system)",
+        "item2": "Usage data (pages visited, features used, time spent)",
+        "item3": "Transaction data (public blockchain information)",
+        "item4": "Log files and analytics data",
+        "item5": "Device identifiers and cookies"
+      },
+      "walletInfo": {
+        "title": "Wallet Information",
+        "item1": "Public wallet addresses (stored locally on your device)",
+        "item2": "Transaction history (from blockchain)",
+        "item3": "Token balances and holdings",
+        "item4": "Network preferences and settings",
+        "item5": "Private keys (never stored on our servers)"
+      },
+      "financialInfo": {
+        "title": "Financial Information",
+        "item1": "Transaction amounts and types",
+        "item2": "Trading history and patterns",
+        "item3": "Gas fees and network costs",
+        "item4": "Staking and yield farming data",
+        "item5": "DeFi protocol interactions"
+      },
+      "advertisingData": {
+        "title": "Advertising & Marketing Data",
+        "item1": "Advertising preferences and opt-in/opt-out choices",
+        "item2": "Marketing campaign interactions",
+        "item3": "Ad click-through rates and engagement",
+        "item4": "Cross-platform advertising identifiers",
+        "item5": "Marketing communication preferences"
+      },
+      "aiData": {
+        "title": "AI & Analytics Data",
+        "item1": "Transaction pattern analysis (with consent)",
+        "item2": "Usage behavior for AI training (anonymized)",
+        "item3": "Feature interaction data for optimization",
+        "item4": "AI model performance feedback",
+        "item5": "Personalized recommendation interactions"
+      }
+    },
+    "dataUsage": {
+      "title": "How We Use Your Data",
+      "subtitle": "We use your information responsibly and only for legitimate business purposes.",
+      "purposes": {
+        "serviceProvision": {
+          "title": "Service Provision",
+          "description": "To provide and maintain our DeFi services, process transactions, and ensure platform functionality."
+        },
+        "security": {
+          "title": "Security & Fraud Prevention",
+          "description": "To protect against fraud, unauthorized access, and ensure the security of our platform and users."
+        },
+        "communication": {
+          "title": "Communication",
+          "description": "To send important updates, security alerts, and respond to your support requests."
+        },
+        "improvement": {
+          "title": "Improvement",
+          "description": "To analyze usage patterns and improve our services, features, and user experience."
+        },
+        "compliance": {
+          "title": "Compliance",
+          "description": "To comply with legal obligations, regulatory requirements, and enforce our terms of service."
+        },
+        "legalBasis": {
+          "title": "Legal Basis",
+          "description": "Contract performance, legitimate interests, legal obligations, and consent where applicable."
+        }
+      }
+    },
+    "dataSharing": {
+      "title": "Data Sharing & Disclosure",
+      "subtitle": "We do not sell your personal data. We only share information in limited circumstances.",
+      "entities": {
+        "serviceProviders": {
+          "title": "Service Providers",
+          "description": "Trusted third-party services for hosting, analytics, and support (with strict data protection agreements)."
+        },
+        "legalRequirements": {
+          "title": "Legal Requirements",
+          "description": "When required by law, court order, or government request (with proper legal process)."
+        },
+        "security": {
+          "title": "Security & Protection",
+          "description": "To protect our rights, property, or safety, or that of our users and the public."
+        },
+        "businessTransfers": {
+          "title": "Business Transfers",
+          "description": "In case of merger, acquisition, or sale of assets (with user notification and consent where required)."
+        },
+        "regulatory": {
+          "title": "Regulatory Authorities",
+          "description": "Financial regulators and law enforcement agencies as required by applicable laws."
+        },
+        "blockchain": {
+          "title": "Blockchain Networks",
+          "description": "Public blockchain data is inherently transparent and accessible to all network participants."
+        }
+      }
+    },
+    "userRights": {
+      "title": "Your Privacy Rights",
+      "subtitle": "You have control over your personal data. Here are your rights and how to exercise them.",
+      "rights": {
+        "access": {
+          "title": "Access",
+          "description": "Request access to your personal data and information about how we process it."
+        },
+        "correction": {
+          "title": "Correction",
+          "description": "Request correction of inaccurate or incomplete personal data."
+        },
+        "deletion": {
+          "title": "Deletion",
+          "description": "Request deletion of your personal data, subject to legal and operational requirements."
+        },
+        "portability": {
+          "title": "Portability",
+          "description": "Request a copy of your data in a structured, machine-readable format."
+        },
+        "objection": {
+          "title": "Objection",
+          "description": "Object to processing of your data for certain purposes."
+        },
+        "withdrawal": {
+          "title": "Withdrawal",
+          "description": "Withdraw consent for data processing where consent is the legal basis."
+        },
+        "restriction": {
+          "title": "Restriction",
+          "description": "Request restriction of processing in certain circumstances."
+        },
+        "complaint": {
+          "title": "Complaint",
+          "description": "Lodge a complaint with your local data protection authority."
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookies & Tracking Technologies",
+      "subtitle": "We use cookies and similar technologies to enhance your experience and analyze usage.",
+      "types": {
+        "essential": {
+          "title": "Essential Cookies",
+          "purpose": "Required for basic website functionality and security",
+          "examples": "Authentication, session management, security features",
+          "storage": "Local storage and session storage"
+        },
+        "analytics": {
+          "title": "Analytics Cookies",
+          "purpose": "Help us understand how users interact with our platform",
+          "examples": "Google Analytics, usage statistics, performance monitoring",
+          "storage": "Browser cookies with configurable expiration"
+        },
+        "functional": {
+          "title": "Functional Cookies",
+          "purpose": "Remember your preferences and settings",
+          "examples": "Language preferences, theme settings, display options",
+          "storage": "Local storage and persistent cookies"
+        },
+        "marketing": {
+          "title": "Marketing Cookies",
+          "purpose": "Used for advertising and marketing purposes",
+          "examples": "Retargeting, social media integration, ad performance",
+          "storage": "Third-party cookies with user consent"
+        },
+        "advertising": {
+          "title": "Advertising Cookies",
+          "purpose": "Deliver personalized advertisements and measure ad performance",
+          "examples": "Google Ads, Facebook Pixel, programmatic advertising",
+          "storage": "Third-party cookies requiring explicit consent"
+        }
+      },
+      "management": {
+        "title": "Cookie Management",
+        "browserSettings": {
+          "title": "Browser Settings",
+          "items": [
+            "Clear cookies through browser settings",
+            "Set browser to block third-party cookies",
+            "Use incognito/private browsing mode",
+            "Install ad-blocking extensions"
+          ]
+        },
+        "ourControls": {
+          "title": "Our Cookie Controls",
+          "items": [
+            "Cookie consent banner on first visit",
+            "Granular cookie preference settings",
+            "Easy opt-out from marketing cookies",
+            "Cookie policy updates notifications"
+          ]
+        }
+      }
+    },
+    "advertising": {
+      "title": "Advertising & Marketing",
+      "subtitle": "We may use your data for advertising purposes, but only with your explicit consent.",
+      "personalized": {
+        "title": "Personalized Advertising",
+        "description": "We may use your transaction patterns and preferences to show relevant advertisements. This includes:",
+        "items": [
+          "DeFi product recommendations based on your trading history",
+          "Educational content about cryptocurrencies you hold",
+          "Promotions for new features that match your usage patterns",
+          "Cross-platform advertising on social media and search engines"
+        ],
+        "consent": "Requires explicit opt-in consent"
+      },
+      "thirdParty": {
+        "title": "Third-Party Advertising",
+        "description": "We work with trusted advertising partners to deliver relevant content:",
+        "items": [
+          "Google Ads and Google Analytics",
+          "Facebook and Instagram advertising",
+          "Twitter/X advertising campaigns",
+          "Programmatic advertising networks"
+        ],
+        "consent": "Requires explicit opt-in consent"
+      },
+      "controls": {
+        "title": "Advertising Controls",
+        "description": "You have full control over advertising preferences:",
+        "items": [
+          "Opt-out of personalized advertising at any time",
+          "Manage cookie preferences in your browser settings",
+          "Use ad-blocking software without affecting core functionality",
+          "Contact us to completely disable advertising tracking"
+        ],
+        "consent": "User-controlled settings"
+      }
+    },
+    "ai": {
+      "title": "Artificial Intelligence & Data Access",
+      "subtitle": "We use AI to enhance your experience, but you control how your data is accessed and used.",
+      "features": {
+        "title": "AI-Powered Features",
+        "description": "We use artificial intelligence to enhance your experience:",
+        "items": [
+          "Fraud detection and risk assessment",
+          "Market analysis and trading insights",
+          "Personalized portfolio recommendations",
+          "Automated customer support responses",
+          "Security threat detection and prevention"
+        ],
+        "consent": "Required for service functionality"
+      },
+      "analysis": {
+        "title": "Transaction Data Analysis",
+        "description": "AI may analyze your transaction data for:",
+        "items": [
+          "Pattern recognition for security purposes",
+          "Market trend analysis and insights",
+          "Personalized investment recommendations",
+          "Risk assessment and compliance monitoring",
+          "Service optimization and feature development"
+        ],
+        "consent": "Requires explicit user consent"
+      },
+      "controls": {
+        "title": "AI Data Controls",
+        "description": "You control how AI accesses your data:",
+        "items": [
+          "Opt-in consent for AI analysis of transaction data",
+          "Granular control over which data types AI can access",
+          "Ability to revoke AI access at any time",
+          "Transparent reporting on AI data usage",
+          "Human review of AI decisions affecting your account"
+        ],
+        "consent": "User-controlled with granular settings"
+      },
+      "anonymization": {
+        "title": "Data Anonymization",
+        "description": "When AI processes your data, we ensure:",
+        "items": [
+          "Personal identifiers are removed or encrypted",
+          "Data is aggregated when possible",
+          "AI models are trained on anonymized datasets",
+          "Individual user data is not identifiable in AI outputs",
+          "Compliance with data minimization principles"
+        ],
+        "consent": "Automatic privacy protection"
+      },
+      "consentManagement": {
+        "title": "AI Consent Management",
+        "yourControls": {
+          "title": "Your AI Controls",
+          "items": [
+            "Enable/disable AI analysis of transaction data",
+            "Control which data types AI can access",
+            "Opt-out of personalized AI recommendations",
+            "Request deletion of AI-processed data"
+          ]
+        },
+        "transparency": {
+          "title": "Transparency Features",
+          "items": [
+            "Clear explanation of AI data usage",
+            "Regular reports on AI data processing",
+            "Human review of AI decisions",
+            "Appeal process for AI-generated outcomes"
+          ]
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Data Retention",
+      "subtitle": "We retain your data only for as long as necessary to fulfill the purposes outlined in this policy.",
+      "periods": {
+        "title": "Retention Periods",
+        "account": {
+          "category": "Account Data",
+          "period": "Until account deletion or 3 years of inactivity",
+          "reason": "Service provision and legal compliance"
+        },
+        "transaction": {
+          "category": "Transaction Data",
+          "period": "7 years (legal requirement)",
+          "reason": "Financial regulations and tax compliance"
+        },
+        "kyc": {
+          "category": "KYC/AML Data",
+          "period": "5 years after account closure",
+          "reason": "Anti-money laundering regulations"
+        },
+        "logs": {
+          "category": "Log Files",
+          "period": "12 months",
+          "reason": "Security monitoring and troubleshooting"
+        },
+        "marketing": {
+          "category": "Marketing Data",
+          "period": "Until consent withdrawal",
+          "reason": "Marketing communications with consent"
+        }
+      }
+    },
+    "internationalTransfers": {
+      "title": "International Data Transfers",
+      "subtitle": "Your data may be transferred internationally. We ensure adequate protection measures are in place.",
+      "regions": {
+        "eu": {
+          "title": "European Union",
+          "safeguards": "Adequacy decisions, Standard Contractual Clauses (SCCs), Binding Corporate Rules"
+        },
+        "us": {
+          "title": "United States",
+          "safeguards": "Privacy Shield (where applicable), SCCs, Data Processing Agreements"
+        },
+        "asiaPacific": {
+          "title": "Asia-Pacific",
+          "safeguards": "SCCs, Local data protection laws compliance, Encryption in transit"
+        },
+        "other": {
+          "title": "Other Regions",
+          "safeguards": "SCCs, Adequate safeguards, Local law compliance assessment"
+        }
+      }
+    },
+    "childrenPrivacy": {
+      "title": "Children's Privacy",
+      "subtitle": "We are committed to protecting the privacy of children and young users.",
+      "ageRequirement": {
+        "title": "Age Requirement",
+        "description": "Our services are intended for users 18 years or older."
+      },
+      "policy": {
+        "title": "Our Policy",
+        "description": "We do not knowingly collect personal information from children under 18. If we become aware that we have collected such information, we will take steps to delete it promptly."
+      },
+      "parentalRights": {
+        "title": "Parental Rights",
+        "description": "Parents or guardians who believe we have collected their child's information should contact us immediately."
+      }
+    },
+    "dataBreach": {
+      "title": "Data Breach Notification",
+      "subtitle": "In the unlikely event of a data breach, we have procedures in place to protect your information.",
+      "timeframe": {
+        "title": "Notification Timeframe",
+        "description": "72 hours for EU residents, as required by GDPR"
+      },
+      "process": {
+        "title": "Notification Process",
+        "description": "We will notify affected users and relevant authorities within the required timeframe"
+      },
+      "measures": {
+        "title": "Response Measures",
+        "description": "Immediate security assessment, containment, and remediation procedures"
+      }
+    },
+    "security": {
+      "title": "Security Measures",
+      "subtitle": "We implement industry-standard security measures to protect your data.",
+      "practices": {
+        "title": "Our Security Practices",
+        "items": [
+          "End-to-end encryption for sensitive data transmission",
+          "Multi-factor authentication for account access",
+          "Regular security audits and penetration testing",
+          "Secure data centers with physical and digital security",
+          "Employee training on data protection and privacy",
+          "Incident response procedures and breach notification protocols",
+          "Regular software updates and security patches",
+          "Access controls and least privilege principles",
+          "Data backup and disaster recovery procedures",
+          "Vendor security assessments and monitoring"
+        ]
+      }
+    },
+    "contact": {
+      "title": "Questions About Privacy?",
+      "subtitle": "If you have any questions about this Privacy Policy or our data practices, please don't hesitate to contact us.",
+      "contactPrivacyTeam": "Contact Privacy Team",
+      "backToHome": "Back to Home"
+    }
+  },
+  "termsOfService": {
+    "hero": {
+      "title": "Terms of Service",
+      "lastUpdated": "Last Updated",
+      "effectiveDate": "Effective Date"
+    },
+    "services": {
+      "wallet": {
+        "title": "Laxce Wallet",
+        "description": "Secure cryptocurrency wallet with multi-chain support"
+      },
+      "dex": {
+        "title": "Laxce DEX",
+        "description": "Decentralized exchange for token trading"
+      },
+      "bridge": {
+        "title": "Laxce Bridge",
+        "description": "Cross-chain asset transfer service"
+      }
+    },
+    "cta": {
+      "questions": "Questions About Terms?",
+      "contactLegal": "Contact Legal Team",
+      "viewPrivacyPolicy": "View Privacy Policy",
+      "backToHome": "Back to Home"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "badge": "Development Roadmap",
+      "title": "Our Journey",
+      "subtitle": "Building the future of decentralized finance and real-world asset tokenization. From foundation to global expansion, every milestone brings us closer to revolutionizing digital finance."
+    },
+    "filters": {
+      "all": "All",
+      "completed": "Completed",
+      "current": "Current",
+      "upcoming": "Upcoming"
+    },
+    "phases": {
+      "q4_2024": {
+        "quarter": "Q4 2024",
+        "status": "completed",
+        "title": "Foundation & Token Launch",
+        "description": "Core infrastructure and native token launch",
+        "achievements": [
+          "LAXCE native token (LAX) launch",
+          "Public testnet launch",
+          "Decentralized governance framework",
+          "Laxcedex DEX launch on Ethereum",
+          "Network participation incentives"
+        ]
+      },
+      "q1_2025": {
+        "quarter": "Q1 2025",
+        "status": "completed",
+        "title": "Mainnet & Developer Tools",
+        "description": "Mainnet launch and comprehensive developer ecosystem",
+        "achievements": [
+          "Mainnet launch on Polygon CDK Validium",
+          "Developer tools and APIs release",
+          "Ecosystem partnership development",
+          "Real-world asset tokenization platform",
+          "Scalable and secure infrastructure"
+        ]
+      },
+      "q2_2025": {
+        "quarter": "Q2 2025",
+        "status": "completed",
+        "title": "Cross-Chain & Enterprise",
+        "description": "Interoperability and enterprise solutions",
+        "achievements": [
+          "Cross-chain interoperability implementation",
+          "Enterprise-grade solutions development",
+          "Community growth and engagement",
+          "Micropayments and payment integration",
+          "Merchant gateway partnerships"
+        ]
+      },
+      "q3_2025": {
+        "quarter": "Q3 2025",
+        "status": "current",
+        "title": "Real-World Asset Tokenization",
+        "description": "Pilot projects for real-world asset tokenization",
+        "achievements": [
+          "Real estate tokenization pilots",
+          "Commodities tokenization projects",
+          "Art and collectibles tokenization",
+          "Supply chain financing solutions",
+          "Trade finance process optimization"
+        ]
+      },
+      "q4_2025": {
+        "quarter": "Q4 2025",
+        "status": "upcoming",
+        "title": "Advanced DeFi Ecosystem",
+        "description": "Comprehensive DeFi protocol integration and expansion",
+        "achievements": [
+          "Advanced lending protocols",
+          "Yield farming optimization",
+          "NFT marketplace expansion",
+          "Insurance product integration",
+          "Derivatives trading platform"
+        ]
+      },
+      "q1_2026": {
+        "quarter": "Q1 2026",
+        "status": "upcoming",
+        "title": "Global Expansion",
+        "description": "International market expansion and regulatory compliance",
+        "achievements": [
+          "Global regulatory compliance",
+          "International market entry",
+          "Multi-language platform support",
+          "Regional partnership expansion",
+          "Compliance and security audits"
+        ]
+      },
+      "q2_2026": {
+        "quarter": "Q2 2026",
+        "status": "upcoming",
+        "title": "AI & Advanced Analytics",
+        "description": "AI-powered features and advanced analytics platform",
+        "achievements": [
+          "AI-powered trading algorithms",
+          "Advanced portfolio analytics",
+          "Predictive market insights",
+          "Automated risk management",
+          "Machine learning integration"
+        ]
+      },
+      "q3_2026": {
+        "quarter": "Q3 2026",
+        "status": "upcoming",
+        "title": "Institutional Adoption",
+        "description": "Institutional-grade solutions and enterprise adoption",
+        "achievements": [
+          "Institutional trading desks",
+          "Enterprise custody solutions",
+          "Regulatory reporting tools",
+          "Institutional partnerships",
+          "Compliance automation"
+        ]
+      }
+    },
+    "keyAchievements": "Key Achievements",
+    "stats": {
+      "phasesCompleted": {
+        "value": "3/8",
+        "label": "Phases Completed"
+      },
+      "currentPhase": {
+        "value": "1",
+        "label": "Current Phase"
+      },
+      "timeline": {
+        "value": "24",
+        "label": "Months Timeline"
+      },
+      "totalPhases": {
+        "value": "8",
+        "label": "Total Phases"
+      }
+    },
+    "cta": {
+      "title": "Stay Updated",
+      "subtitle": "Sign up for Laxce updates and news. Get notified about major milestones and be the first to access new features.",
+      "joinCommunity": "Join Our Community"
+    }
+  },
+  "termsOfService": {
+    "hero": {
+      "badge": "Terms of Service",
+      "title": "Terms of Service",
+      "subtitle": "These terms govern your use of Laxce services. By using our platform, you agree to these terms and acknowledge that you have read and understood them.",
+      "lastUpdated": "Last Updated: December 15, 2024",
+      "effective": "Effective: January 1, 2025"
+    },
+    "legalNotice": {
+      "title": "Important Legal Notice",
+      "description": "These terms constitute a legally binding agreement. Please read them carefully. If you do not agree to these terms, do not use our services."
+    },
+    "quickNavigation": {
+      "title": "Quick Navigation",
+      "services": "Services",
+      "userObligations": "User Obligations",
+      "prohibitedActivities": "Prohibited Activities",
+      "liability": "Liability",
+      "intellectualProperty": "Intellectual Property",
+      "disputeResolution": "Dispute Resolution"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Laxce provides a comprehensive suite of DeFi services designed to empower users in the cryptocurrency ecosystem.",
+      "wallet": {
+        "title": "Laxce Wallet",
+        "description": "Secure cryptocurrency wallet with multi-chain support",
+        "features": [
+          "Multi-chain wallet management",
+          "Secure private key storage",
+          "Transaction signing and broadcasting",
+          "Portfolio tracking and analytics"
+        ]
+      },
+      "dex": {
+        "title": "Laxce DEX",
+        "description": "Decentralized exchange for token trading",
+        "features": [
+          "Automated market making (AMM)",
+          "Liquidity provision and yield farming",
+          "Cross-chain token swaps",
+          "Real-time price feeds and charts"
+        ]
+      },
+      "bridge": {
+        "title": "Laxce Bridge",
+        "description": "Cross-chain asset transfer service",
+        "features": [
+          "Asset bridging between blockchains",
+          "Liquidity pool management",
+          "Bridge security and validation",
+          "Transaction monitoring and support"
+        ]
+      }
+    },
+    "userObligations": {
+      "title": "User Obligations",
+      "subtitle": "As a user of our services, you have certain responsibilities and obligations.",
+      "accountSecurity": {
+        "title": "Account Security",
+        "items": [
+          "Maintain secure access to your wallet and private keys",
+          "Use strong passwords and enable two-factor authentication",
+          "Never share private keys or seed phrases with anyone",
+          "Report suspicious activity immediately",
+          "Keep your device and software updated"
+        ]
+      },
+      "legalCompliance": {
+        "title": "Legal Compliance",
+        "items": [
+          "Comply with all applicable laws and regulations",
+          "Provide accurate and complete information for KYC/AML",
+          "Not use services for illegal activities or money laundering",
+          "Respect intellectual property rights",
+          "Not engage in market manipulation or fraud"
+        ]
+      },
+      "serviceUsage": {
+        "title": "Service Usage",
+        "items": [
+          "Use services only for lawful purposes",
+          "Not attempt to hack or compromise our systems",
+          "Not interfere with other users' access to services",
+          "Report bugs and security vulnerabilities responsibly",
+          "Follow our fair use policies and rate limits"
+        ]
+      },
+      "financialResponsibility": {
+        "title": "Financial Responsibility",
+        "items": [
+          "Understand the risks of cryptocurrency trading",
+          "Conduct your own research before making investments",
+          "Not invest more than you can afford to lose",
+          "Be aware of tax obligations in your jurisdiction",
+          "Maintain accurate records of transactions"
+        ]
+      }
+    },
+    "prohibitedActivities": {
+      "title": "Prohibited Activities",
+      "subtitle": "The following activities are strictly prohibited and may result in account termination.",
+      "activities": [
+        "Money laundering or terrorist financing",
+        "Market manipulation or pump-and-dump schemes",
+        "Unauthorized access to accounts or systems",
+        "Distribution of malware or phishing attempts",
+        "Harassment or abuse of other users",
+        "Violation of intellectual property rights",
+        "Attempting to reverse engineer our services",
+        "Using services for illegal gambling or activities",
+        "Circumventing security measures or access controls",
+        "Providing false or misleading information"
+      ]
+    },
+    "intellectualProperty": {
+      "title": "Intellectual Property",
+      "subtitle": "Understanding our intellectual property rights and your usage rights.",
+      "ourRights": {
+        "title": "Our Rights",
+        "items": [
+          "All software, code, and technology used in our services",
+          "Trademarks, logos, and brand elements",
+          "User interface designs and layouts",
+          "Documentation, guides, and educational content",
+          "Analytics, insights, and aggregated data"
+        ]
+      },
+      "yourRights": {
+        "title": "Your Rights",
+        "items": [
+          "Ownership of your cryptocurrency assets",
+          "Right to use our services as intended",
+          "Ability to export your transaction data",
+          "Freedom to use public APIs and integrations",
+          "Right to provide feedback and suggestions"
+        ]
+      },
+      "usageLicense": {
+        "title": "Usage License",
+        "items": [
+          "Non-exclusive, revocable license to use our services",
+          "License terminates upon account closure or violation",
+          "No right to sublicense or transfer the license",
+          "Must comply with all terms and conditions",
+          "We retain right to modify or discontinue services"
+        ]
+      }
+    },
+    "liability": {
+      "title": "Liability Limitations",
+      "subtitle": "Important limitations on our liability and your understanding of risks.",
+      "serviceAvailability": {
+        "title": "Service Availability",
+        "description": "We strive for high availability but cannot guarantee uninterrupted service",
+        "items": [
+          "Scheduled maintenance and updates",
+          "Third-party service dependencies",
+          "Network congestion and blockchain issues",
+          "Force majeure events and emergencies"
+        ]
+      },
+      "financialLosses": {
+        "title": "Financial Losses",
+        "description": "Cryptocurrency trading involves significant risks",
+        "items": [
+          "Market volatility and price fluctuations",
+          "Smart contract vulnerabilities and bugs",
+          "Regulatory changes affecting crypto markets",
+          "Technical issues causing transaction failures"
+        ]
+      },
+      "securityIncidents": {
+        "title": "Security Incidents",
+        "description": "While we implement robust security measures",
+        "items": [
+          "User negligence in key management",
+          "Third-party security breaches",
+          "Advanced persistent threats",
+          "Zero-day vulnerabilities"
+        ]
+      }
+    },
+    "regulatoryCompliance": {
+      "title": "Regulatory Compliance",
+      "subtitle": "We are committed to compliance with applicable laws and regulations.",
+      "kycAml": {
+        "title": "KYC/AML Requirements",
+        "description": "Know Your Customer and Anti-Money Laundering compliance",
+        "items": [
+          "Identity verification for certain transactions",
+          "Source of funds documentation",
+          "Suspicious activity reporting",
+          "Transaction monitoring and screening"
+        ]
+      },
+      "financialRegulations": {
+        "title": "Financial Regulations",
+        "description": "Compliance with applicable financial services laws",
+        "items": [
+          "Licensing and registration requirements",
+          "Capital adequacy and reserve requirements",
+          "Consumer protection standards",
+          "Regulatory reporting and audits"
+        ]
+      },
+      "dataProtection": {
+        "title": "Data Protection",
+        "description": "Compliance with privacy and data protection laws",
+        "items": [
+          "GDPR compliance for EU users",
+          "CCPA compliance for California residents",
+          "Data minimization and purpose limitation",
+          "User rights and consent management"
+        ]
+      },
+      "taxCompliance": {
+        "title": "Tax Compliance",
+        "description": "Tax reporting and compliance requirements",
+        "items": [
+          "Transaction reporting for tax purposes",
+          "Capital gains and losses documentation",
+          "International tax compliance",
+          "Cooperation with tax authorities"
+        ]
+      }
+    },
+    "disputeResolution": {
+      "title": "Dispute Resolution",
+      "subtitle": "How we handle disputes and resolve conflicts with users.",
+      "steps": {
+        "informal": {
+          "number": "1",
+          "title": "Informal Resolution",
+          "description": "Contact our support team to resolve issues informally",
+          "timeframe": "Timeframe: 30 days",
+          "contact": "Contact: support@laxce.com"
+        },
+        "mediation": {
+          "number": "2",
+          "title": "Mediation",
+          "description": "If informal resolution fails, we may offer mediation services",
+          "timeframe": "Timeframe: 60 days",
+          "contact": "Contact: legal@laxce.com"
+        },
+        "arbitration": {
+          "number": "3",
+          "title": "Arbitration",
+          "description": "Binding arbitration under applicable rules",
+          "timeframe": "Timeframe: 90 days",
+          "contact": "Contact: legal@laxce.com"
+        },
+        "legal": {
+          "number": "4",
+          "title": "Legal Action",
+          "description": "As a last resort, legal action may be pursued",
+          "timeframe": "Timeframe: As required by law",
+          "contact": "Contact: legal@laxce.com"
+        }
+      }
+    },
+    "accountTermination": {
+      "title": "Account Termination",
+      "subtitle": "Conditions under which accounts may be terminated or suspended.",
+      "userTermination": {
+        "title": "User Termination",
+        "items": [
+          "Account closure request by user",
+          "30-day notice period for active accounts",
+          "Settlement of outstanding transactions",
+          "Data export and deletion options"
+        ]
+      },
+      "serviceTermination": {
+        "title": "Service Termination",
+        "items": [
+          "Violation of terms of service",
+          "Fraudulent or illegal activities",
+          "Extended period of inactivity",
+          "Regulatory or legal requirements"
+        ]
+      },
+      "immediateSuspension": {
+        "title": "Immediate Suspension",
+        "items": [
+          "Suspicious or fraudulent transactions",
+          "Security threats or breaches",
+          "Regulatory investigations",
+          "Court orders or legal requirements"
+        ]
+      }
+    },
+    "contact": {
+      "title": "Questions About Terms?",
+      "subtitle": "If you have any questions about these Terms of Service or need clarification, please don't hesitate to contact our legal team.",
+      "contactLegal": "Contact Legal Team",
+      "viewPrivacyPolicy": "View Privacy Policy",
+      "backToHome": "Back to Home"
+    }
+  },
+  "app": {
+    "dropdown": {
+      "getApp": "Get App",
+      "chooseDownload": "Choose your download method",
+      "apkDownload": "APK Download",
+      "apkDescription": "Direct APK file download",
+      "googlePlay": "Google Play",
+      "googlePlayDescription": "Download from Google Play Store",
+      "appStore": "App Store",
+      "appStoreDescription": "Download from Apple App Store"
+    }
+  }
+} 

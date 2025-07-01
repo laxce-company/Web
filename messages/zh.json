@@ -1,0 +1,2181 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们",
+    "wallet": "钱包",
+    "dex": "去中心化交易所",
+    "roadmap": "路线图",
+    "whitepaper": "白皮书",
+    "tokenomics": "代币经济学",
+    "ecosystem": "生态系统"
+  },
+  "home": {
+    "hero": {
+      "badge": "一体化DeFi",
+      "title": "DeFi的未来就在这里",
+      "subtitle": "具有内置DEX、跨链桥接和零交易费的安全多链钱包。通往去中心化未来的门户。",
+      "mainTitle": "钱包与DEX",
+      "description": "具有内置去中心化交易所、跨链桥接和零交易费的安全多链钱包。通往去中心化未来的门户。",
+      "cta": "开始使用",
+      "learnMore": "了解更多"
+    },
+    "features": {
+      "title": "为什么选择Laxce？",
+      "subtitle": "发现使Laxce成为终极DeFi平台的功能",
+      "badge": "功能特性",
+      "heading": "DeFi成功所需的一切",
+      "description": "满足您所有DeFi需求的一款应用。安全钱包、即时交易和跨链桥接。",
+      "secure": {
+        "badge": "100%安全",
+        "title": "安全钱包",
+        "description": "具有高级安全功能和自托管的多链钱包"
+      },
+      "fees": {
+        "badge": "0%费用",
+        "title": "内置DEX",
+        "description": "直接从您的钱包进行零费用和即时交换的交易"
+      },
+      "chains": {
+        "badge": "10+条链",
+        "title": "跨链桥接",
+        "description": "在多个区块链网络之间无缝移动资产"
+      },
+      "speed": {
+        "badge": "平均0.1秒",
+        "title": "闪电般快速",
+        "description": "使用我们优化的引擎在毫秒内执行交易"
+      },
+      "wallet": {
+        "title": "安全钱包",
+        "description": "具有高级安全功能和易于使用界面的多链钱包"
+      },
+      "dex": {
+        "title": "DEX交易",
+        "description": "闪电般快速交易和最低费用的去中心化交易所"
+      },
+      "bridge": {
+        "title": "跨链桥接",
+        "description": "在不同区块链网络之间无缝转移资产"
+      },
+      "staking": {
+        "title": "质押奖励",
+        "description": "通过质押您的代币获得具有竞争力的年化收益率的被动收入"
+      }
+    },
+    "howItWorks": {
+      "badge": "入门指南",
+      "title": "4个简单步骤快速开始",
+      "step1": {
+        "number": "01",
+        "title": "下载和安装",
+        "description": "从应用商店获取Laxce或直接下载APK"
+      },
+      "step2": {
+        "number": "02",
+        "title": "创建钱包",
+        "description": "生成您的安全钱包并设置备份短语保护"
+      },
+      "step3": {
+        "number": "03",
+        "title": "开始交易",
+        "description": "连接到DEX并立即开始零费用交易"
+      },
+      "step4": {
+        "number": "04",
+        "title": "桥接资产",
+        "description": "使用跨链桥接在网络之间移动资产"
+      }
+    },
+    "journey": {
+      "title": "我们通往未来的旅程",
+      "subtitle": "定义我们DeFi革命之路的里程碑",
+      "phase1": {
+        "title": "基础阶段",
+        "description": "核心平台开发和安全审计",
+        "status": "已完成"
+      },
+      "phase2": {
+        "title": "启动阶段",
+        "description": "具有基本功能的钱包和DEX启动",
+        "status": "进行中"
+      },
+      "phase3": {
+        "title": "扩展阶段",
+        "description": "高级功能和跨链集成",
+        "status": "即将推出"
+      },
+      "phase4": {
+        "title": "生态系统阶段",
+        "description": "具有治理和DAO的完整DeFi生态系统",
+        "status": "即将推出"
+      }
+    },
+    "security": {
+      "badge": "安全第一",
+      "title": "您的安全是我们的首要任务",
+      "subtitle": "我们已实施企业级安全措施，确保您的资产和数据保持完全安全和私密。",
+      "biometric": {
+        "title": "生物识别安全",
+        "description": "指纹和面部识别，快速安全访问"
+      },
+      "privacy": {
+        "title": "隐私第一",
+        "description": "您的数据保留在您的设备上。我们从不访问您的私钥"
+      },
+      "encryption": {
+        "title": "加密存储",
+        "description": "所有敏感数据都使用军用级算法加密"
+      },
+      "multiSig": {
+        "title": "多重签名支持",
+        "description": "用于增强安全性的高级多重签名钱包"
+      },
+      "features": {
+        "militaryGrade": "军用级安全",
+        "encryption": "加密",
+        "selfCustody": "自托管",
+        "biometricAccess": "生物识别访问",
+        "multiSigSupport": "多重签名支持"
+      }
+    },
+    "supportedChains": {
+      "badge": "多链支持",
+      "title": "支持主要区块链",
+      "subtitle": "通过单个钱包访问跨多个区块链网络的整个DeFi生态系统。",
+      "chains": {
+        "bitcoin": "比特币",
+        "ethereum": "以太坊",
+        "bsc": "币安智能链",
+        "polygon": "Polygon",
+        "solana": "Solana",
+        "xrp": "XRP"
+      }
+    },
+    "tokenomics": {
+      "badge": "LAXCE V1-2024 代币经济学",
+      "title": "$LAX代币经济学",
+      "subtitle": "$LAX代币通过治理权、质押奖励和独家平台权益为我们的生态系统提供动力。基于以太坊构建，具有未来多链兼容性。",
+      "totalSupply": {
+        "value": "5亿",
+        "label": "总供应量"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "代币符号"
+      },
+      "viewFull": "查看完整代币经济学",
+      "distribution": {
+        "title": "代币分配",
+        "publicSale": {
+          "label": "公开销售",
+          "percentage": "40%"
+        },
+        "privateSale": {
+          "label": "私人销售",
+          "percentage": "20%"
+        },
+        "reserveFund": {
+          "label": "储备基金",
+          "percentage": "15%"
+        },
+        "stakingRewards": {
+          "label": "质押奖励",
+          "percentage": "15%"
+        },
+        "teamAdvisors": {
+          "label": "团队和顾问",
+          "percentage": "10%"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "用户评价",
+      "title": "我们的用户怎么说",
+      "reviews": [
+        {
+          "content": "Laxce彻底改变了我的交易体验。速度和安全性无与伦比。",
+          "name": "Alex Chen",
+          "role": "DeFi交易员",
+          "avatar": "AC",
+          "rating": 5
+        },
+        {
+          "content": "终于有了一个将安全放在首位而不影响功能的钱包。",
+          "name": "Sarah Johnson",
+          "role": "加密货币投资者",
+          "avatar": "SJ",
+          "rating": 5
+        },
+        {
+          "content": "跨链桥接功能对我的DeFi操作来说是游戏规则的改变者。",
+          "name": "Mike Rodriguez",
+          "role": "区块链开发者",
+          "avatar": "MR",
+          "rating": 5
+        }
+      ]
+    },
+    "roadmap": {
+      "badge": "开发路线图",
+      "title": "我们通往未来的旅程",
+      "subtitle": "构建去中心化金融和现实世界资产代币化的未来。从基础到全球扩张，每个里程碑都让我们更接近数字金融革命。",
+      "phases": {
+        "q4_2024": {
+          "quarter": "2024年第4季度",
+          "status": "已完成",
+          "title": "基础和代币启动",
+          "description": "核心基础设施和原生代币启动",
+          "items": [
+            "LAXCE原生代币(LAX)启动",
+            "公共测试网启动",
+            "去中心化治理框架",
+            "以太坊上的Laxcedex DEX启动"
+          ]
+        },
+        "q1_2025": {
+          "quarter": "2025年第1季度",
+          "status": "已完成",
+          "title": "主网和开发者工具",
+          "description": "主网启动和全面的开发者生态系统",
+          "items": [
+            "在Polygon CDK Validium上启动主网",
+            "开发者工具和API发布",
+            "生态系统合作伙伴关系发展",
+            "现实世界资产代币化平台"
+          ]
+        },
+        "q2_2025": {
+          "quarter": "2025年第2季度",
+          "status": "已完成",
+          "title": "跨链和企业",
+          "description": "互操作性和企业解决方案",
+          "items": [
+            "跨链互操作性实施",
+            "企业级解决方案开发",
+            "社区增长和参与",
+            "商户网关合作伙伴关系"
+          ]
+        },
+        "q3_2025": {
+          "quarter": "2025年第3季度",
+          "status": "当前",
+          "title": "现实世界资产代币化",
+          "description": "现实世界资产代币化试点项目",
+          "items": [
+            "房地产代币化试点",
+            "商品代币化项目",
+            "艺术品和收藏品代币化",
+            "供应链融资解决方案"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "2025年第4季度",
+          "status": "即将推出",
+          "title": "高级DeFi生态系统",
+          "description": "全面的DeFi协议集成和扩展",
+          "items": [
+            "高级借贷协议",
+            "收益农业优化",
+            "NFT市场扩展",
+            "衍生品交易平台"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "2026年第1季度",
+          "status": "即将推出",
+          "title": "全球扩张",
+          "description": "国际市场扩张和监管合规",
+          "items": [
+            "全球监管合规",
+            "国际市场进入",
+            "多语言平台支持",
+            "区域合作伙伴关系扩展"
+          ]
+        },
+        "q2_2026": {
+          "quarter": "2026年第2季度",
+          "status": "即将推出",
+          "title": "AI和高级分析",
+          "description": "AI驱动的功能和高级分析平台",
+          "items": [
+            "AI驱动的交易算法",
+            "高级投资组合分析",
+            "预测性市场洞察",
+            "自动化风险管理"
+          ]
+        },
+        "q3_2026": {
+          "quarter": "2026年第3季度",
+          "status": "即将推出",
+          "title": "机构采用",
+          "description": "机构级解决方案和企业采用",
+          "items": [
+            "机构交易台",
+            "企业托管解决方案",
+            "监管报告工具",
+            "机构合作伙伴关系"
+          ]
+        }
+      },
+      "stats": {
+        "phasesCompleted": {
+          "value": "3/8",
+          "label": "已完成阶段"
+        },
+        "currentPhase": {
+          "value": "1",
+          "label": "当前阶段"
+        },
+        "timeline": {
+          "value": "24",
+          "label": "月时间线"
+        },
+        "totalPhases": {
+          "value": "8",
+          "label": "总阶段"
+        }
+      },
+      "viewFull": "查看完整路线图"
+    },
+    "cta": {
+      "title": "准备开始您的DeFi之旅了吗？",
+      "subtitle": "加入已经在Laxce上交易、质押和赚取的数千名用户。",
+      "getApp": "获取应用",
+      "readWhitepaper": "阅读白皮书",
+      "availability": "可在iOS、Android和Web上使用 • 免费下载 • 无隐藏费用"
+    },
+    "stats": {
+      "count1": "5万+",
+      "label1": "活跃用户",
+      "growth1": "+15%",
+      "count2": "$25亿",
+      "label2": "交易量",
+      "growth2": "+45%",
+      "count3": "99.9%",
+      "label3": "正常运行时间",
+      "growth3": "99.9%",
+      "count4": "24/7",
+      "label4": "支持",
+      "growth4": "即时",
+      "users": "活跃用户",
+      "volume": "交易量",
+      "tokens": "支持的代币",
+      "chains": "区块链网络",
+      "activeusers": "活跃用户",
+      "volumetraded": "交易量",
+      "uptime": "正常运行时间",
+      "support": "支持"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "关于Laxce",
+      "title": "DeFi革命",
+      "subtitle": "我们正在构建去中心化金融的未来，使其对每个人都可访问、安全且用户友好。从初学者到专家，Laxce提供您需要的工具，让您自信地导航DeFi生态系统。"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "description": "通过创建直观、安全和强大的工具来民主化对去中心化金融的访问，这些工具赋予全球个人掌控其财务未来的能力。我们相信每个人都应该有权获得DeFi的好处，无论他们的技术专长如何。"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "description": "成为连接传统金融与区块链技术的领先DeFi平台，创造一个无缝的生态系统，用户可以在其中以前所未有的便捷性和安全性交易、赚取和管理他们的数字资产。"
+    },
+    "values": {
+      "title": "我们的核心价值观",
+      "subtitle": "指导我们在Laxce所做一切的原则",
+      "security": {
+        "title": "安全第一",
+        "description": "企业级安全协议和定期审计以保护用户资产。"
+      },
+      "innovation": {
+        "title": "创新",
+        "description": "DeFi解决方案中的尖端技术和持续改进。"
+      },
+      "userCentric": {
+        "title": "以用户为中心",
+        "description": "为初学者和专家提供直观的设计和无缝体验。"
+      },
+      "globalAccess": {
+        "title": "全球访问",
+        "description": "通过多链支持为全球用户民主化DeFi访问。"
+      },
+      "transparency": {
+        "title": "透明度",
+        "description": "开源代码、公开审计和与我们社区的清晰沟通。"
+      },
+      "growth": {
+        "title": "增长",
+        "description": "通过战略合作伙伴关系和生态系统发展实现可持续增长。"
+      }
+    },
+    "journey": {
+      "title": "我们的旅程",
+      "subtitle": "我们革命化DeFi使命中的关键里程碑",
+      "milestones": {
+        "2023": {
+          "year": "2023",
+          "title": "成立",
+          "description": "Laxce成立，旨在民主化DeFi访问"
+        },
+        "2024Q1": {
+          "year": "2024年第1季度",
+          "title": "MVP启动",
+          "description": "Laxce钱包和DEX的第一个版本启动"
+        },
+        "2024Q2": {
+          "year": "2024年第2季度",
+          "title": "安全审计",
+          "description": "由领先公司完成全面的安全审计"
+        },
+        "2024Q3": {
+          "year": "2024年第3季度",
+          "title": "多链",
+          "description": "扩展对以太坊、BSC和Polygon网络的支持"
+        },
+        "2024Q4": {
+          "year": "2024年第4季度",
+          "title": "移动应用",
+          "description": "iOS和Android的原生移动应用"
+        },
+        "2025": {
+          "year": "2025",
+          "title": "全球扩张",
+          "description": "目标100万+活跃用户和50+支持的链"
+        }
+      }
+    },
+    "company": {
+      "title": "关于Laxce",
+      "founded": "成立于2023年",
+      "team": "全球团队（远程优先）",
+      "members": "25+团队成员",
+      "countries": "10+国家",
+      "contact": {
+        "title": "联系信息",
+        "email": "contact@laxce.com",
+        "website": "laxce.com"
+      }
+    },
+    "whyChoose": {
+      "title": "为什么选择Laxce？",
+      "security": {
+        "title": "高级安全",
+        "description": "定期审计的多层安全"
+      },
+      "interface": {
+        "title": "用户友好界面",
+        "description": "适合所有经验水平的直观设计"
+      },
+      "multiChain": {
+        "title": "多链支持",
+        "description": "访问多个区块链网络"
+      },
+      "support": {
+        "title": "24/7支持",
+        "description": "全天候客户协助"
+      }
+    },
+    "cta": {
+      "title": "准备加入DeFi革命了吗？",
+      "description": "今天就开始您的DeFi之旅吧。下载我们的应用并体验金融的未来。",
+      "exploreWallet": "探索钱包",
+      "tryDex": "试用DEX"
+    }
+  },
+  "footer": {
+    "description": "去中心化金融的未来。安全、快速且用户友好的DeFi平台。",
+    "products": "产品",
+    "resources": "资源",
+    "company": "公司",
+    "legal": "法律",
+    "social": "关注我们",
+    "language": "语言",
+    "copyright": "© 2024 Laxce。保留所有权利。",
+    "secureByDesign": "设计安全",
+    "madeBy": "制作者",
+    "laxceTeam": "Laxce团队",
+    "downloads": {
+      "whitepaper": "下载白皮书",
+      "tokenomics": "下载代币经济学"
+    },
+    "links": {
+      "wallet": "钱包",
+      "walletDescription": "安全的加密钱包",
+      "dex": "DEX",
+      "dexDescription": "去中心化交易所",
+      "bridge": "桥接",
+      "bridgeDescription": "跨链转账",
+      "staking": "质押",
+      "stakingDescription": "赚取奖励",
+      "roadmap": "路线图",
+      "whitepaper": "白皮书",
+      "tokenomics": "代币经济学",
+      "documentation": "文档",
+      "aboutUs": "关于我们",
+      "careers": "职业",
+      "pressKit": "媒体资料包",
+      "contact": "联系",
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款",
+      "security": "安全",
+      "audits": "审计",
+      "discord": "Discord",
+      "twitter": "X (Twitter)",
+      "telegram": "Telegram",
+      "medium": "Medium"
+    }
+  },
+  "app": {
+    "dropdown": {
+      "getApp": "获取应用",
+      "chooseDownload": "选择您的下载方式",
+      "apkDownload": "APK下载",
+      "apkDescription": "直接APK文件下载",
+      "googlePlay": "Google Play",
+      "googlePlayDescription": "从Google Play商店下载",
+      "appStore": "App Store",
+      "appStoreDescription": "从Apple App Store下载"
+    }
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "getStarted": "开始使用",
+    "download": "下载",
+    "viewOnline": "在线查看",
+    "comingSoon": "即将推出",
+    "inProgress": "进行中",
+    "completed": "已完成",
+    "upcoming": "即将推出",
+    "viewFull": "查看全部",
+    "purpose": "目的：",
+    "examples": "示例：",
+    "storage": "存储："
+  },
+  "wallet": {
+    "hero": {
+      "badge": "LAXCE钱包",
+      "title": "您通往金融未来的门户",
+      "subtitle": "体验最先进的加密货币钱包，支持1000+种加密货币、10+条区块链和多语言支持。安全、快速且用户友好。"
+    },
+    "features": {
+      "title": "强大功能",
+      "subtitle": "在一个强大的应用中满足您无缝加密货币管理的所有需求",
+      "send": {
+        "title": "发送",
+        "description": "以最低费用和最高安全性即时向世界任何地方的任何人发送加密货币。"
+      },
+      "receive": {
+        "title": "接收",
+        "description": "使用您独特的钱包地址从任何地方接收付款。分享您的二维码进行即时转账。"
+      },
+      "cryptocurrencies": {
+        "title": "1000+种加密货币",
+        "description": "支持超过1000种加密货币，包括比特币、以太坊、LAXCE和所有主要的替代币。"
+      },
+      "languages": {
+        "title": "10+种语言",
+        "description": "提供超过10种语言版本，包括英语、西班牙语、法语、德语、中文等。"
+      },
+      "currencies": {
+        "title": "10+种传统货币",
+        "description": "支持超过10种传统货币，包括美元、欧元、英镑、日元等，便于兑换。"
+      },
+      "history": {
+        "title": "交易历史",
+        "description": "完整的交易历史，包含详细记录、时间戳和所有活动的状态跟踪。"
+      },
+      "multiWallet": {
+        "title": "多钱包",
+        "description": "为不同目的创建和管理多个钱包 - 个人、商业或投资组合。"
+      },
+      "blockchains": {
+        "title": "10条区块链",
+        "description": "支持10+条主要区块链，包括以太坊、比特币、币安智能链、Polygon等。"
+      }
+    },
+    "benefits": {
+      "title": "为什么选择LAXCE钱包？",
+      "subtitle": "采用尖端技术和用户体验理念构建",
+      "security": {
+        "title": "银行级安全",
+        "description": "军用级加密和多层安全协议保护您的资产。"
+      },
+      "speed": {
+        "title": "闪电般快速",
+        "description": "实时确认和最低网络费用的即时交易。"
+      },
+      "crossPlatform": {
+        "title": "跨平台",
+        "description": "可在iOS、Android和Web上使用，所有设备间无缝同步。"
+      },
+      "global": {
+        "title": "全球访问",
+        "description": "通过我们的全球服务器网络从世界任何地方访问您的钱包。"
+      }
+    },
+    "cta": {
+      "downloadNow": "立即下载",
+      "learnMore": "了解更多",
+      "ready": "准备开始了吗？",
+      "downloadToday": "今天就下载LAXCE钱包，加入全球数百万用户的金融未来",
+      "downloadIOS": "iOS版下载",
+      "downloadAndroid": "Android版下载",
+      "freeDownload": "免费下载",
+      "rating": "4.8/5评分",
+      "bankSecurity": "银行级安全"
+    }
+  },
+  "dex": {
+    "hero": {
+      "badge": "LAXCE DEX",
+      "title": "去中心化交易所",
+      "subtitle": "在我们的去中心化交易所上安全高效地交易加密货币。无中介、无KYC、完全控制您的资产。"
+    },
+    "markets": {
+      "title": "实时市场",
+      "subtitle": "实时加密货币价格和交易量",
+      "volume": "成交量",
+      "tradeNow": "立即交易"
+    },
+    "features": {
+      "title": "为什么选择LAXCE DEX？",
+      "subtitle": "由交易员为交易员打造，采用尖端技术",
+      "lightningFast": {
+        "title": "闪电般快速",
+        "description": "使用我们高性能的匹配引擎在毫秒内执行交易。"
+      },
+      "secureTrading": {
+        "title": "安全交易",
+        "description": "银行级安全，多层保护和实时监控。"
+      },
+      "tradingPairs": {
+        "title": "1000+交易对",
+        "description": "交易超过1000个加密货币交易对，拥有深度流动性池。"
+      },
+      "globalCommunity": {
+        "title": "全球社区",
+        "description": "加入全球数百万交易员的活跃社区。"
+      },
+      "crossChain": {
+        "title": "跨链",
+        "description": "在多个区块链之间无缝交易资产。"
+      },
+      "advancedCharts": {
+        "title": "高级图表",
+        "description": "具有实时数据和分析的专业交易工具。"
+      }
+    },
+    "benefits": {
+      "title": "交易优势",
+      "subtitle": "体验去中心化交易的优势",
+      "highLiquidity": {
+        "title": "高流动性",
+        "description": "深度订单簿确保最小滑点和更好的执行价格。"
+      },
+      "lowFees": {
+        "title": "低费用",
+        "description": "具有成交量折扣的竞争性交易费，从0.1%开始。"
+      },
+      "mobileTrading": {
+        "title": "移动交易",
+        "description": "使用我们可在iOS和Android上使用的移动应用随时随地交易。"
+      },
+      "nonCustodial": {
+        "title": "非托管",
+        "description": "您控制您的私钥。我们从不持有您的资金。"
+      }
+    },
+    "cta": {
+      "startTrading": "开始交易",
+      "viewMarkets": "查看市场",
+      "ready": "准备开始交易了吗？",
+      "joinTraders": "加入LAXCE DEX上的数千名交易员，体验去中心化交易的未来",
+      "launchDex": "启动DEX",
+      "downloadApp": "下载应用",
+      "noKyc": "无需KYC",
+      "rating": "4.9/5评分",
+      "nonCustodial": "非托管"
+    }
+  },
+  "tokenomics": {
+    "hero": {
+      "badge": "LAXCE V1-2024 代币经济学",
+      "title": "代币经济学",
+      "subtitle": "探索LAX代币分配、释放和经济激励。"
+    },
+    "overview": {
+      "totalSupply": {
+        "value": "5亿",
+        "label": "总供应量"
+      },
+      "tokenSymbol": {
+        "value": "$LAX",
+        "label": "代币符号"
+      },
+      "initialNetwork": {
+        "value": "以太坊",
+        "label": "初始网络"
+      },
+      "tokenModel": {
+        "value": "通缩",
+        "label": "代币模型"
+      }
+    },
+    "tokenDetails": {
+      "title": "代币详情",
+      "subtitle": "关于$LAX代币及其网络集成的全面信息",
+      "tokenAndNetwork": {
+        "title": "代币和网络",
+        "description": "Laxce代币($LAX)将最初在以太坊网络上铸造。一旦Laxce Layer 2主网启动，该代币将变得与多链兼容，作为Polygon Agglayer的一部分与Polygon生态系统集成。"
+      },
+      "tokenSupply": {
+        "title": "代币供应",
+        "description": "Laxce代币($LAX)将有5亿代币的硬顶，确保有限供应。为了保持通缩压力，部分费用将用于销毁现有代币，随着时间的推移减少总流通供应量。"
+      },
+      "contractAddress": {
+        "title": "合约地址",
+        "description": "代币$LAX的合约地址是：0x13abd6192cB32bdE8a921285105F378695f951d9，可在此处查看：",
+        "address": "0x13abd6192cB32bdE8a921285105F378695f951d9",
+        "copy": "复制",
+        "view": "查看"
+      }
+    },
+    "distribution": {
+      "title": "代币分配",
+      "subtitle": "公平透明的分配，旨在支持长期生态系统增长",
+      "totalSupply": "总供应量",
+      "public": {
+        "title": "公开",
+        "description": "公开代币生成事件",
+        "percentage": "40%",
+        "amount": "2亿 $LAX"
+      },
+      "private": {
+        "title": "私人",
+        "description": "私人销售和战略投资者",
+        "percentage": "20%",
+        "amount": "1亿 $LAX"
+      },
+      "reserve": {
+        "title": "储备",
+        "description": "未来机会储备基金",
+        "percentage": "15%",
+        "amount": "7500万 $LAX"
+      },
+      "rewards": {
+        "title": "奖励",
+        "description": "质押奖励和社区激励",
+        "percentage": "15%",
+        "amount": "7500万 $LAX"
+      },
+      "teamAdvisors": {
+        "title": "团队和顾问",
+        "description": "核心团队和战略顾问",
+        "percentage": "10%",
+        "amount": "5000万 $LAX"
+      }
+    },
+    "utilities": {
+      "title": "代币用途",
+      "subtitle": "$LAX代币将在Laxce生态系统内用于各种用途",
+      "governance": {
+        "title": "治理",
+        "description": "代币持有者将对网络升级和提案拥有投票权"
+      },
+      "staking": {
+        "title": "质押",
+        "description": "质押$LAX代币可以获得奖励并为网络安全做出贡献"
+      },
+      "transactionFees": {
+        "title": "交易费用",
+        "description": "Laxce网络上的交易费用将以$LAX支付"
+      },
+      "exclusiveAccess": {
+        "title": "独家访问",
+        "description": "代币持有者可能可以访问Laxce生态系统内的独家功能或权益"
+      }
+    },
+    "vesting": {
+      "title": "释放计划",
+      "subtitle": "透明的释放期确保长期承诺和生态系统稳定性",
+      "headers": {
+        "category": "类别",
+        "cliffPeriod": "锁定期",
+        "vestingPeriod": "释放期",
+        "description": "描述"
+      },
+      "schedules": {
+        "public": {
+          "category": "公开",
+          "cliff": "0个月",
+          "vesting": "无释放",
+          "description": "公开销售参与者即时访问"
+        },
+        "private": {
+          "category": "私人",
+          "cliff": "6个月",
+          "vesting": "18个月线性",
+          "description": "战略投资者释放计划"
+        },
+        "reserve": {
+          "category": "储备",
+          "cliff": "12个月",
+          "vesting": "36个月线性",
+          "description": "长期储备基金释放"
+        },
+        "rewards": {
+          "category": "奖励",
+          "cliff": "0个月",
+          "vesting": "48个月线性",
+          "description": "长期社区激励"
+        },
+        "teamAdvisors": {
+          "category": "团队和顾问",
+          "cliff": "12个月",
+          "vesting": "36个月线性",
+          "description": "与项目成功的长期一致性"
+        }
+      }
+    },
+    "cta": {
+      "title": "下载完整代币经济学",
+      "description": "获取详细的代币经济学文档，包含$LAX代币分配、释放计划和经济模型的全面信息。",
+      "downloadPDF": "下载代币经济学PDF",
+      "viewOnline": "在线查看"
+    }
+  },
+  "whitepaper": {
+    "hero": {
+      "badge": "LAXCE白皮书1.0",
+      "title": "白皮书",
+      "subtitle": "一个专门设计用于促进现实世界资产(RWAs)无缝集成到区块链生态系统中的去中心化以太坊Layer-2平台。",
+      "downloadPDF": "下载PDF",
+      "viewOnline": "在线查看"
+    },
+    "introduction": {
+      "title": "介绍",
+      "content": "Laxce是一个专门设计用于促进现实世界资产(RWAs)无缝集成到区块链生态系统中的去中心化以太坊Layer-2平台。通过解决RWA代币化固有的可扩展性、延迟和监管挑战，Laxce旨在为创新和经济增长开启新机遇。"
+    },
+    "problemStatement": {
+      "title": "问题陈述",
+      "subtitle": "RWA代币化生态系统当前的挑战",
+      "scalability": {
+        "title": "可扩展性",
+        "description": "以太坊主网的当前容量不足以处理大规模RWA代币化所需的交易量。"
+      },
+      "latency": {
+        "title": "延迟",
+        "description": "以太坊上的确认时间对于时间敏感的RWA交易可能太慢。"
+      },
+      "regulatory": {
+        "title": "监管合规",
+        "description": "确保RWA代币化符合相关法规至关重要，但在去中心化环境中可能很复杂。"
+      }
+    },
+    "mission": {
+      "title": "我们的使命",
+      "content": "通过提供安全、可扩展且经济高效的现实世界资产代币化平台，促进高效交易、增强流动性和新经济机会，赋能个人和企业。"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "content": "成为代币化现实世界资产的全球领先平台，推动创新、促进经济增长并民主化投资机会的获取。"
+    },
+    "rwaTokenization": {
+      "title": "现实世界资产代币化",
+      "subtitle": "RWA代表现实世界资产。这些是存在于现实世界中的物理或无形资产，如房地产、商品、艺术品和知识产权。通过代币化RWAs，像Laxce这样的区块链平台可以实现碎片化所有权、增加流动性和增强透明度。",
+      "assets": {
+        "realEstate": {
+          "title": "房地产",
+          "description": "如房屋、公寓和商业建筑等财产"
+        },
+        "commodities": {
+          "title": "商品",
+          "description": "如黄金、石油和农产品等自然资源"
+        },
+        "art": {
+          "title": "艺术品",
+          "description": "绘画、雕塑和其他有价值的艺术品"
+        },
+        "intellectualProperty": {
+          "title": "知识产权",
+          "description": "专利、版权和商标"
+        }
+      },
+      "importance": {
+        "title": "RWA代币化的重要性",
+        "liquidity": {
+          "title": "增加流动性",
+          "description": "将资产分解为更小的可交易代币显著增加流动性"
+        },
+        "fractional": {
+          "title": "碎片化所有权",
+          "description": "通过碎片化所有权使更广泛的投资者可以获得资产"
+        },
+        "transparency": {
+          "title": "增强透明度",
+          "description": "区块链上的所有权、交易和资产表现的清晰记录"
+        },
+        "management": {
+          "title": "高效管理",
+          "description": "智能合约自动化如租金收集和股息支付等流程"
+        }
+      }
+    },
+    "technicalArchitecture": {
+      "title": "技术架构",
+      "subtitle": "Laxce采用Polygon CDK的Validium架构来实现卓越的可扩展性和安全性。通过利用Validium，Laxce为现实世界资产代币化和各种金融应用提供高性能和安全的平台。",
+      "features": {
+        "polygonCDK": {
+          "title": "Polygon CDK Validium",
+          "description": "基于Polygon的链开发套件构建，具有Validium增强的可扩展性和降低的gas费用"
+        },
+        "rwaTokenization": {
+          "title": "现实世界资产代币化",
+          "description": "用于代币化房地产、商品和艺术品等物理资产的综合框架"
+        },
+        "offChain": {
+          "title": "链下结算",
+          "description": "大多数RWA交易在链下结算，只有关键事件记录在主网上"
+        },
+        "compliance": {
+          "title": "监管合规",
+          "description": "KYC/AML、证券法和数据隐私要求的强大框架"
+        }
+      },
+      "whyPolygon": {
+        "title": "为什么选择Polygon CDK？",
+        "security": {
+          "title": "安全性",
+          "description": "采用最新零知识技术的高性能、高安全性L2"
+        },
+        "scalability": {
+          "title": "可扩展性",
+          "description": "交易费用比以太坊低几个数量级，处理速度更快"
+        },
+        "modularity": {
+          "title": "模块化",
+          "description": "可定制的L2环境以满足特定需求"
+        },
+        "interoperability": {
+          "title": "互操作性",
+          "description": "通过AggLayer集成实现跨链交易"
+        },
+        "sovereignty": {
+          "title": "主权",
+          "description": "对收入、治理、安全和经济政策的完全控制"
+        },
+        "costEffectiveness": {
+          "title": "成本效益",
+          "description": "低交易费用和gas优化功能"
+        }
+      }
+    },
+    "useCases": {
+      "title": "用例",
+      "subtitle": "Laxce平台在各种金融部门的综合应用",
+      "rwa": {
+        "title": "现实世界资产(RWA)",
+        "description": "房地产、商品、艺术品和知识产权的代币化"
+      },
+      "micropayments": {
+        "title": "微支付",
+        "description": "小额交易的低交易费用和高吞吐量"
+      },
+      "trading": {
+        "title": "加密交易",
+        "description": "用于快速执行数字资产交易的可扩展和安全平台"
+      },
+      "supplyChain": {
+        "title": "供应链融资",
+        "description": "通过发票和贸易文件代币化简化融资流程"
+      }
+    },
+    "tokenEconomics": {
+      "title": "代币经济学",
+      "subtitle": "将引入原生代币LAX，以激励网络参与、促进治理，并可能通过交易费用产生收入。",
+      "distribution": {
+        "title": "代币分配",
+        "public": "公开",
+        "private": "私人",
+        "reserve": "储备",
+        "rewards": "奖励",
+        "teamAdvisors": "团队和顾问",
+        "totalSupply": "总供应量",
+        "totalSupplyValue": "500,000,000 LAX"
+      },
+      "utility": {
+        "title": "代币用途",
+        "networkIncentives": "网络参与激励",
+        "governance": "治理投票权",
+        "transactionFees": "交易费用生成",
+        "staking": "质押和奖励"
+      },
+      "vesting": {
+        "title": "释放计划",
+        "description": "代币分配遵循结构化的释放计划，以确保与项目目标的长期一致性并防止市场操纵。"
+      }
+    },
+    "roadmapSection": {
+      "title": "路线图",
+      "subtitle": "Laxce生态系统的开发时间线和关键里程碑",
+      "phases": {
+        "q3_2025": {
+          "quarter": "2025年第3季度",
+          "title": "主网启动",
+          "description": "在Polygon CDK的Validium上启动Laxce主网，为现实世界资产代币化提供可扩展和安全的平台。",
+          "items": [
+            "在Polygon CDK Validium上部署主网",
+            "核心基础设施实施",
+            "安全审计和测试完成"
+          ]
+        },
+        "q4_2025": {
+          "quarter": "2025年第4季度",
+          "title": "生态系统发展",
+          "description": "通过与区块链和金融部门的各种组织和项目合作，培育充满活力的生态系统。",
+          "items": [
+            "与金融机构的战略合作伙伴关系",
+            "开发者工具和API发布",
+            "社区建设和参与"
+          ]
+        },
+        "q1_2026": {
+          "quarter": "2026年第1季度",
+          "title": "企业解决方案",
+          "description": "为大规模代币化项目和金融应用开发企业级解决方案。",
+          "items": [
+            "企业级代币化平台",
+            "高级合规工具",
+            "机构入驻"
+          ]
+        },
+        "q2_2026": {
+          "quarter": "2026年第2季度",
+          "title": "跨链集成",
+          "description": "探索与其他区块链的跨链互操作性机会，以扩大网络的覆盖范围和能力。",
+          "items": [
+            "跨链桥接实施",
+            "多链资产支持",
+            "增强的互操作性协议"
+          ]
+        }
+      },
+      "note": "注意：此路线图可能根据市场条件、技术进步和社区反馈而变化。"
+    },
+    "cta": {
+      "title": "获取完整白皮书",
+      "description": "下载包含详细规格、架构图、经济模型和现实世界资产代币化框架的完整技术文档。",
+      "downloadPDF": "下载PDF",
+      "viewOnline": "在线查看"
+    }
+  },
+  "security": {
+    "hero": {
+      "badge": "安全第一",
+      "title": "高级安全功能",
+      "subtitle": "旨在保护您的资产和隐私的全面安全措施"
+    },
+    "stats": {
+      "audits": {
+        "value": "12+",
+        "label": "安全审计"
+      },
+      "uptime": {
+        "value": "99.9%",
+        "label": "正常运行时间"
+      },
+      "bounties": {
+        "value": "$10万+",
+        "label": "漏洞赏金"
+      },
+      "researchers": {
+        "value": "50+",
+        "label": "安全研究员"
+      }
+    },
+    "features": {
+      "title": "高级安全功能",
+      "subtitle": "旨在保护您的资产和隐私的全面安全措施",
+      "biometric": {
+        "title": "生物识别认证",
+        "description": "先进的指纹和面部识别，安全即时访问您的钱包",
+        "features": [
+          "多因素生物识别验证",
+          "活体检测防止欺骗",
+          "安全的本地生物识别存储",
+          "PIN/密码认证备用"
+        ]
+      },
+      "privacy": {
+        "title": "隐私优先设计",
+        "description": "您的数据保留在您的设备上。我们从不访问您的私钥或个人信息",
+        "features": [
+          "零知识架构",
+          "客户端加密",
+          "无数据收集或跟踪",
+          "匿名交易支持"
+        ]
+      },
+      "encryption": {
+        "title": "军用级加密",
+        "description": "AES-256加密与安全密钥派生，提供最大数据保护",
+        "features": [
+          "AES-256-GCM加密",
+          "PBKDF2密钥派生",
+          "硬件安全模块(HSM)支持",
+          "加密本地存储"
+        ]
+      },
+      "multiSig": {
+        "title": "多重签名钱包",
+        "description": "增强安全性和共享控制的高级多重签名支持",
+        "features": [
+          "2-of-3多重签名设置",
+          "硬件钱包集成",
+          "时间锁定交易",
+          "恢复机制"
+        ]
+      },
+      "infrastructure": {
+        "title": "安全基础设施",
+        "description": "99.9%正常运行时间和DDoS保护的企业级基础设施",
+        "features": [
+          "AWS/GCP基础设施",
+          "DDoS保护",
+          "24/7监控",
+          "自动备份"
+        ]
+      },
+      "audits": {
+        "title": "智能合约审计",
+        "description": "领先区块链安全公司的定期安全审计",
+        "features": [
+          "季度安全审计",
+          "漏洞赏金计划",
+          "开源代码审查",
+          "第三方渗透测试"
+        ]
+      }
+    },
+    "protocols": {
+      "title": "安全协议",
+      "subtitle": "确保最高级别保护的行业领先安全协议",
+      "keyGeneration": {
+        "title": "安全密钥生成",
+        "description": "用于私钥创建的加密安全随机数生成",
+        "features": [
+          "BIP-39助记词",
+          "硬件熵源",
+          "确定性密钥派生"
+        ]
+      },
+      "transactionSigning": {
+        "title": "交易签名",
+        "description": "支持硬件钱包的安全交易签名",
+        "features": [
+          "离线签名能力",
+          "硬件钱包集成",
+          "交易预览"
+        ]
+      },
+      "networkSecurity": {
+        "title": "网络安全",
+        "description": "与区块链网络的受保护通信",
+        "features": [
+          "TLS 1.3加密",
+          "节点验证",
+          "中间人攻击保护"
+        ]
+      },
+      "dataProtection": {
+        "title": "数据保护",
+        "description": "全面的数据保护和隐私措施",
+        "features": [
+          "端到端加密",
+          "零知识证明",
+          "数据最小化"
+        ]
+      }
+    },
+    "compliance": {
+      "title": "合规性和认证",
+      "subtitle": "我们保持最高标准的合规性和安全认证",
+      "soc2": {
+        "title": "SOC 2 Type II",
+        "description": "服务组织控制2合规，用于安全性、可用性和机密性",
+        "status": "已认证"
+      },
+      "iso27001": {
+        "title": "ISO 27001",
+        "description": "信息安全管理系统的国际标准",
+        "status": "已认证"
+      },
+      "gdpr": {
+        "title": "GDPR合规",
+        "description": "欧盟用户的通用数据保护条例合规",
+        "status": "合规"
+      },
+      "ccpa": {
+        "title": "CCPA合规",
+        "description": "加利福尼亚州居民的加州消费者隐私法合规",
+        "status": "合规"
+      }
+    },
+    "incidentResponse": {
+      "title": "事件响应",
+      "subtitle": "快速响应协议有效处理任何安全事件",
+      "detection": {
+        "title": "检测",
+        "description": "24/7监控和自动威胁检测系统",
+        "time": "实时"
+      },
+      "response": {
+        "title": "响应",
+        "description": "立即响应团队激活和事件遏制",
+        "time": "< 15分钟"
+      },
+      "investigation": {
+        "title": "调查",
+        "description": "全面的取证分析和根本原因确定",
+        "time": "< 4小时"
+      },
+      "resolution": {
+        "title": "解决",
+        "description": "问题解决和预防措施实施",
+        "time": "< 24小时"
+      }
+    },
+    "cta": {
+      "title": "准备体验安全的DeFi了吗？",
+      "subtitle": "今天就下载Laxce，体验企业级安全与DeFi简便性的结合。",
+      "downloadMobile": "移动版下载",
+      "useWebApp": "使用网页应用",
+      "learnMore": "了解更多",
+      "securityRating": "4.9/5安全评级",
+      "zeroIncidents": "零安全事件",
+      "uptime": "100%正常运行时间"
+    }
+  },
+  "privacyPolicy": {
+    "hero": {
+      "badge": "隐私政策",
+      "title": "您的隐私很重要",
+      "subtitle": "我们致力于保护您的隐私并确保您个人信息的安全。此政策解释了我们如何收集、使用和保护您的数据，符合国际隐私法律。",
+      "lastUpdated": "最后更新：2024年12月15日",
+      "effective": "生效日期：2025年1月1日"
+    },
+    "badges": {
+      "gdpr": "GDPR合规",
+      "ccpa": "CCPA合规",
+      "iso": "ISO 27001"
+    },
+    "quickNavigation": {
+      "title": "快速导航",
+      "dataCollection": "数据收集",
+      "dataUsage": "数据使用",
+      "dataSharing": "数据共享",
+      "yourRights": "您的权利",
+      "cookies": "Cookie",
+      "dataRetention": "数据保留"
+    },
+    "dataCollection": {
+      "title": "我们收集的数据",
+      "subtitle": "我们只收集提供服务和确保安全所必需的信息。",
+      "personalInfo": {
+        "title": "个人信息",
+        "item1": "电子邮件地址（用于帐户创建和通信）",
+        "item2": "用户名或显示名称",
+        "item3": "个人资料信息（可选）",
+        "item4": "支持联系信息",
+        "item5": "KYC/AML信息（如法律要求）"
+      },
+      "technicalInfo": {
+        "title": "技术信息",
+        "item1": "设备信息（IP地址、浏览器类型、操作系统）",
+        "item2": "使用数据（访问页面、使用功能、停留时间）",
+        "item3": "交易数据（公共区块链信息）",
+        "item4": "日志文件和分析数据",
+        "item5": "设备标识符和Cookie"
+      },
+      "walletInfo": {
+        "title": "钱包信息",
+        "item1": "公共钱包地址（存储在您的设备本地）",
+        "item2": "交易历史（来自区块链）",
+        "item3": "代币余额和持有量",
+        "item4": "网络偏好和设置",
+        "item5": "私钥（从不存储在我们的服务器上）"
+      },
+      "financialInfo": {
+        "title": "财务信息",
+        "item1": "交易金额和类型",
+        "item2": "交易历史和模式",
+        "item3": "Gas费用和网络成本",
+        "item4": "质押和收益农业数据",
+        "item5": "DeFi协议交互"
+      },
+      "advertisingData": {
+        "title": "广告和营销数据",
+        "item1": "广告偏好和选择加入/退出选择",
+        "item2": "营销活动互动",
+        "item3": "广告点击率和参与度",
+        "item4": "跨平台广告标识符",
+        "item5": "营销通信偏好"
+      },
+      "aiData": {
+        "title": "AI和分析数据",
+        "item1": "交易模式分析（需要同意）",
+        "item2": "AI训练的使用行为（匿名化）",
+        "item3": "优化的功能交互数据",
+        "item4": "AI模型性能反馈",
+        "item5": "个性化推荐交互"
+      }
+    },
+    "dataUsage": {
+      "title": "我们如何使用您的数据",
+      "subtitle": "我们负责任地使用您的信息，仅用于合法的商业目的。",
+      "purposes": {
+        "serviceProvision": {
+          "title": "服务提供",
+          "description": "提供和维护我们的DeFi服务、处理交易并确保平台功能。"
+        },
+        "security": {
+          "title": "安全和欺诈预防",
+          "description": "防范欺诈、未授权访问并确保我们平台和用户的安全。"
+        },
+        "communication": {
+          "title": "通信",
+          "description": "发送重要更新、安全警报并回应您的支持请求。"
+        },
+        "improvement": {
+          "title": "改进",
+          "description": "分析使用模式并改进我们的服务、功能和用户体验。"
+        },
+        "compliance": {
+          "title": "合规",
+          "description": "遵守法律义务、监管要求并执行我们的服务条款。"
+        },
+        "legalBasis": {
+          "title": "法律依据",
+          "description": "合同履行、合法利益、法律义务和适用的同意。"
+        }
+      }
+    },
+    "dataSharing": {
+      "title": "数据共享和披露",
+      "subtitle": "我们不出售您的个人数据。我们只在有限的情况下分享信息。",
+      "entities": {
+        "serviceProviders": {
+          "title": "服务提供商",
+          "description": "用于托管、分析和支持的受信任第三方服务（具有严格的数据保护协议）。"
+        },
+        "legalRequirements": {
+          "title": "法律要求",
+          "description": "当法律、法院命令或政府要求时（具有适当的法律程序）。"
+        },
+        "security": {
+          "title": "安全和保护",
+          "description": "保护我们的权利、财产或安全，或保护我们用户和公众的权利、财产或安全。"
+        },
+        "businessTransfers": {
+          "title": "业务转让",
+          "description": "在合并、收购或资产出售的情况下（需要用户通知和同意）。"
+        },
+        "regulatory": {
+          "title": "监管机构",
+          "description": "根据适用法律要求向金融监管机构和执法机构。"
+        },
+        "blockchain": {
+          "title": "区块链网络",
+          "description": "公共区块链数据本质上是透明的，所有网络参与者都可以访问。"
+        }
+      }
+    },
+    "userRights": {
+      "title": "您的隐私权利",
+      "subtitle": "您可以控制您的个人数据。以下是您的权利以及如何行使这些权利。",
+      "rights": {
+        "access": {
+          "title": "访问",
+          "description": "请求访问您的个人数据以及我们如何处理这些数据的信息。"
+        },
+        "correction": {
+          "title": "更正",
+          "description": "请求更正不准确或不完整的个人数据。"
+        },
+        "deletion": {
+          "title": "删除",
+          "description": "请求删除您的个人数据，受法律和操作要求限制。"
+        },
+        "portability": {
+          "title": "可携带性",
+          "description": "请求以结构化、机器可读格式获取您的数据副本。"
+        },
+        "objection": {
+          "title": "反对",
+          "description": "反对为某些目的处理您的数据。"
+        },
+        "withdrawal": {
+          "title": "撤回",
+          "description": "在同意是法律依据的情况下撤回数据处理的同意。"
+        },
+        "restriction": {
+          "title": "限制",
+          "description": "在某些情况下请求限制处理。"
+        },
+        "complaint": {
+          "title": "投诉",
+          "description": "向您当地的数据保护机构提出投诉。"
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookie和跟踪技术",
+      "subtitle": "我们使用Cookie和类似技术来增强您的体验并分析使用情况。",
+      "types": {
+        "essential": {
+          "title": "必要Cookie",
+          "purpose": "网站基本功能和安全所必需",
+          "examples": "身份验证、会话管理、安全功能",
+          "storage": "本地存储和会话存储"
+        },
+        "analytics": {
+          "title": "分析Cookie",
+          "purpose": "帮助我们了解用户如何与我们的平台交互",
+          "examples": "Google Analytics、使用统计、性能监控",
+          "storage": "带有可配置过期时间的浏览器Cookie"
+        },
+        "functional": {
+          "title": "功能Cookie",
+          "purpose": "记住您的偏好和设置",
+          "examples": "语言偏好、主题设置、显示选项",
+          "storage": "本地存储和持久Cookie"
+        },
+        "marketing": {
+          "title": "营销Cookie",
+          "purpose": "用于广告和营销目的",
+          "examples": "重新定位、社交媒体集成、广告效果",
+          "storage": "需要用户同意的第三方Cookie"
+        },
+        "advertising": {
+          "title": "广告Cookie",
+          "purpose": "提供个性化广告并衡量广告效果",
+          "examples": "Google Ads、Facebook Pixel、程序化广告",
+          "storage": "需要明确同意的第三方Cookie"
+        }
+      },
+      "management": {
+        "title": "Cookie管理",
+        "browserSettings": {
+          "title": "浏览器设置",
+          "items": [
+            "通过浏览器设置清除Cookie",
+            "设置浏览器阻止第三方Cookie",
+            "使用隐身/私人浏览模式",
+            "安装广告拦截扩展"
+          ]
+        },
+        "ourControls": {
+          "title": "我们的Cookie控制",
+          "items": [
+            "首次访问时的Cookie同意横幅",
+            "细粒度Cookie偏好设置",
+            "轻松退出营销Cookie",
+            "Cookie政策更新通知"
+          ]
+        }
+      }
+    },
+    "advertising": {
+      "title": "广告和营销",
+      "subtitle": "我们可能将您的数据用于广告目的，但只有在您明确同意的情况下。",
+      "personalized": {
+        "title": "个性化广告",
+        "description": "我们可能使用您的交易模式和偏好来显示相关广告。这包括：",
+        "items": [
+          "基于您的交易历史的DeFi产品推荐",
+          "关于您持有的加密货币的教育内容",
+          "符合您使用模式的新功能促销",
+          "在社交媒体和搜索引擎上的跨平台广告"
+        ],
+        "consent": "需要明确的选择加入同意"
+      },
+      "thirdParty": {
+        "title": "第三方广告",
+        "description": "我们与可信的广告合作伙伴合作提供相关内容：",
+        "items": [
+          "Google Ads和Google Analytics",
+          "Facebook和Instagram广告",
+          "Twitter/X广告活动",
+          "程序化广告网络"
+        ],
+        "consent": "需要明确的选择加入同意"
+      },
+      "controls": {
+        "title": "广告控制",
+        "description": "您对广告偏好拥有完全控制权：",
+        "items": [
+          "随时退出个性化广告",
+          "在浏览器设置中管理Cookie偏好",
+          "使用广告拦截软件而不影响核心功能",
+          "联系我们完全禁用广告跟踪"
+        ],
+        "consent": "用户控制的设置"
+      }
+    },
+    "ai": {
+      "title": "人工智能和数据访问",
+      "subtitle": "我们使用AI来增强您的体验，但您控制如何访问和使用您的数据。",
+      "features": {
+        "title": "AI驱动的功能",
+        "description": "我们使用人工智能来增强您的体验：",
+        "items": [
+          "欺诈检测和风险评估",
+          "市场分析和交易洞察",
+          "个性化投资组合推荐",
+          "自动客户支持响应",
+          "安全威胁检测和预防"
+        ],
+        "consent": "服务功能所需"
+      },
+      "analysis": {
+        "title": "交易数据分析",
+        "description": "AI可能分析您的交易数据用于：",
+        "items": [
+          "安全目的的模式识别",
+          "市场趋势分析和洞察",
+          "个性化投资建议",
+          "风险评估和合规监控",
+          "服务优化和功能开发"
+        ],
+        "consent": "需要明确的用户同意"
+      },
+      "controls": {
+        "title": "AI数据控制",
+        "description": "您控制AI如何访问您的数据：",
+        "items": [
+          "AI分析交易数据的选择加入同意",
+          "对AI可以访问哪些数据类型的细粒度控制",
+          "随时撤销AI访问的能力",
+          "AI数据使用的透明报告",
+          "对影响您帐户的AI决策进行人工审查"
+        ],
+        "consent": "具有细粒度设置的用户控制"
+      },
+      "anonymization": {
+        "title": "数据匿名化",
+        "description": "当AI处理您的数据时，我们确保：",
+        "items": [
+          "个人标识符被删除或加密",
+          "尽可能聚合数据",
+          "AI模型在匿名数据集上训练",
+          "在AI输出中无法识别个人用户数据",
+          "遵循数据最小化原则"
+        ],
+        "consent": "自动隐私保护"
+      },
+      "consentManagement": {
+        "title": "AI同意管理",
+        "yourControls": {
+          "title": "您的AI控制",
+          "items": [
+            "启用/禁用AI分析交易数据",
+            "控制AI可以访问哪些数据类型",
+            "退出个性化AI推荐",
+            "请求删除AI处理的数据"
+          ]
+        },
+        "transparency": {
+          "title": "透明度功能",
+          "items": [
+            "AI数据使用的清晰解释",
+            "AI数据处理的定期报告",
+            "AI决策的人工审查",
+            "AI生成结果的申诉流程"
+          ]
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "数据保留",
+      "subtitle": "我们只在本政策中概述的目的所需的时间内保留您的数据。",
+      "periods": {
+        "title": "保留期",
+        "account": {
+          "category": "帐户数据",
+          "period": "直到帐户删除或3年不活跃",
+          "reason": "服务提供和法律合规"
+        },
+        "transaction": {
+          "category": "交易数据",
+          "period": "7年（法律要求）",
+          "reason": "金融法规和税务合规"
+        },
+        "kyc": {
+          "category": "KYC/AML数据",
+          "period": "帐户关闭后5年",
+          "reason": "反洗钱法规"
+        },
+        "logs": {
+          "category": "日志文件",
+          "period": "12个月",
+          "reason": "安全监控和故障排除"
+        },
+        "marketing": {
+          "category": "营销数据",
+          "period": "直到撤回同意",
+          "reason": "经同意的营销通信"
+        }
+      }
+    },
+    "internationalTransfers": {
+      "title": "国际数据传输",
+      "subtitle": "您的数据可能会在国际间传输。我们确保采取适当的保护措施。",
+      "regions": {
+        "eu": {
+          "title": "欧盟",
+          "safeguards": "充分性决定、标准合同条款(SCCs)、约束性公司规则"
+        },
+        "us": {
+          "title": "美国",
+          "safeguards": "隐私盾（如适用）、SCCs、数据处理协议"
+        },
+        "asiaPacific": {
+          "title": "亚太地区",
+          "safeguards": "SCCs、当地数据保护法律合规、传输中加密"
+        },
+        "other": {
+          "title": "其他地区",
+          "safeguards": "SCCs、适当保护措施、当地法律合规评估"
+        }
+      }
+    },
+    "childrenPrivacy": {
+      "title": "儿童隐私",
+      "subtitle": "我们致力于保护儿童和年轻用户的隐私。",
+      "ageRequirement": {
+        "title": "年龄要求",
+        "description": "我们的服务面向18岁或以上的用户。"
+      },
+      "policy": {
+        "title": "我们的政策",
+        "description": "我们不会故意收集18岁以下儿童的个人信息。如果我们意识到我们已经收集了此类信息，我们将立即采取步骤删除它。"
+      },
+      "parentalRights": {
+        "title": "父母权利",
+        "description": "认为我们收集了其子女信息的父母或监护人应立即联系我们。"
+      }
+    },
+    "dataBreach": {
+      "title": "数据泄露通知",
+      "subtitle": "在不太可能发生数据泄露的情况下，我们有保护您信息的程序。",
+      "timeframe": {
+        "title": "通知时间框架",
+        "description": "欧盟居民72小时，符合GDPR要求"
+      },
+      "process": {
+        "title": "通知流程",
+        "description": "我们将在规定的时间框架内通知受影响的用户和相关当局"
+      },
+      "measures": {
+        "title": "响应措施",
+        "description": "立即安全评估、遏制和补救程序"
+      }
+    },
+    "security": {
+      "title": "安全措施",
+      "subtitle": "我们实施行业标准的安全措施来保护您的数据。",
+      "practices": {
+        "title": "我们的安全实践",
+        "items": [
+          "敏感数据传输的端到端加密",
+          "帐户访问的多因素身份验证",
+          "定期安全审计和渗透测试",
+          "具有物理和数字安全的安全数据中心",
+          "员工数据保护和隐私培训",
+          "事件响应程序和泄露通知协议",
+          "定期软件更新和安全补丁",
+          "访问控制和最少特权原则",
+          "数据备份和灾难恢复程序",
+          "供应商安全评估和监控"
+        ]
+      }
+    },
+    "contact": {
+      "title": "关于隐私的问题？",
+      "subtitle": "如果您对此隐私政策或我们的数据实践有任何问题，请随时联系我们。",
+      "contactPrivacyTeam": "联系隐私团队",
+      "backToHome": "返回首页"
+    }
+  },
+  "termsOfService": {
+    "hero": {
+      "badge": "服务条款",
+      "title": "服务条款",
+      "subtitle": "这些条款管理您对Laxce服务的使用。通过使用我们的平台，您同意这些条款并承认您已阅读并理解它们。",
+      "lastUpdated": "最后更新：2024年12月15日",
+      "effective": "生效日期：2025年1月1日"
+    },
+    "legalNotice": {
+      "title": "重要法律声明",
+      "description": "这些条款构成具有法律约束力的协议。请仔细阅读。如果您不同意这些条款，请不要使用我们的服务。"
+    },
+    "quickNavigation": {
+      "title": "快速导航",
+      "services": "服务",
+      "userObligations": "用户义务",
+      "prohibitedActivities": "禁止活动",
+      "liability": "责任",
+      "intellectualProperty": "知识产权",
+      "disputeResolution": "争议解决"
+    },
+    "services": {
+      "title": "我们的服务",
+      "subtitle": "Laxce提供一套全面的DeFi服务，旨在赋予用户在加密货币生态系统中的能力。",
+      "wallet": {
+        "title": "Laxce钱包",
+        "description": "具有多链支持的安全加密货币钱包",
+        "features": [
+          "多链钱包管理",
+          "安全私钥存储",
+          "交易签名和广播",
+          "投资组合跟踪和分析"
+        ]
+      },
+      "dex": {
+        "title": "Laxce DEX",
+        "description": "用于代币交易的去中心化交易所",
+        "features": [
+          "自动化做市商(AMM)",
+          "流动性提供和收益农业",
+          "跨链代币交换",
+          "实时价格提要和图表"
+        ]
+      },
+      "bridge": {
+        "title": "Laxce桥",
+        "description": "跨链资产转移服务",
+        "features": [
+          "区块链之间的资产桥接",
+          "流动性池管理",
+          "桥接安全和验证",
+          "交易监控和支持"
+        ]
+      }
+    },
+    "userObligations": {
+      "title": "用户义务",
+      "subtitle": "作为我们服务的用户，您有某些责任和义务。",
+      "accountSecurity": {
+        "title": "帐户安全",
+        "items": [
+          "保持对您的钱包和私钥的安全访问",
+          "使用强密码并启用双因素身份验证",
+          "永远不要与任何人分享私钥或助记词",
+          "立即报告可疑活动",
+          "保持您的设备和软件更新"
+        ]
+      },
+      "legalCompliance": {
+        "title": "法律合规",
+        "items": [
+          "遵守所有适用的法律法规",
+          "为KYC/AML提供准确完整的信息",
+          "不将服务用于非法活动或洗钱",
+          "尊重知识产权",
+          "不参与市场操纵或欺诈"
+        ]
+      },
+      "serviceUsage": {
+        "title": "服务使用",
+        "items": [
+          "仅将服务用于合法目的",
+          "不尝试黑客攻击或破坏我们的系统",
+          "不干扰其他用户对服务的访问",
+          "负责任地报告错误和安全漏洞",
+          "遵循我们的公平使用政策和速率限制"
+        ]
+      },
+      "financialResponsibility": {
+        "title": "财务责任",
+        "items": [
+          "了解加密货币交易的风险",
+          "在投资前进行自己的研究",
+          "不要投资超过您能承受损失的金额",
+          "了解您所在司法管辖区的税务义务",
+          "保持准确的交易记录"
+        ]
+      }
+    },
+    "prohibitedActivities": {
+      "title": "禁止活动",
+      "subtitle": "以下活动严格禁止，可能导致帐户终止。",
+      "activities": [
+        "洗钱或恐怖主义融资",
+        "市场操纵或拉高抛售计划",
+        "未经授权访问帐户或系统",
+        "分发恶意软件或钓鱼攻击",
+        "骚扰或滥用其他用户",
+        "违反知识产权",
+        "尝试逆向工程我们的服务",
+        "将服务用于非法赌博或活动",
+        "规避安全措施或访问控制",
+        "提供虚假或误导性信息"
+      ]
+    },
+    "intellectualProperty": {
+      "title": "知识产权",
+      "subtitle": "了解我们的知识产权和您的使用权。",
+      "ourRights": {
+        "title": "我们的权利",
+        "items": [
+          "我们服务中使用的所有软件、代码和技术",
+          "商标、标志和品牌元素",
+          "用户界面设计和布局",
+          "文档、指南和教育内容",
+          "分析、洞察和聚合数据"
+        ]
+      },
+      "yourRights": {
+        "title": "您的权利",
+        "items": [
+          "您的加密货币资产的所有权",
+          "按预期使用我们服务的权利",
+          "导出您的交易数据的能力",
+          "使用公共API和集成的自由",
+          "提供反馈和建议的权利"
+        ]
+      },
+      "usageLicense": {
+        "title": "使用许可",
+        "items": [
+          "使用我们服务的非独占、可撤销许可",
+          "许可在帐户关闭或违规时终止",
+          "无权转许可或转让许可",
+          "必须遵守所有条款和条件",
+          "我们保留修改或终止服务的权利"
+        ]
+      }
+    },
+    "liability": {
+      "title": "责任限制",
+      "subtitle": "我们责任的重要限制以及您对风险的理解。",
+      "serviceAvailability": {
+        "title": "服务可用性",
+        "description": "我们努力实现高可用性，但不能保证不间断的服务",
+        "items": [
+          "定期维护和更新",
+          "第三方服务依赖",
+          "网络拥塞和区块链问题",
+          "不可抗力事件和紧急情况"
+        ]
+      },
+      "financialLosses": {
+        "title": "财务损失",
+        "description": "加密货币交易涉及重大风险",
+        "items": [
+          "市场波动和价格波动",
+          "智能合约漏洞和错误",
+          "影响加密市场的监管变化",
+          "导致交易失败的技术问题"
+        ]
+      },
+      "securityIncidents": {
+        "title": "安全事件",
+        "description": "虽然我们实施了强大的安全措施",
+        "items": [
+          "用户在密钥管理方面的疏忽",
+          "第三方安全漏洞",
+          "高级持续威胁",
+          "零日漏洞"
+        ]
+      }
+    },
+    "regulatoryCompliance": {
+      "title": "监管合规",
+      "subtitle": "我们致力于遵守适用的法律法规。",
+      "kycAml": {
+        "title": "KYC/AML要求",
+        "description": "了解您的客户和反洗钱合规",
+        "items": [
+          "某些交易的身份验证",
+          "资金来源文档",
+          "可疑活动报告",
+          "交易监控和筛选"
+        ]
+      },
+      "financialRegulations": {
+        "title": "金融法规",
+        "description": "遵守适用的金融服务法律",
+        "items": [
+          "许可和注册要求",
+          "资本充足率和储备要求",
+          "消费者保护标准",
+          "监管报告和审计"
+        ]
+      },
+      "dataProtection": {
+        "title": "数据保护",
+        "description": "遵守隐私和数据保护法律",
+        "items": [
+          "欧盟用户的GDPR合规",
+          "加利福尼亚州居民的CCPA合规",
+          "数据最小化和目的限制",
+          "用户权利和同意管理"
+        ]
+      },
+      "taxCompliance": {
+        "title": "税务合规",
+        "description": "税务报告和合规要求",
+        "items": [
+          "税务目的的交易报告",
+          "资本利得和损失文档",
+          "国际税务合规",
+          "与税务机关的合作"
+        ]
+      }
+    },
+    "disputeResolution": {
+      "title": "争议解决",
+      "subtitle": "我们如何处理争议和解决与用户的冲突。",
+      "steps": {
+        "informal": {
+          "number": "1",
+          "title": "非正式解决",
+          "description": "联系我们的支持团队非正式解决问题",
+          "timeframe": "时间框架：30天",
+          "contact": "联系：support@laxce.com"
+        },
+        "mediation": {
+          "number": "2",
+          "title": "调解",
+          "description": "如果非正式解决失败，我们可能提供调解服务",
+          "timeframe": "时间框架：60天",
+          "contact": "联系：legal@laxce.com"
+        },
+        "arbitration": {
+          "number": "3",
+          "title": "仲裁",
+          "description": "根据适用规则的约束性仲裁",
+          "timeframe": "时间框架：90天",
+          "contact": "联系：legal@laxce.com"
+        },
+        "legal": {
+          "number": "4",
+          "title": "法律行动",
+          "description": "作为最后手段，可能会采取法律行动",
+          "timeframe": "时间框架：根据法律要求",
+          "contact": "联系：legal@laxce.com"
+        }
+      }
+    },
+    "accountTermination": {
+      "title": "帐户终止",
+      "subtitle": "可能导致帐户终止或暂停的条件。",
+      "userTermination": {
+        "title": "用户终止",
+        "items": [
+          "用户请求关闭帐户",
+          "活跃帐户30天通知期",
+          "未完成交易的结算",
+          "数据导出和删除选项"
+        ]
+      },
+      "serviceTermination": {
+        "title": "服务终止",
+        "items": [
+          "违反服务条款",
+          "欺诈或非法活动",
+          "长期不活跃",
+          "监管或法律要求"
+        ]
+      },
+      "immediateSuspension": {
+        "title": "立即暂停",
+        "items": [
+          "可疑或欺诈交易",
+          "安全威胁或漏洞",
+          "监管调查",
+          "法院命令或法律要求"
+        ]
+      }
+    },
+    "contact": {
+      "title": "关于条款的问题？",
+      "subtitle": "如果您对这些服务条款有任何问题或需要澄清，请随时联系我们的法律团队。",
+      "contactLegal": "联系法律团队",
+      "viewPrivacyPolicy": "查看隐私政策",
+      "backToHome": "返回首页"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "badge": "开发路线图",
+      "title": "我们的旅程",
+      "subtitle": "构建去中心化金融和现实世界资产代币化的未来。从基础到全球扩张，每个里程碑都让我们更接近数字金融革命。"
+    },
+    "filters": {
+      "all": "全部",
+      "completed": "已完成",
+      "current": "当前",
+      "upcoming": "即将推出"
+    },
+    "phases": {
+      "q4_2024": {
+        "quarter": "2024年第4季度",
+        "status": "已完成",
+        "title": "基础和代币启动",
+        "description": "核心基础设施和原生代币启动",
+        "achievements": [
+          "LAXCE原生代币(LAX)启动",
+          "公共测试网启动",
+          "去中心化治理框架",
+          "以太坊上的Laxcedex DEX启动",
+          "网络参与激励"
+        ]
+      },
+      "q1_2025": {
+        "quarter": "2025年第1季度",
+        "status": "已完成",
+        "title": "主网和开发者工具",
+        "description": "主网启动和全面的开发者生态系统",
+        "achievements": [
+          "在Polygon CDK Validium上启动主网",
+          "开发者工具和API发布",
+          "生态系统合作伙伴关系发展",
+          "现实世界资产代币化平台",
+          "可扩展和安全的基础设施"
+        ]
+      },
+      "q2_2025": {
+        "quarter": "2025年第2季度",
+        "status": "已完成",
+        "title": "跨链和企业",
+        "description": "互操作性和企业解决方案",
+        "achievements": [
+          "跨链互操作性实施",
+          "企业级解决方案开发",
+          "社区增长和参与",
+          "微支付和支付集成",
+          "商户网关合作伙伴关系"
+        ]
+      },
+      "q3_2025": {
+        "quarter": "2025年第3季度",
+        "status": "当前",
+        "title": "现实世界资产代币化",
+        "description": "现实世界资产代币化试点项目",
+        "achievements": [
+          "房地产代币化试点",
+          "商品代币化项目",
+          "艺术品和收藏品代币化",
+          "供应链融资解决方案",
+          "贸易金融流程优化"
+        ]
+      },
+      "q4_2025": {
+        "quarter": "2025年第4季度",
+        "status": "即将推出",
+        "title": "高级DeFi生态系统",
+        "description": "全面的DeFi协议集成和扩展",
+        "achievements": [
+          "高级借贷协议",
+          "收益农业优化",
+          "NFT市场扩展",
+          "保险产品集成",
+          "衍生品交易平台"
+        ]
+      },
+      "q1_2026": {
+        "quarter": "2026年第1季度",
+        "status": "即将推出",
+        "title": "全球扩张",
+        "description": "国际市场扩张和监管合规",
+        "achievements": [
+          "全球监管合规",
+          "国际市场进入",
+          "多语言平台支持",
+          "区域合作伙伴关系扩展",
+          "合规和安全审计"
+        ]
+      },
+      "q2_2026": {
+        "quarter": "2026年第2季度",
+        "status": "即将推出",
+        "title": "AI和高级分析",
+        "description": "AI驱动的功能和高级分析平台",
+        "achievements": [
+          "AI驱动的交易算法",
+          "高级投资组合分析",
+          "预测性市场洞察",
+          "自动化风险管理",
+          "机器学习集成"
+        ]
+      },
+      "q3_2026": {
+        "quarter": "2026年第3季度",
+        "status": "即将推出",
+        "title": "机构采用",
+        "description": "机构级解决方案和企业采用",
+        "achievements": [
+          "机构交易台",
+          "企业托管解决方案",
+          "监管报告工具",
+          "机构合作伙伴关系",
+          "合规自动化"
+        ]
+      }
+    },
+    "keyAchievements": "关键成就",
+    "stats": {
+      "phasesCompleted": {
+        "value": "3/8",
+        "label": "已完成阶段"
+      },
+      "currentPhase": {
+        "value": "1",
+        "label": "当前阶段"
+      },
+      "timeline": {
+        "value": "24",
+        "label": "月时间线"
+      },
+      "totalPhases": {
+        "value": "8",
+        "label": "总阶段"
+      }
+    },
+    "cta": {
+      "title": "保持更新",
+      "subtitle": "注册Laxce更新和新闻。获得重大里程碑的通知，并首先访问新功能。",
+      "joinCommunity": "加入我们的社区"
+    }
+  },
+  "termsOfService": {
+    "hero": {
+      "title": "服务条款",
+      "lastUpdated": "最后更新",
+      "effectiveDate": "生效日期"
+    },
+    "services": {
+      "wallet": {
+        "title": "Laxce钱包",
+        "description": "具有多链支持的安全加密货币钱包"
+      },
+      "dex": {
+        "title": "Laxce DEX",
+        "description": "用于代币交易的去中心化交易所"
+      },
+      "bridge": {
+        "title": "Laxce桥",
+        "description": "跨链资产转移服务"
+      }
+    },
+    "cta": {
+      "questions": "关于条款的问题？",
+      "contactLegal": "联系法律团队",
+      "viewPrivacyPolicy": "查看隐私政策",
+      "backToHome": "返回首页"
+    }
+  }
+} 

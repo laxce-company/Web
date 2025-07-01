@@ -1,0 +1,719 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222.2 84% 4.9%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96%;
+    --accent-foreground: 222.2 84% 4.9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground transition-colors duration-300;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Light theme styles */
+.light {
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 50%, #cbd5e1 100%);
+  color: #1f2937;
+}
+
+.light body {
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 50%, #cbd5e1 100%);
+  color: #1f2937;
+}
+
+/* Dark theme styles */
+.dark {
+  background: linear-gradient(135deg, #0a0f1c 0%, #1a1f2e 50%, #0f141f 100%);
+  color: white;
+}
+
+.dark body {
+  background: linear-gradient(135deg, #0a0f1c 0%, #1a1f2e 50%, #0f141f 100%);
+  color: white;
+}
+
+/* Custom animations */
+@keyframes gradient {
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-gradient {
+  animation: gradient 6s ease infinite;
+}
+
+.bg-300\% {
+  background-size: 300% 300%;
+}
+
+/* Glassmorphism effects */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Enhanced hover effects */
+.hover-glow:hover {
+  box-shadow: 0 0 30px rgba(11, 171, 155, 0.3);
+}
+
+/* Floating animation */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Pulse glow */
+@keyframes pulse-glow {
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(11, 107, 171, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(11, 171, 155, 0.6);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #0b6bab, #0bab9b);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #0bab9b, #0b6bab);
+}
+
+/* Smooth animations */
+* {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Enhanced button hover effects */
+.btn-glow {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-glow::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s;
+}
+
+.btn-glow:hover::before {
+  left: 100%;
+}
+
+/* Particle animations */
+@keyframes particle-float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-20px) rotate(180deg);
+  }
+}
+
+.particle {
+  animation: particle-float 6s ease-in-out infinite;
+}
+
+/* Card hover effects */
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(11, 171, 155, 0.1);
+}
+
+/* Text shimmer effect */
+@keyframes text-shimmer {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+.text-shimmer {
+  background: linear-gradient(90deg, #0b6bab, #0bab9b, #0b6bab);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: text-shimmer 3s ease-in-out infinite;
+}
+
+/* Theme transition improvements */
+.theme-transition {
+  transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+}
+
+/* Enhanced focus states */
+.focus-ring:focus {
+  outline: 2px solid #0bab9b;
+  outline-offset: 2px;
+}
+
+/* Loading animation */
+@keyframes loading-pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.animate-loading {
+  animation: loading-pulse 1.5s ease-in-out infinite;
+}
+
+/* RTL Support */
+[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] * {
+  font-family: 'Inter', 'Segoe UI', 'Tahoma', 'Arial', sans-serif;
+}
+
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] .text-right {
+  text-align: left;
+}
+
+/* RTL Spacing fixes */
+[dir="rtl"] .space-x-2 > * + * {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+[dir="rtl"] .space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+[dir="rtl"] .space-x-4 > * + * {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+[dir="rtl"] .ml-2 {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+[dir="rtl"] .mr-2 {
+  margin-right: 0;
+  margin-left: 0.5rem;
+}
+
+[dir="rtl"] .ml-4 {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+[dir="rtl"] .mr-4 {
+  margin-right: 0;
+  margin-left: 1rem;
+}
+
+[dir="rtl"] .pl-4 {
+  padding-left: 0;
+  padding-right: 1rem;
+}
+
+[dir="rtl"] .pr-4 {
+  padding-right: 0;
+  padding-left: 1rem;
+}
+
+/* Navigation RTL fixes */
+[dir="rtl"] .nav-desktop {
+  direction: rtl;
+}
+
+[dir="rtl"] .nav-desktop .space-x-2 > * + * {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+[dir="rtl"] .nav-desktop .space-x-4 > * + * {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+[dir="rtl"] .nav-mobile {
+  direction: rtl;
+}
+
+[dir="rtl"] .nav-mobile .space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+/* Button spacing fixes */
+[dir="rtl"] .btn-group {
+  direction: rtl;
+}
+
+[dir="rtl"] .btn-group > * + * {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+/* Social media buttons spacing */
+[dir="rtl"] .social-links {
+  direction: ltr !important; /* Keep social links LTR for better icon alignment */
+}
+
+[dir="rtl"] .social-links .space-x-4 > * + * {
+  margin-left: 1rem !important;
+  margin-right: 0 !important;
+}
+
+/* Social links specific */
+.social-links {
+  gap: 1rem;
+}
+
+.social-links > * {
+  flex-shrink: 0;
+}
+
+/* Theme toggle and app dropdown spacing */
+[dir="rtl"] .header-actions {
+  direction: rtl;
+}
+
+[dir="rtl"] .header-actions .space-x-4 > * + * {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+[dir="rtl"] .header-actions .space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+/* Header actions specific */
+.header-actions {
+  gap: 1rem;
+}
+
+.header-actions > * {
+  flex-shrink: 0;
+}
+
+/* Language dropdown spacing */
+[dir="rtl"] .language-dropdown {
+  direction: rtl;
+}
+
+[dir="rtl"] .language-dropdown .space-x-2 > * + * {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+[dir="rtl"] .language-dropdown .space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+/* Language dropdown button specific */
+.language-dropdown {
+  gap: 0.5rem;
+}
+
+.language-dropdown > * {
+  flex-shrink: 0;
+}
+
+/* Mobile menu spacing */
+[dir="rtl"] .mobile-menu-actions {
+  direction: rtl;
+}
+
+[dir="rtl"] .mobile-menu-actions .space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+/* Mobile actions specific */
+[dir="rtl"] .mobile-actions {
+  direction: rtl;
+  gap: 1rem;
+}
+
+[dir="rtl"] .mobile-actions .gap-4 {
+  gap: 1rem;
+}
+
+/* Ensure buttons don't overlap in mobile */
+.mobile-menu-actions {
+  gap: 0.75rem;
+}
+
+.mobile-menu-actions > * {
+  flex-shrink: 0;
+}
+
+.mobile-actions {
+  gap: 1rem;
+}
+
+.mobile-actions > * {
+  flex-shrink: 0;
+}
+
+/* Flex direction fixes for RTL */
+[dir="rtl"] .flex-row-reverse {
+  flex-direction: row;
+}
+
+[dir="rtl"] .flex-row {
+  flex-direction: row-reverse;
+}
+
+/* Ensure proper gap spacing in RTL */
+[dir="rtl"] .gap-2 {
+  gap: 0.5rem;
+}
+
+[dir="rtl"] .gap-3 {
+  gap: 0.75rem;
+}
+
+[dir="rtl"] .gap-4 {
+  gap: 1rem;
+}
+
+/* Hero Section RTL Styles */
+[dir="rtl"] .hero-section {
+  text-align: center;
+  direction: rtl;
+}
+
+[dir="rtl"] .hero-title {
+  text-align: center;
+  margin: 0 auto;
+  direction: rtl;
+  line-height: 1.1;
+}
+
+[dir="rtl"] .hero-description {
+  text-align: center;
+  margin: 0 auto;
+  direction: rtl;
+  line-height: 1.6;
+}
+
+[dir="rtl"] .hero-stats {
+  text-align: center;
+  direction: rtl;
+}
+
+[dir="rtl"] .hero-stats .stat-item {
+  text-align: center;
+  direction: rtl;
+}
+
+/* Badge RTL styles */
+[dir="rtl"] .hero-badge {
+  direction: rtl;
+  text-align: center;
+}
+
+/* Button RTL styles */
+[dir="rtl"] .hero-buttons {
+  direction: rtl;
+  justify-content: center;
+}
+
+/* Ensure proper centering for RTL */
+[dir="rtl"] .flex.flex-col.items-center {
+  align-items: center;
+}
+
+[dir="rtl"] .justify-center {
+  justify-content: center;
+}
+
+[dir="rtl"] .mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+[dir="rtl"] .text-center {
+  text-align: center !important;
+}
+
+/* Grid RTL adjustments */
+[dir="rtl"] .grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .grid-cols-2,
+[dir="rtl"] .grid-cols-4,
+[dir="rtl"] .md\\:grid-cols-4 {
+  direction: rtl;
+}
+
+/* Stats grid specific */
+[dir="rtl"] .stats-grid {
+  direction: rtl;
+  text-align: center;
+}
+
+[dir="rtl"] .stats-grid > div {
+  text-align: center;
+  direction: rtl;
+}
+
+/* Footer remains LTR */
+.footer-container {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+.footer-container * {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+.footer-logo {
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}
+
+.footer-social {
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}
+
+.footer-links {
+  text-align: left !important;
+}
+
+.footer-links ul {
+  text-align: left !important;
+}
+
+.footer-links li {
+  text-align: left !important;
+}
+
+/* Roadmap section RTL fixes */
+[dir="rtl"] .roadmap-section {
+  direction: rtl;
+}
+
+[dir="rtl"] .roadmap-phase {
+  direction: rtl;
+}
+
+[dir="rtl"] .roadmap-phase .flex.items-center.space-x-4 {
+  direction: rtl;
+}
+
+[dir="rtl"] .roadmap-phase .flex.items-center.space-x-4 > * + * {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+[dir="rtl"] .roadmap-phase .flex.items-center.space-x-3 {
+  direction: rtl;
+}
+
+[dir="rtl"] .roadmap-phase .flex.items-center.space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+[dir="rtl"] .roadmap-items .flex.items-center.space-x-3 {
+  direction: rtl;
+}
+
+[dir="rtl"] .roadmap-items .flex.items-center.space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+/* Roadmap specific spacing */
+.roadmap-phase {
+  gap: 1rem;
+}
+
+.roadmap-phase > * {
+  flex-shrink: 0;
+}
+
+.roadmap-items {
+  gap: 0.75rem;
+}
+
+.roadmap-items > * {
+  flex-shrink: 0;
+}
+
+/* Badge spacing in roadmap */
+[dir="rtl"] .roadmap-badge .flex.items-center.space-x-1 {
+  direction: rtl;
+}
+
+[dir="rtl"] .roadmap-badge .flex.items-center.space-x-1 > * + * {
+  margin-left: 0;
+  margin-right: 0.25rem;
+}
+
+/* Features section RTL fixes */
+[dir="rtl"] .features-section {
+  direction: rtl;
+}
+
+[dir="rtl"] .features-card {
+  direction: rtl;
+}
+
+/* Feature badge positioning for RTL */
+[dir="rtl"] .feature-badge {
+  left: -0.5rem;
+  right: auto;
+}
+
+[dir="rtl"] .absolute.-top-2.-right-2 {
+  left: -0.5rem;
+  right: auto;
+}
+
+/* Roadmap page specific RTL adjustments */
+/* Keep icons on the left side, only adjust text spacing */
+[dir="rtl"] .roadmap-card-header {
+  flex-direction: row; /* Keep normal direction */
+}
+
+/* More space between the blue square icon and the text content */
+[dir="rtl"] .roadmap-card-header .space-x-4 > * + * {
+  margin-left: 2rem; /* More space between blue icon box and text */
+  margin-right: 0;
+}
+
+/* Add more space between date and status badge in Arabic */
+[dir="rtl"] .roadmap-card-badge .space-x-3 > * + * {
+  margin-left: 1.25rem; /* More space between date and status */
+  margin-right: 0;
+}
+
+[dir="rtl"] .roadmap-card-badge .space-x-1 > * + * {
+  margin-left: 0.75rem; /* More space inside badge between icon and text */
+  margin-right: 0;
+}
+
+/* Keep bullet points on the left, add space for Arabic text */
+[dir="rtl"] .roadmap-achievements .space-x-3 > * + * {
+  margin-left: 1.25rem; /* More space between bullet and text */
+  margin-right: 0;
+}
