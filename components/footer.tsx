@@ -40,34 +40,39 @@ export function Footer() {
 
   const selectedLanguage = languages.find(lang => lang.code === finalLocale)?.name || "English"
 
+  // Helper function to create localized links
+  const createLocalizedLink = (path: string) => {
+    return `/${finalLocale}${path}`
+  }
+
   // Move arrays inside component to recalculate when language changes
   const productLinks = useMemo(() => [
-    { name: t('footer.links.wallet'), href: "/wallet", description: t('footer.links.walletDescription') },
-    { name: t('footer.links.dex'), href: "/dex", description: t('footer.links.dexDescription') },
+    { name: t('footer.links.wallet'), href: createLocalizedLink("/wallet"), description: t('footer.links.walletDescription') },
+    { name: t('footer.links.dex'), href: createLocalizedLink("/dex"), description: t('footer.links.dexDescription') },
     { name: t('footer.links.bridge'), href: "#", description: t('footer.links.bridgeDescription') },
     { name: t('footer.links.staking'), href: "#", description: t('footer.links.stakingDescription') },
-  ], [t])
+  ], [t, finalLocale])
 
   const resourceLinks = useMemo(() => [
-    { name: t('footer.links.roadmap'), href: "/roadmap", icon: <FileText className="w-4 h-4" /> },
-    { name: t('footer.links.whitepaper'), href: "/whitepaper", icon: <FileText className="w-4 h-4" /> },
-    { name: t('footer.links.tokenomics'), href: "/tokenomics", icon: <FileText className="w-4 h-4" /> },
+    { name: t('footer.links.roadmap'), href: createLocalizedLink("/roadmap"), icon: <FileText className="w-4 h-4" /> },
+    { name: t('footer.links.whitepaper'), href: createLocalizedLink("/whitepaper"), icon: <FileText className="w-4 h-4" /> },
+    { name: t('footer.links.tokenomics'), href: createLocalizedLink("/tokenomics"), icon: <FileText className="w-4 h-4" /> },
     { name: t('footer.links.documentation'), href: "#", icon: <FileText className="w-4 h-4" /> },
-  ], [t])
+  ], [t, finalLocale])
 
   const companyLinks = useMemo(() => [
-    { name: t('footer.links.aboutUs'), href: "/about" },
+    { name: t('footer.links.aboutUs'), href: createLocalizedLink("/about") },
     { name: t('footer.links.careers'), href: "#" },
     { name: t('footer.links.pressKit'), href: "#" },
     { name: t('footer.links.contact'), href: "#" },
-  ], [t])
+  ], [t, finalLocale])
 
   const legalLinks = useMemo(() => [
-    { name: t('footer.links.privacyPolicy'), href: "/privacy-policy" },
-    { name: t('footer.links.termsOfService'), href: "/terms-of-service" },
-    { name: t('footer.links.security'), href: "/security" },
+    { name: t('footer.links.privacyPolicy'), href: createLocalizedLink("/privacy-policy") },
+    { name: t('footer.links.termsOfService'), href: createLocalizedLink("/terms-of-service") },
+    { name: t('footer.links.security'), href: createLocalizedLink("/security") },
     { name: t('footer.links.audits'), href: "#" },
-  ], [t])
+  ], [t, finalLocale])
 
   const socialLinks = useMemo(() => [
     { 
@@ -126,7 +131,8 @@ export function Footer() {
     // Build new path with selected language
     const newPathname = `/${languageCode}${cleanPath === '/' ? '' : cleanPath}`
     
-    router.push(newPathname)
+    // Use window.location for better compatibility with Vercel
+    window.location.href = newPathname
     setIsLanguageOpen(false)
   }
 
